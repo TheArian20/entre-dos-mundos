@@ -26,3 +26,6 @@
   .cards .featured:hover { transform: translateY(-10px); }
 }
 @media (prefers-reduced-motion:reduce) { *,*::before,*::after { animation:none!important; scroll-behavior:auto!important; transition:none!important; } .reveal{opacity:1;transform:none} }
+.chapter-picker { display:block; margin-top:35px; font:600 9px 'DM Sans',sans-serif; letter-spacing:.18em; color:var(--wine); }
+.chapter-picker select { display:block; width:100%; margin-top:10px; padding:12px; border:1px solid var(--line); background:var(--paper); color:var(--ink); font:12px 'DM Sans',sans-serif; }
+.site.dark .chapter-picker select { background:#292630; color:#f6efed; }
