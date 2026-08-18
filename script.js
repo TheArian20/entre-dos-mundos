@@ -56,3 +56,22 @@ let activeChapter=0;
 const chapterView=document.querySelector('#chapter'),chapterNumber=document.querySelector('#chapter-number'),chapterTitle=document.querySelector('#chapter-title'),readingTime=document.querySelector('#reading-time'),chapterSelect=document.querySelector('#chapter-select'),previous=document.querySelector('#previous'),next=document.querySelector('#next');
 function renderChapter(index,scroll=false){activeChapter=index;const item=publishedChapters[index];chapterNumber.textContent=`CAPÍTULO ${String(index+1).padStart(2,'0')}`;chapterTitle.innerHTML=item.title.replace(' ','<br><em>')+'</em>';readingTime.textContent=`Tiempo de lectura · ${item.minutes} min`;chapterView.innerHTML=item.paragraphs.map(p=>`<p>${p}</p>`).join('')+`<div class="end">FIN DEL CAPÍTULO ${String(index+1).padStart(2,'0')}</div>`;chapterSelect.value=String(index);previous.disabled=index===0;next.disabled=index===publishedChapters.length-1;next.textContent=index===publishedChapters.length-1?'Continuará…':'Siguiente →';const key=`chapter${index+1}`;save.textContent=localStorage.getItem(key)==='saved'?'✓ Capítulo guardado':'♡ Guardar capítulo';if(scroll)document.querySelector('#leer').scrollIntoView({behavior:'smooth'})}
 chapterSelect.onchange=()=>renderChapter(Number(chapterSelect.value),true);previous.onclick=()=>activeChapter>0&&renderChapter(activeChapter-1,true);next.onclick=()=>activeChapter<publishedChapters.length-1&&renderChapter(activeChapter+1,true);save.onclick=()=>{const key=`chapter${activeChapter+1}`,on=localStorage.getItem(key)!=='saved';localStorage.setItem(key,on?'saved':'');save.textContent=on?'✓ Capítulo guardado':'♡ Guardar capítulo'};renderChapter(0);
+
+function manuscriptChapters(markdown){
+ const markers=[...markdown.matchAll(/^# Capítulo (\d+)\r?$/gm)];
+ return markers.map((marker,index)=>{
+  const block=markdown.slice(marker.index,markers[index+1]?.index??markdown.length).replace(/\r/g,'');
+  const title=(block.match(/^## (.+)$/m)||[])[1]||`Capítulo ${marker[1]}`;
+  const body=block.slice(block.indexOf(`## ${title}`)+title.length+3).replace(/\n---\s*$/,'').trim();
+  const paragraphs=body.split(/\n\s*\n/).map(text=>text.trim()).filter(text=>text&&text!=='---').map(text=>text.replace(/^\*\*(.+)\*\*$/,'$1'));
+  const words=body.split(/\s+/).length;
+  return {title,minutes:Math.max(2,Math.ceil(words/190)),paragraphs};
+ });
+}
+fetch('manuscrito.md').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el manuscrito');return response.text()}).then(markdown=>{
+ const chapters=manuscriptChapters(markdown).slice(0,20);
+ if(!chapters.length)return;
+ publishedChapters.splice(0,publishedChapters.length,...chapters);
+ chapterSelect.innerHTML=chapters.map((item,index)=>`<option value="${index}">${String(index+1).padStart(2,'0')} · ${item.title}</option>`).join('');
+ renderChapter(0);
+}).catch(error=>console.warn(error.message));
