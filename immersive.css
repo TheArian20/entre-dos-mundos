@@ -1,0 +1,28 @@
+.hero {
+  isolation: isolate;
+  background-image: linear-gradient(90deg, rgba(10,14,26,.72) 0%, rgba(12,14,24,.18) 47%, rgba(38,15,22,.30) 100%), url('public/hero-novela.png');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.hero::after { opacity: .3; z-index: -1; animation: pulse-ring 7s ease-in-out infinite; }
+.hero .eyebrow, .hero h1 em { color: #f3a4b5; }
+.hero .lead { color: #f4ebec; text-shadow: 0 2px 18px #000; }
+.hero h1 { text-shadow: 0 5px 35px rgba(0,0,0,.55); }
+.hero .signal { text-shadow: 0 2px 12px #000; }
+.hero .player { color: var(--ink); animation: float-card 5s ease-in-out infinite; }
+.hero .player.two { animation-delay: -2.5s; }
+.reveal { opacity: 0; transform: translateY(35px); transition: opacity .8s ease, transform .8s cubic-bezier(.2,.7,.2,1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+.cards article { transition: transform .35s ease, box-shadow .35s ease; }
+.cards article:hover { transform: translateY(-10px); box-shadow: 0 24px 55px rgba(0,0,0,.25); }
+.cards .featured:hover { transform: translateY(-22px); }
+@keyframes float-card { 50% { transform: translateY(-9px); } }
+@keyframes pulse-ring { 50% { transform: scale(1.04); opacity: .48; } }
+@media (max-width:760px) {
+  .hero { background-position: 42% center; }
+  .hero::before { content:""; position:absolute; inset:0; z-index:-1; background:linear-gradient(180deg,rgba(7,9,18,.28),rgba(7,9,18,.7)); }
+  .hero h1 { font-size:58px; }
+  .cards .featured:hover { transform: translateY(-10px); }
+}
+@media (prefers-reduced-motion:reduce) { *,*::before,*::after { animation:none!important; scroll-behavior:auto!important; transition:none!important; } .reveal{opacity:1;transform:none} }
