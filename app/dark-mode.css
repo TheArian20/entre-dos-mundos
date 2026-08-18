@@ -1,0 +1,15 @@
+.site.dark {
+  --ink: #f4eeeb;
+  --paper: #1d1b22;
+  --wine: #e58aa0;
+  --rose: #efacba;
+  --line: #514b57;
+}
+.site.dark nav { background: rgba(29, 27, 34, .94); }
+.site.dark .hero { background: radial-gradient(circle at 78% 45%, rgba(229,138,160,.18), transparent 25%), #1d1b22; }
+.site.dark .lead, .site.dark .synopsis p { color: #ddd3d2; }
+.site.dark .reader { background: #1d1b22; }
+.site.dark .book { background: #27242c; color: #f5efec; border: 1px solid #49434e; border-radius: 4px; padding: clamp(24px,5vw,58px); box-shadow: 0 24px 70px rgba(0,0,0,.28); }
+.site.dark .book p { color: #f2ebe8; }
+.site.dark .reader-actions button { border-color: #69616d; background: #292630; color: #f6efed; }
+.site.dark .reader-actions button:disabled { color: #989099; }
