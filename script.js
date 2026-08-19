@@ -68,10 +68,14 @@ function manuscriptChapters(markdown){
   return {title,minutes:Math.max(2,Math.ceil(words/190)),paragraphs};
  });
 }
-fetch('manuscrito.md').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el manuscrito');return response.text()}).then(markdown=>{
- const chapters=manuscriptChapters(markdown).slice(0,20);
+function applyFullChapters(chapters){
  if(!chapters.length)return;
  publishedChapters.splice(0,publishedChapters.length,...chapters);
  chapterSelect.innerHTML=chapters.map((item,index)=>`<option value="${index}">${String(index+1).padStart(2,'0')} · ${item.title}</option>`).join('');
  renderChapter(0);
-}).catch(error=>console.warn(error.message));
+}
+if(Array.isArray(window.CHAPTERS)&&window.CHAPTERS.length){
+ applyFullChapters(window.CHAPTERS.slice(0,20));
+}else{
+ fetch('manuscrito.md').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el manuscrito');return response.text()}).then(markdown=>applyFullChapters(manuscriptChapters(markdown).slice(0,20))).catch(error=>console.warn(error.message));
+}
