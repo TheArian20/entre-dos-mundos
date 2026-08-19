@@ -82,3 +82,23 @@ if(Array.isArray(window.CHAPTERS)&&window.CHAPTERS.length){
 
 const publicationStatus=document.querySelector('footer small');
 if(publicationStatus)publicationStatus.textContent='LIBRO EN DESARROLLO · 60 DE 100 CAPÍTULOS DISPONIBLES';
+
+const readingProgressKey='entreDosMundosReadingProgress';
+const progressPanel=document.createElement('section');
+progressPanel.className='reading-progress';
+progressPanel.setAttribute('aria-labelledby','progress-title');
+progressPanel.innerHTML=`<div><p class="section-no">TU LECTURA</p><h2 id="progress-title">Continúa donde<br>te quedaste.</h2></div><div class="progress-card"><span id="progress-label">Aún no has comenzado</span><strong id="progress-chapter">Capítulo 01</strong><div class="progress-track"><i id="progress-bar"></i></div><small id="progress-percent">0% del capítulo</small><div class="progress-buttons"><button id="continue-reading">Comenzar a leer</button><button id="clear-progress" class="secondary-progress">Borrar progreso</button></div></div>`;
+document.querySelector('#leer').before(progressPanel);
+const progressLabel=document.querySelector('#progress-label'),progressChapter=document.querySelector('#progress-chapter'),progressBar=document.querySelector('#progress-bar'),progressPercent=document.querySelector('#progress-percent'),continueReading=document.querySelector('#continue-reading'),clearProgress=document.querySelector('#clear-progress');
+function getReadingProgress(){try{return JSON.parse(localStorage.getItem(readingProgressKey))}catch{return null}}
+function showReadingProgress(progress=getReadingProgress()){const valid=progress&&Number.isInteger(progress.chapter)&&progress.chapter>=0&&progress.chapter<publishedChapters.length;const chapter=valid?progress.chapter:0,ratio=valid?Math.min(1,Math.max(0,Number(progress.ratio)||0)):0,item=publishedChapters[chapter];progressLabel.textContent=valid?'Última lectura guardada':'Aún no has comenzado';progressChapter.textContent=`Capítulo ${String(chapter+1).padStart(2,'0')} · ${item?.title||''}`;progressBar.style.width=`${Math.round(ratio*100)}%`;progressPercent.textContent=`${Math.round(ratio*100)}% del capítulo`;continueReading.textContent=valid?'Continuar leyendo':'Comenzar a leer'}
+function storeReadingProgress(ratio=0){const progress={chapter:activeChapter,ratio:Math.min(1,Math.max(0,ratio)),updatedAt:Date.now()};localStorage.setItem(readingProgressKey,JSON.stringify(progress));showReadingProgress(progress)}
+function openSavedProgress(){const saved=getReadingProgress(),chapter=saved&&Number.isInteger(saved.chapter)?Math.min(saved.chapter,publishedChapters.length-1):0,ratio=saved?.ratio||0;renderChapter(chapter,false);requestAnimationFrame(()=>{const top=chapterView.getBoundingClientRect().top+window.scrollY-110,travel=Math.max(0,chapterView.offsetHeight-window.innerHeight*.45);window.scrollTo({top:top+travel*ratio,behavior:'smooth'})})}
+continueReading.addEventListener('click',openSavedProgress);
+clearProgress.addEventListener('click',()=>{localStorage.removeItem(readingProgressKey);showReadingProgress(null)});
+chapterSelect.addEventListener('change',()=>setTimeout(()=>storeReadingProgress(0)));
+previous.addEventListener('click',()=>setTimeout(()=>storeReadingProgress(0)));
+next.addEventListener('click',()=>setTimeout(()=>storeReadingProgress(0)));
+let progressTimer;
+window.addEventListener('scroll',()=>{clearTimeout(progressTimer);progressTimer=setTimeout(()=>{const start=chapterView.getBoundingClientRect().top+window.scrollY-110,end=start+Math.max(1,chapterView.offsetHeight-window.innerHeight*.45),ratio=(window.scrollY-start)/(end-start);if(ratio>=0&&ratio<=1.15)storeReadingProgress(ratio)},120)},{passive:true});
+showReadingProgress();
