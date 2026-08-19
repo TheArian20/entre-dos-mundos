@@ -1,4 +1,4 @@
-# Entre dos mundos
+﻿# Entre dos mundos
 
 ## Una historia de amor que comenzó en línea
 
@@ -1458,3 +1458,770 @@ En la pantalla, sus personajes permanecían frente a la casa virtual. Todo habí
 Ahora estaban creando otro hogar, uno verdadero.
 
 Y aunque ninguno podía saber cuánto tendrían que luchar para conservarlo, por primera vez estaban preparados para hacerlo juntos.
+
+---
+
+# Capítulo 21
+
+## El lunes después del para siempre
+
+El lunes llegó sin pedir permiso.
+
+Méndez despertó en su apartamento pequeño, quemó el café y llegó tarde a una reunión que él mismo había convocado. Michelle encontró dos pedidos equivocados en el negocio de su tío y Gigi olvidó una tarea sobre la mesa.
+
+El amor no había detenido el mundo.
+
+Durante el almuerzo, Méndez recibió una fotografía de los panqueques del domingo.
+
+**Michelle: Gigi dice que el próximo intento puede considerarse comida.**
+
+Él sonrió, pero la alegría duró poco. Uno de los directores le informó que su abuelo estaba convenciendo a los socios de retirarle autoridad.
+
+—Dicen que tus decisiones personales demuestran inestabilidad.
+
+Méndez miró la pulsera de hilo.
+
+—Entonces tendremos que demostrar que la empresa no depende de controlar mi vida.
+
+Esa noche llegó cansado a casa de Michelle. Ella no preparó una velada perfecta. Le entregó una bolsa de basura y le pidió que ayudara a ordenar.
+
+Méndez obedeció.
+
+Mientras lavaban platos, comprendió que aquello era lo que había deseado sin conocerlo: no grandes promesas, sino un lugar donde también esperaban que hiciera su parte.
+
+Después de ordenar, Gigi apareció con su cuaderno de matemáticas y se sentó junto a él. Méndez intentó explicarle una división utilizando términos financieros hasta que la niña frunció el ceño.
+
+—No estoy comprando una empresa —protestó—. Solo quiero repartir doce galletas.
+
+Michelle rio desde la cocina. Méndez volvió a empezar con un dibujo y doce círculos torcidos. Cuando Gigi comprendió el ejercicio, levantó los brazos como si hubieran ganado otra partida.
+
+Al regresar a su apartamento, Méndez descubrió que ya no recordaba los resultados de la reunión matutina. En cambio, podía describir exactamente la sonrisa de Gigi cuando resolvió la división. El lunes había sido agotador, imperfecto y más valioso que muchas de sus jornadas exitosas.
+
+Se quitó los zapatos en la entrada y dejó las llaves dentro de un recipiente que Michelle le había regalado. La casa permaneció en silencio. Durante años había considerado el silencio una prueba de orden; ahora le parecía la evidencia de que nadie lo esperaba despierto.
+
+Abrió la nevera. Había un recipiente con comida y una nota escrita por Michelle: **Calentar dos minutos. No intentes mejorar la receta.**
+
+Méndez sonrió y obedeció. Mientras cenaba de pie, recibió una videollamada de Gigi.
+
+—Necesito comprobar algo —anunció la niña.
+
+—¿La división?
+
+—No. ¿Conectaste la nevera después de limpiarla?
+
+Méndez giró la cámara. El cable estaba en su lugar.
+
+—Estoy progresando.
+
+—Mamá dice que progresar es no repetir el mismo desastre.
+
+Michelle apareció detrás de ella con el cabello recogido y expresión cansada.
+
+—Tu hija acaba de auditar mi cocina —dijo Méndez.
+
+—Mi hija —corrigió Michelle con suavidad.
+
+La frase no fue cruel, pero los dos percibieron el límite. Méndez bajó la mirada.
+
+—Lo sé.
+
+Michelle se arrepintió de inmediato. No quería expulsarlo, solo proteger un territorio que Dylan había utilizado demasiadas veces para lastimarla.
+
+—No quise decir que no formes parte de esto —explicó—. Solo necesito que vayamos despacio con Gigi.
+
+—Puedo hacerlo.
+
+—¿Incluso si ella no va despacio?
+
+Desde el fondo, Gigi gritó que podía escucharlos. Los dos rieron y la tensión disminuyó. Sin embargo, al terminar la llamada, Méndez comprendió que amar a una madre significaba entrar en una historia que ya había comenzado. No podía elegir únicamente los capítulos agradables ni ocupar espacios que no le pertenecían.
+
+Antes de dormir organizó su agenda. Canceló una cena empresarial y reservó el miércoles para ayudar a Gigi con una presentación escolar. En otra parte de la ciudad, Michelle vio la invitación: **Presentación de ciencias de Gigi. Prioridad alta.** La captura le pareció graciosa y profundamente tierna. La guardó sin decirle nada.
+
+---
+
+# Capítulo 22
+
+## Un lugar en la mesa
+
+El tío de Michelle invitó a Méndez a cenar.
+
+No fue una bienvenida formal. Quería observar al joven lejos de Michelle y hacerle preguntas que ella quizá no se atrevía a formular.
+
+—¿Qué ocurrirá cuando te canses de jugar a la vida sencilla? —preguntó.
+
+—No estoy jugando.
+
+—Tienes veintiún años. A esa edad todos creemos que nuestras decisiones durarán para siempre.
+
+Méndez no se ofendió.
+
+—No puedo prometer que nunca me equivocaré. Puedo prometer que no usaré mi dinero para escapar cuando ocurra.
+
+El tío colocó otro plato sobre la mesa.
+
+—Si vas a estar aquí, tendrás un lugar. Pero también tendrás responsabilidades.
+
+Gigi apareció con una cartulina y escribió el nombre de Méndez en una silla.
+
+Michelle observó la escena desde la cocina. Su familia no se parecía a la de él: discutían, se interrumpían y usaban platos diferentes. Sin embargo, nadie tenía que ganarse el derecho a ser querido.
+
+Méndez se sentó en la silla marcada. Por primera vez, un lugar en la mesa no dependía de su apellido.
+
+La conversación continuó con historias sobre la infancia de Michelle. Su tío contó cómo ella desarmaba aparatos para dibujar cada pieza y cómo una vez decoró las paredes del negocio sin pedir permiso.
+
+—Tenía doce años —se defendió Michelle.
+
+—Y tardamos tres días en quitar la pintura.
+
+Méndez escuchó fascinado. Él no poseía anécdotas semejantes; su infancia parecía un calendario de clases privadas. Cuando se lo dijo, el tío de Michelle sirvió otra porción de comida.
+
+—Entonces tendrás que comenzar a acumular historias ahora.
+
+Al final de la cena, Méndez ayudó a recoger la mesa. Rompió un vaso y esperó una reprimenda. El tío solo le entregó una escoba.
+
+—Aquí las cosas rotas se limpian. No se convierten en una tragedia.
+
+Méndez sospechó que no hablaba únicamente del vaso.
+
+Después de cenar, el tío invitó a Méndez a caminar hasta el negocio. Quería mostrarle las instalaciones sin Michelle cerca.
+
+El local ocupaba la planta baja de un edificio antiguo. Había estanterías llenas de cajas, una computadora que tardaba demasiado en encender y una pared cubierta con facturas sujetas por chinches.
+
+—Esto no se parece a tus empresas —dijo el hombre.
+
+—Todas tienen problemas parecidos. Solo cambia la cantidad de ceros.
+
+—No. Aquí, si pierdo un cliente, quizá no pueda pagarle a alguien el viernes. En tus juntas, una pérdida se convierte en un porcentaje.
+
+Méndez recorrió con la mirada los nombres escritos en un calendario: entregas, anticipos y sueldos. Comprendió que su respuesta había sido arrogante sin intención de serlo.
+
+—Tienes razón.
+
+El tío abrió un cajón y sacó una fotografía antigua. Michelle aparecía embarazada, muy joven, sentada detrás del mostrador.
+
+—Dylan se fue poco después de que naciera Gigi. Ella no tenía ahorros ni experiencia. Le ofrecí trabajo porque era mi sobrina, pero se quedó porque se lo ganó.
+
+—No quiero hacerle daño —dijo Méndez.
+
+—Nadie empieza queriendo hacerlo. Lo importante es qué haces cuando tus deseos chocan con sus necesidades.
+
+Méndez le advirtió que su familia podía afectar el negocio.
+
+—Si llegan problemas por tu apellido —respondió el tío—, no desaparecerás y dejarás que Michelle los resuelva sola.
+
+Méndez extendió la mano. El hombre la estrechó.
+
+Cuando regresaron, Michelle estaba acostando a Gigi. Vio a los dos entrar juntos y sospechó que había ocurrido una conversación importante.
+
+—¿Sobreviviste al interrogatorio? —preguntó.
+
+—Apenas.
+
+Méndez ocupó su silla marcada. Ya no se sintió como un visitante. Tampoco como dueño de nada. Era algo nuevo y más difícil: alguien a quien estaban dando la oportunidad de pertenecer.
+
+---
+
+# Capítulo 23
+
+## El cuaderno de Michelle
+
+El cuaderno que Méndez le había regalado dejó de estar vacío.
+
+Michelle comenzó diseñando una nueva etiqueta para los paquetes del negocio de su tío. Después creó tarjetas, un catálogo y una identidad completa. Trabajaba por las noches, cuando Gigi dormía.
+
+—Deberías cobrar por esto —dijo su tío.
+
+—Solo estoy ayudando.
+
+—Ese es el problema. Llevas años llamando ayuda a lo que en realidad es talento.
+
+Méndez consiguió que una diseñadora revisara su portafolio sin decirle quién era Michelle. La respuesta fue clara: tenía capacidad, pero necesitaba formación.
+
+Cuando se lo contó, Michelle se puso a la defensiva.
+
+—No quiero que abras puertas por mí.
+
+—Solo pedí una opinión. Tú decidirás qué hacer con ella.
+
+Michelle se inscribió en un curso nocturno con dinero ahorrado de su trabajo. Méndez ofreció pagarlo y ella rechazó la propuesta.
+
+—Necesito saber que esto también lo construí yo.
+
+Él entendió. Amar a Michelle no consistía en eliminar todos sus obstáculos, sino en respetar la fuerza con que elegía superarlos.
+
+Las primeras clases resultaron más difíciles de lo que Michelle esperaba. Había olvidado cómo estudiar y se comparaba con compañeros más jóvenes que dominaban programas desconocidos. Una noche cerró la computadora convencida de que había cometido un error.
+
+—Soy demasiado vieja para empezar —murmuró.
+
+—Tienes treinta y dos, no noventa —dijo Méndez.
+
+—Tú dirigías empresas antes de poder beber legalmente en algunos países. No eres una referencia útil.
+
+Él se sentó a su lado y abrió el cuaderno.
+
+—Enséñame tu trabajo como si yo no supiera nada.
+
+Michelle comenzó con desgano, pero pronto hablaba de colores, espacios y tipografías con una seguridad que no reconocía en sí misma. Méndez no entendió todos los conceptos. Entendió lo importante: cuando ella diseñaba, su voz cambiaba. Sonaba como alguien que volvía a encontrarse.
+
+Durante las semanas siguientes, Michelle convirtió la mesa del comedor en un estudio improvisado. Gigi hacía tareas en una esquina mientras su madre practicaba composiciones en la otra. Había lápices dentro de tazas, muestras de colores pegadas en la pared y notas que aparecían hasta en la nevera.
+
+El primer proyecto consistía en diseñar la portada de una historia personal. Michelle dibujó dos mandos de videojuego separados por una línea de luz, pero borró la idea antes de terminarla.
+
+—¿Por qué? —preguntó Méndez.
+
+—No quiero que todo lo que haga trate sobre ti.
+
+—Entonces no lo hagas sobre mí. Hazlo sobre lo que cambió dentro de ti.
+
+Michelle comenzó otra vez. Dibujó una ventana abierta sobre una ciudad nocturna. En el reflejo, una mujer sostenía un lápiz en una mano y la mano de una niña en la otra. Al fondo había una figura, pero no ocupaba el centro.
+
+El profesor destacó el trabajo, aunque señaló problemas de técnica. Michelle regresó dividida entre orgullo y frustración.
+
+—A los demás les sale más rápido.
+
+—¿Cuánto tiempo llevan practicando?
+
+—Algunos, años.
+
+—Entonces te comparas con el capítulo veinte de otra persona cuando tú apenas comienzas el segundo.
+
+Una noche, Gigi se quedó dormida sobre sus ejercicios. Méndez la llevó a la cama mientras Michelle ordenaba. Al regresar, la encontró observando una antigua solicitud universitaria que nunca había enviado.
+
+—Pensaba que renunciar a estudiar era la prueba de que era una buena madre —confesó—. Como si desear algo para mí significara quitarle algo a Gigi.
+
+—¿Qué le enseñarías si vuelves a intentarlo?
+
+Michelle contempló el escritorio compartido.
+
+—Que los sueños pueden esperar, pero no tienen que morir.
+
+Al final del mes entregó su proyecto. No obtuvo la nota más alta. Obtuvo una suficiente para confirmar que pertenecía allí por su trabajo, no por la ayuda de Méndez ni por la compasión de nadie.
+
+---
+
+# Capítulo 24
+
+## La pregunta de la escuela
+
+Gigi debía presentar un trabajo titulado **Mi familia**.
+
+Dibujó a Michelle, a su tío, a sí misma y a Méndez. Cuando la profesora preguntó quién era aquel hombre, Gigi respondió:
+
+—Es el novio de mi mamá. Cumple promesas y está aprendiendo a cocinar.
+
+La descripción llegó hasta Dylan por medio de otra familia de la escuela.
+
+Esa tarde llamó furioso.
+
+—No permitiré que mi hija llame familia a un desconocido.
+
+—No lo llamó papá —respondió Michelle—. Dibujó a alguien que está presente.
+
+—Yo soy su padre.
+
+—Entonces compórtate como uno.
+
+Méndez supo de la discusión y quiso intervenir. Michelle se negó.
+
+—Este conflicto existía antes de ti. No puedes convertirte en el enemigo que Dylan necesita.
+
+Méndez aceptó mantenerse al margen, aunque le doliera. Comenzaba a comprender que querer a Gigi también significaba respetar el lugar que no le correspondía ocupar.
+
+Al día siguiente fue a recogerlas a la salida de la escuela, pero permaneció a cierta distancia. Gigi corrió hacia él con el trabajo doblado entre las manos.
+
+—La profesora dijo que una familia puede tener muchas formas.
+
+El dibujo mostraba a Méndez con una corbata enorme y a Michelle sosteniendo un lápiz. Dylan aparecía en una esquina, separado del resto por una línea azul.
+
+—¿Por qué lo dibujaste allí? —preguntó Michelle.
+
+—Porque también es mi familia, aunque casi nunca esté.
+
+La respuesta recordó a los adultos que el corazón de Gigi no estaba dividido en equipos. Podía querer a su padre y sentirse decepcionada por él. Podía querer a Méndez sin convertirlo en reemplazo de nadie.
+
+La profesora pidió hablar con Michelle en privado. Explicó que Gigi se mostraba más participativa, pero preocupada por la posibilidad de que Méndez desapareciera.
+
+—Dibuja puertas abiertas en casi todos sus trabajos —señaló—. Dice que así puede ver si alguien se va.
+
+Michelle sintió un peso en el pecho. Había intentado ocultar a su hija las ausencias de Dylan, inventando excusas y suavizando decepciones. Gigi había entendido de todos modos.
+
+Esa noche se sentó junto a ella.
+
+—No puedo prometerte que las personas nunca se irán. A veces las relaciones cambian.
+
+—¿Méndez también?
+
+—Espero que no. Pero aunque un adulto se vaya, nunca será porque tú no fuiste suficiente.
+
+Al día siguiente, Méndez llegó para la presentación de ciencias. Había rechazado una llamada de su abuelo y corrido dos calles para no llegar tarde. Gigi lo vio desde el escenario y dejó de apretar las tarjetas. Cuando la pequeña bombilla de su proyecto se encendió, buscó a Méndez entre el público. Él levantó ambos pulgares.
+
+Dylan apareció cuando todo había terminado.
+
+—El tráfico estaba imposible —se excusó.
+
+Fuera de la escuela, lo enfrentó.
+
+—Deja de ocupar mi lugar.
+
+—Tu lugar estuvo reservado toda la tarde —respondió Méndez—. Tú llegaste tarde.
+
+Michelle intervino antes de que escalaran. Pidió a Méndez que se marchara con Gigi y permaneció frente a Dylan.
+
+—No conviertas cada momento de nuestra hija en una competencia. Si quieres estar en el dibujo, aparece cuando ella todavía tiene el lápiz en la mano.
+
+Dylan se marchó sin despedirse. Aquella noche, Gigi añadió a su profesora al dibujo. Michelle entendió que su hija no buscaba reemplazos; estaba registrando quiénes elegían estar presentes.
+
+---
+
+# Capítulo 25
+
+## Los derechos de Dylan
+
+La notificación legal llegó al negocio del tío.
+
+Dylan solicitaba un régimen formal de visitas y acusaba a Michelle de alejarlo de Gigi por influencia de su nueva pareja.
+
+—Nunca le he impedido verla —dijo ella—. Él es quien desaparece.
+
+El abogado explicó que necesitarían guardar mensajes, fechas y pruebas. La vida de Michelle comenzó a convertirse en documentos.
+
+Méndez ofreció al mejor equipo legal de sus empresas. Ella aceptó únicamente una consulta.
+
+—Si tus abogados aparecen, Dylan dirá que intentas comprar a mi hija.
+
+—¿Y si él gana por no tener ayuda suficiente?
+
+—Encontraremos una forma que no te convierta en dueño del problema.
+
+La palabra dueño lo hirió, aunque sabía que Michelle no pretendía hacerlo.
+
+Esa noche discutieron por primera vez sin intervención de terceros. Él confundía proteger con resolver; ella confundía aceptar ayuda con perder independencia.
+
+Terminaron sentados en extremos distintos del sofá.
+
+Gigi apareció con tres vasos de agua.
+
+—Para discutir hay que hidratarse —anunció.
+
+Ambos rieron. El conflicto no desapareció, pero recordaron que podían enfrentarlo sin destruirse.
+
+Cuando Gigi volvió a su habitación, Michelle se acercó un poco.
+
+—Me cuesta aceptar ayuda porque Dylan siempre la convertía en una deuda —explicó—. Cada favor terminaba siendo una razón para decidir por mí.
+
+Méndez bajó la mirada.
+
+—En mi familia, pagar algo significa poseer una parte. A veces hago lo mismo sin darme cuenta.
+
+Hablaron hasta definir límites: él podía ofrecer opciones, pero no contratar personas ni entregar dinero sin consultarla. Michelle, por su parte, prometió no rechazar automáticamente toda ayuda solo por miedo.
+
+No era un acuerdo romántico. No hubo beso al finalizar. Sin embargo, ambos sintieron que acababan de construir algo más difícil que una promesa: una manera de cuidarse sin quitarse libertad.
+
+La consulta legal se celebró dos días después. La abogada pidió a Michelle una cronología de las visitas de Dylan. Ella abrió una libreta donde había anotado fechas durante años: cumpleaños olvidados, transferencias incompletas, mensajes enviados a medianoche y semanas sin noticias.
+
+Méndez esperó afuera. Podía verlos a través del cristal, pero no escuchar. La impotencia lo obligó a caminar de un extremo al otro del pasillo.
+
+Cuando Michelle salió, tenía los ojos enrojecidos.
+
+—No ocurrió nada inesperado —dijo—. Solo tuve que pronunciar cosas que llevaba años normalizando.
+
+Se sentaron en una banca. La abogada creía que el caso de Michelle era sólido, aunque Dylan podía obtener visitas formales si demostraba que podía cuidar a Gigi.
+
+—Me preocupa que cumpla unas semanas solo para ganar y luego vuelva a desaparecer —confesó.
+
+Méndez quiso asegurarle que no ocurriría, pero no podía prometer por otro hombre.
+
+—¿Qué necesitas de mí?
+
+—Que no hables con él. Que no le des mensajes que pueda usar. Y que, cuando esté asustada, no conviertas mi miedo en algo que debas resolver inmediatamente.
+
+—Puedo escuchar.
+
+—No eres muy bueno.
+
+—Puedo aprender.
+
+El domingo, Dylan llegó cuarenta minutos tarde para llevar a Gigi al zoológico, pero llegó. Michelle verificó el número de contacto y vio alejarse el automóvil.
+
+Méndez permaneció a su lado sin tocarla hasta que ella buscó su mano.
+
+—Esto necesito —dijo—. No que impidas que se vaya. Que estés aquí mientras aprendo a dejarla ir.
+
+Durante tres horas esperaron juntos. Cuando Gigi regresó hablando emocionada de los elefantes, Michelle respiró con tranquilidad. Dylan había cumplido una promesa. No borraba las anteriores, pero era un comienzo que ninguno podía ignorar.
+
+---
+
+# Capítulo 26
+
+## Una oferta demasiado buena
+
+Una compañía desconocida ofreció comprar el negocio del tío de Michelle por una cantidad absurda.
+
+El tío sospechó de inmediato. Méndez revisó los documentos y encontró una empresa intermediaria relacionada con su abuelo.
+
+—Quieren comprar el lugar donde trabaja Michelle —dijo.
+
+—Quieren controlar otra parte de tu vida —respondió su tío.
+
+Rechazaron la oferta. Dos días después, uno de sus principales proveedores canceló el contrato.
+
+Michelle se sintió culpable.
+
+—Todo esto ocurre por mí.
+
+—Ocurre porque mi familia cree que puede usar a las personas —dijo Méndez—. La culpa es de ellos.
+
+Él ayudó a buscar proveedores alternativos, pero dejó que el tío negociara. Trabajaron hasta la madrugada y consiguieron mantener el negocio abierto.
+
+El abuelo de Méndez había esperado que la presión separara a la pareja. En cambio, logró que el tío comenzara a confiar en el joven.
+
+La búsqueda del nuevo proveedor llevó a Méndez a un almacén en las afueras. Estaba acostumbrado a negociar desde oficinas elegantes; allí tuvo que esperar sobre una silla plástica mientras un ventilador movía papeles por toda la habitación.
+
+El dueño reconoció su apellido y aumentó el precio.
+
+—Usted puede pagarlo.
+
+—Poder no significa que deba hacerlo.
+
+El tío de Michelle intervino y consiguió un acuerdo justo. De regreso, Méndez admitió que habría fracasado solo.
+
+—Tú conoces números —dijo el hombre—. Yo conozco lo que cuesta ganarlos. Si vas a ayudar, tendrás que aprender ambas cosas.
+
+Méndez guardó aquella lección junto a todas las que su familia nunca le había enseñado.
+
+Durante tres días trabajaron para reorganizar las entregas. Michelle llamó a cada cliente afectado, su tío renegoció plazos y Méndez construyó una hoja de cálculo con dieciséis pestañas.
+
+—La pestaña siete parece diseñada para asustarme —dijo Michelle.
+
+Méndez simplificó el documento. A media tarde descubrió que una empleada llevaba dos horas esperando su aprobación para comprar cinta adhesiva.
+
+—No tienes que preguntarme.
+
+—El señor dijo que usted estaba organizando los gastos.
+
+El tío de Michelle lo apartó.
+
+—Te dije que ayudaras, no que tomaras el mando.
+
+La diferencia le resultó incómoda. En sus empresas, entrar a un problema significaba asumir autoridad. Allí debía ofrecer conocimientos sin desplazar a quienes conocían el negocio.
+
+Reunió al equipo y reconoció el error. Las personas intercambiaron miradas sorprendidas; no estaban acostumbradas a que alguien con dinero admitiera haber invadido un espacio.
+
+El nuevo proveedor realizó la primera entrega el viernes. Faltaban dos cajas y varias etiquetas tenían errores, pero podrían continuar.
+
+Esa noche compartieron comida sobre el mostrador. El tío levantó un vaso de plástico.
+
+—Por sobrevivir otra semana.
+
+—Tus celebraciones tienen expectativas muy bajas —dijo Méndez.
+
+—Así es más fácil superarlas.
+
+Cuando cerraron, Méndez encontró un correo anónimo con una copia de la oferta de compra: **La próxima vez no tendrán otra opción.**
+
+Se lo mostró a Michelle.
+
+—Quieren que vivamos esperando el próximo golpe —dijo ella.
+
+—¿Qué hacemos?
+
+—Mañana abrimos a la hora de siempre.
+
+No era una estrategia empresarial. Era una declaración.
+
+---
+
+# Capítulo 27
+
+## Un día sin apellidos
+
+Michelle propuso una escapada de un día.
+
+Viajaron en autobús a un pueblo cercano. Méndez dejó su teléfono apagado y Gigi eligió cada actividad: una feria, un lago y un restaurante donde las mesas estaban cubiertas con manteles de papel.
+
+En la feria, Michelle y Méndez compitieron para ganar un oso de peluche. Ella acertó tres veces. Él ninguna.
+
+—Los contratos no preparan para esto —se defendió.
+
+Junto al lago, Gigi corrió tras las aves mientras ellos se sentaban sobre el césped.
+
+—Aquí nadie sabe quién eres —dijo Michelle.
+
+—Eso me gusta.
+
+—Pero no puedes esconderte para siempre.
+
+Méndez sabía que ella tenía razón. Necesitaba construir una identidad que no dependiera ni de obedecer a su familia ni de huir de ella.
+
+Antes de regresar, una turista los reconoció y tomó una fotografía. Para ellos fue un detalle sin importancia.
+
+Al día siguiente, la imagen estaba en internet.
+
+Antes de descubrirla, pasaron el viaje de regreso compartiendo un solo par de audífonos. Gigi dormía junto a la ventana y Michelle apoyaba la cabeza sobre Méndez.
+
+—¿En qué piensas? —preguntó ella.
+
+—En que mañana tendré ciento veinte correos.
+
+—Eso no suena romántico.
+
+—Y en que ninguno será tan importante como hoy.
+
+Michelle levantó la cabeza y lo besó brevemente. No vieron el teléfono de la turista apuntando hacia ellos desde dos filas atrás.
+
+La fotografía publicada no mostraba las conversaciones, los boletos baratos ni el oso que Gigi abrazaba. Mostraba una imagen fácil de convertir en escándalo. Una tarde que les pertenecía comenzó a ser narrada por personas que nunca estuvieron allí.
+
+La mañana siguiente comenzó con treinta y siete notificaciones. Méndez apagó el teléfono antes de leerlas todas, pero Michelle ya había visto el titular.
+
+—“Familia secreta” —leyó—. Ni siquiera vivimos juntos.
+
+Gigi salió sosteniendo el oso de la feria.
+
+—¿Por qué hay una foto mía en el teléfono de mi amiga?
+
+Michelle se arrodilló y explicó que alguien los había fotografiado sin pedir permiso.
+
+—¿Hicimos algo malo?
+
+—No —respondieron ambos.
+
+Méndez llamó al departamento legal. Ordenó proteger el rostro y el nombre de Gigi, pero rechazó una declaración que negara cualquier relación familiar.
+
+—Mi relación no es una variable del mercado.
+
+Michelle caminó hasta la ventana.
+
+—Necesito saber si soportarás esto sin convertirnos en un secreto otra vez.
+
+—No quiero esconderlas.
+
+—Y yo no quiero que Gigi viva perseguida.
+
+La contradicción no tenía respuesta sencilla. Por unas horas habían deseado ser personas sin apellidos; al regresar, comprobaron que el apellido de Méndez entraba en cualquier habitación antes que él.
+
+La escuela pidió que recogieran a Gigi temprano porque varias familias habían llamado. Un hombre con cámara esperaba en la puerta y aseguró ser admirador.
+
+Méndez envió seguridad. Michelle la rechazó al principio, pero cambió de opinión cuando el hombre fotografió su automóvil.
+
+—Solo durante unos días —aceptó.
+
+Para Méndez fue una concesión. Para Michelle, otra parte de su libertad que el dinero terminaba administrando.
+
+---
+
+# Capítulo 28
+
+## El mundo observa
+
+La fotografía mostraba a Méndez cargando a Gigi sobre los hombros mientras Michelle caminaba a su lado.
+
+El titular decía: **El joven heredero y su familia secreta**.
+
+Los comentarios fueron peores. Desconocidos discutían la edad de Michelle, su ropa, su hija y sus supuestas intenciones. Algunos aseguraban que buscaba una fortuna. Otros se burlaban de Méndez por criar a la hija de otro hombre.
+
+Michelle cerró el teléfono.
+
+—No puedo enviar a Gigi a la escuela con personas hablando de nosotros.
+
+Méndez pidió al equipo de comunicación que protegiera la identidad de la niña, pero se negó a publicar una negación de la relación.
+
+—No voy a llamarlas un error para salvar mi reputación.
+
+Su abuelo aprovechó el escándalo para convocarlo.
+
+—Una declaración puede terminar con esto.
+
+—También podría terminar si ustedes dejan de alimentar a la prensa.
+
+El anciano no respondió. Ese silencio fue una confesión.
+
+Al regresar con Michelle, Méndez encontró las cortinas cerradas. Gigi preguntaba por qué varias personas habían comentado cosas desagradables debajo de una fotografía.
+
+—Porque a veces la gente olvida que detrás de una pantalla hay personas reales —explicó Michelle.
+
+La ironía no escapó a Méndez. El mismo lugar que les permitió conocerse ahora daba a desconocidos la ilusión de conocerlos.
+
+Él se arrodilló frente a Gigi.
+
+—Nada de lo que escriban cambia quién eres.
+
+—Pero pueden verlo mis amigos.
+
+Méndez no tenía una respuesta capaz de borrar esa preocupación. Aquella noche comprendió que defender públicamente su amor era sencillo; proteger a una niña de las consecuencias sería mucho más difícil.
+
+Durmió en el sofá para no dejarlas solas. Cerca de la medianoche encontró a Gigi mirando por la ventana.
+
+—Quiero ver si el señor de la cámara volvió.
+
+Méndez cerró la cortina.
+
+—Hay una persona abajo cuidando la entrada.
+
+—Antes no necesitábamos eso.
+
+La frase lo golpeó. Su presencia había llevado cariño, pero también vigilancia y miedo.
+
+—Si quieres que me aleje un tiempo de la escuela...
+
+Gigi frunció el ceño.
+
+—Eso sería hacer lo que quieren los malos.
+
+La acompañó a la cama. Al amanecer, Michelle lo encontró preparando café.
+
+—No quiero acostumbrarme a vivir así —dijo.
+
+—No tendrás que hacerlo.
+
+—No prometas cosas que no controlas.
+
+Méndez recordó la conversación sobre Dylan. Otra vez había intentado proteger mediante una certeza imposible.
+
+—No sé cuánto durará —corrigió—. Trabajaré para reducirlo y escucharé lo que necesiten.
+
+Juntos llamaron a la escuela, a la abogada y al tío. Establecieron rutas seguras y reglas para las fotografías de Gigi. El escándalo ya no era una nube abstracta: tenía horarios, puertas y una niña que merecía seguir asistiendo a clases sin mirar sobre el hombro.
+
+---
+
+# Capítulo 29
+
+## La mujer de la fotografía
+
+Durante una semana, Michelle dejó de ser Michelle.
+
+Para internet era la mujer mayor, la madre soltera o la interesada. Algunos clientes llamaron al negocio únicamente para hacer preguntas. Su tío tuvo que retirar los números personales de las redes.
+
+Michelle dejó el curso de diseño temporalmente.
+
+—No quiero que mis compañeros me miren como si supieran algo de mí.
+
+Méndez quiso emitir una declaración agresiva. Ella le pidió algo distinto.
+
+—No hables por mí. Déjame hablar.
+
+Michelle publicó un mensaje breve desde la cuenta del negocio. No explicó su relación ni suplicó respeto. Recordó que Gigi era una menor y pidió que dejaran de compartir su imagen.
+
+La firmeza del texto cambió parte de la conversación. Varias personas eliminaron fotografías y otras defendieron su privacidad.
+
+Méndez compartió el mensaje con una sola frase: **Escúchenla a ella.**
+
+Por primera vez, utilizó el peso de su apellido para amplificar la voz de Michelle, no para sustituirla.
+
+El mensaje también llegó a otras madres que habían vivido situaciones semejantes. Varias enviaron palabras de apoyo y denunciaron las fotografías donde aparecía Gigi. El tío de Michelle colocó una nota en la entrada del negocio: **Aquí atendemos clientes, no curiosos.**
+
+Cuando Michelle regresó al curso, encontró su mesa intacta. Una compañera se sentó junto a ella.
+
+—No sé nada sobre tu relación —dijo—, pero sé que tu trabajo es bueno.
+
+Aquella frase sencilla le devolvió algo que los titulares le habían quitado. Michelle abrió el cuaderno y continuó dibujando. No podía controlar las historias que otros inventaran, pero sí podía decidir cuál construiría con sus propias manos.
+
+El proyecto de aquella semana consistía en crear un cartel sobre identidad. Michelle utilizó recortes de los titulares, pero cubrió cada palabra ofensiva con trazos de colores. En el centro dibujó su rostro formado por las cosas que sí la definían: madre, sobrina, trabajadora, estudiante y mujer.
+
+—¿Vas a incluir “novia de Méndez”? —preguntó una compañera.
+
+Michelle pensó antes de responder.
+
+—Es parte de mi vida, no mi nombre completo.
+
+La profesora pidió permiso para exhibir el cartel. Michelle aceptó con una condición: no mencionarían el escándalo ni el apellido de Méndez.
+
+El día de la muestra, él llegó sin escoltas y permaneció al fondo. Varias personas lo reconocieron, pero nadie se acercó porque estaban prohibidas las fotografías.
+
+Méndez leyó cada palabra. Cuando Michelle se reunió con él, señaló una pequeña línea dorada que atravesaba la composición.
+
+—Esa eres tú conmigo —explicó—. No ocupas el centro, pero conectas muchas cosas.
+
+Méndez comprendió que amarla no significaba convertirse en la parte más grande de su identidad. Significaba acompañarla sin borrar el resto.
+
+Al salir, un periodista preguntó si el cartel respondía a la familia de Méndez.
+
+—Es una respuesta para mí misma —dijo Michelle, y siguió caminando.
+
+La frase apareció publicada al día siguiente. Esta vez el titular utilizó su nombre. No todos los comentarios fueron amables, pero Michelle dejó de leerlos. Tenía trabajo que terminar y una historia propia que continuar.
+
+---
+
+# Capítulo 30
+
+## El precio del apellido
+
+Las acciones de una de las compañías bajaron después del escándalo.
+
+Su familia culpó a Méndez. Él revisó los datos y demostró que la caída había comenzado semanas antes por decisiones de su abuelo.
+
+—Usan mi relación para esconder sus errores —dijo ante la junta.
+
+Presentó pruebas de inversiones riesgosas y empresas intermediarias. Entre los documentos apareció una transferencia antigua a nombre de su madre.
+
+Méndez creía que ella no había participado nunca en los negocios.
+
+La transferencia se había realizado tres días después de su desaparición de la vida familiar.
+
+Preguntó a su abuela.
+
+—Hay asuntos que no te corresponde conocer.
+
+—Lleva mi nombre.
+
+—Precisamente por eso.
+
+Méndez guardó una copia. El conflicto con sus abuelos ya no trataba solo de Michelle. Habían construido su vida sobre secretos.
+
+Pasó la madrugada revisando archivos antiguos. Encontró fechas borradas, firmas repetidas y pagos autorizados por personas que ya no trabajaban allí. Cuanto más investigaba, menos parecía una simple transferencia.
+
+Michelle llegó con comida y lo encontró rodeado de documentos.
+
+—Tienes la misma expresión que Gigi cuando arma un rompecabezas —dijo.
+
+—Este tiene piezas que alguien escondió.
+
+Ella tomó la copia de la transferencia.
+
+—¿Qué esperas encontrar?
+
+—No lo sé. Tal vez una razón para que mi madre se fuera.
+
+—O una razón por la que no pudo quedarse.
+
+Méndez había pasado años protegiéndose con la versión más dolorosa: su madre no lo quería. Considerar otra posibilidad era esperanzador, pero también significaba aceptar que sus abuelos podían haberle robado algo imposible de recuperar.
+
+Buscó los archivos personales de la familia. Las carpetas de su infancia estaban digitalizadas, pero faltaban tres años completos. Solicitó acceso al depósito físico y recibió una negativa firmada por su abuelo.
+
+—Eso confirma que existe algo —dijo Michelle.
+
+—O quieren que piense que existe.
+
+La desconfianza contaminaba cada descubrimiento. Méndez ya no sabía qué documentos eran reales ni quién podía estar ayudándolo desde dentro.
+
+Visitó a un antiguo contador de la familia. El hombre se negó a abrir hasta que Méndez mencionó a su madre.
+
+—Prometí no hablar —dijo desde el interior.
+
+—¿A quién?
+
+—A una mujer que intentaba mantenerte vivo.
+
+La puerta se abrió apenas. El contador tenía las manos temblorosas.
+
+—La compañía de la transferencia no producía ganancias. Recibía dinero y lo movía a cuentas protegidas.
+
+—¿Dinero ilegal?
+
+—Dinero que no debía encontrarse. Tu madre descubrió algo. Después desapareció.
+
+Se negó a decir más, pero entregó a Méndez una llave pequeña con un número grabado.
+
+—Ella pidió que te la diera si alguna vez comenzabas a preguntar.
+
+Méndez salió con la llave cerrada en el puño. Dieciocho años atrás, su madre había previsto que él buscaría la verdad.
+
+Michelle no celebró al verla.
+
+—Si alguien esperó tanto, lo que encontremos puede ser peligroso.
+
+—Entonces averiguaremos qué abre antes de que mi familia sepa que la tengo.
+
+Guardaron la llave dentro del cuaderno de diseño de Michelle. Nadie de la familia buscaría allí: nunca habían considerado importantes sus sueños.
+
+---
+

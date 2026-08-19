@@ -75,7 +75,10 @@ function applyFullChapters(chapters){
  renderChapter(0);
 }
 if(Array.isArray(window.CHAPTERS)&&window.CHAPTERS.length){
- applyFullChapters(window.CHAPTERS.slice(0,20));
+ applyFullChapters(window.CHAPTERS.slice(0,30));
 }else{
- fetch('manuscrito.md').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el manuscrito');return response.text()}).then(markdown=>applyFullChapters(manuscriptChapters(markdown).slice(0,20))).catch(error=>console.warn(error.message));
+ fetch('manuscrito.md').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el manuscrito');return response.text()}).then(markdown=>applyFullChapters(manuscriptChapters(markdown).slice(0,30))).catch(error=>console.warn(error.message));
 }
+
+const publicationStatus=document.querySelector('footer small');
+if(publicationStatus)publicationStatus.textContent='LIBRO EN DESARROLLO · 30 DE 100 CAPÍTULOS DISPONIBLES';
