@@ -1,104 +1,119 @@
-const chapter=["La lluvia golpeaba la ventana del piso cuarenta y dos con la insistencia de alguien que llevaba demasiado tiempo esperando que le abrieran.","Méndez la observó unos segundos desde el escritorio de su oficina. Abajo, la ciudad se deshacía en líneas de luz sobre el pavimento mojado. Habían pasado las once de la noche y todavía vestía la camisa blanca con la que había cerrado el acuerdo más importante del trimestre.","En la pantalla principal seguían abiertos los informes de tres compañías. En la segunda lo esperaban correos marcados como urgentes por su abuelo. Sobre la mesa descansaba una carpeta con la palabra ADQUISICIÓN impresa en letras negras.","Tenía veintiún años y dirigía más negocios de los que podía nombrar sin mirar una lista. Sabía calcular riesgos, detectar una cláusula peligrosa y hacer que una sala llena de inversionistas guardara silencio. Sin embargo, no sabía preparar una cena, viajar sin conductor ni elegir unas vacaciones sin que alguien de su familia aprobara primero el destino.","Para el mundo era un empresario brillante. Para su familia era una máquina que jamás debía detenerse.","Sobre la pantalla de su teléfono había tres llamadas perdidas de su abuela y un mensaje de su tío: Necesitamos las proyecciones antes de las siete. No nos falles.","En su familia nadie le preguntaba si estaba cansado. Mucho menos si era feliz. Su abuelo decía que el apellido era una empresa y que Méndez había nacido para protegerla. Su vida no le pertenecía.","Cerró los informes, abrió el videojuego y se colocó los audífonos. Aquella noche no quería ser el director ejecutivo ni el heredero. Solo quería perder unas cuantas partidas con desconocidos.","El menú iluminó la habitación con un tono azul. Estuvo a punto de silenciar a todos. Entonces oyó una voz distinta.","—Si vamos a perder, por lo menos perdamos con dignidad.","Era una voz de mujer, suave pero segura. —¿Y cómo se pierde con dignidad? —preguntó Méndez. —Sin culpar al equipo y sin abandonar a mitad de la partida.","En la pantalla apareció el nombre Mich_27. —Entonces espero estar a la altura. —Con que no corras directo hacia el enemigo, me conformo.","Michelle marcaba ubicaciones y se burlaba cada vez que Méndez tomaba una decisión absurda. Él encontró refrescante que una desconocida no tuviera interés en impresionarlo.","—A tu izquierda —advirtió ella. Méndez giró demasiado tarde. —Te dije a la izquierda. —Mi otra izquierda. —Ah, claro. Debí especificar cuál de las dos.","Él soltó una carcajada. Hacía días que no se reía así. Michelle consiguió llegar hasta él y reanimarlo. —Me debes una. —Pensé que solo querías perder con dignidad. —Cambié de opinión.","Y ganaron. No de una forma brillante ni heroica. Ganaron por pura terquedad, salvándose mutuamente más veces de las que cualquiera habría admitido.","Jugaron una segunda vez. Después una tercera. En la cuarta dejaron de preocuparse por ganar. Michelle le contó que solo podía conectarse cuando su hija ya estaba dormida.","—Se llama Giselle, pero le decimos Gigi. Tiene ocho años y cree que dormir es una pérdida de tiempo.","Como si hubiera sido invocada, una vocecita sonó a través del micrófono. —Mami, tengo sed. —¿Estás hablando con alguien? —Con un compañero del juego. —¿Es bueno? —No mucho —respondió Michelle. Gigi rio.","Michelle se ausentó unos minutos. Méndez se quedó protegiendo a su personaje. —¿Sigues aquí? —preguntó ella al volver. —Dijiste que volverías. —La gente no siempre espera. —Yo sí.","Al terminar la última partida, ninguno encontró una razón para despedirse. —¿Te conectas mañana? —Depende de si ya aprendiste cuál es tu izquierda. —Podrías enseñarme. —Tal vez entre a esta misma hora.","La conexión se cerró. Apareció una notificación: Mich_27 te ha enviado una solicitud de amistad. Méndez la aceptó.","En otra parte de la ciudad, Michelle acomodó la cobija de Gigi y miró su teléfono. Mendez_01 ha aceptado tu solicitud. Apagó la pantalla, aunque no pudo borrar su sonrisa. Todavía no lo sabía, pero acababa de abrirle la puerta a alguien que cambiaría su vida."];
-document.querySelector('#chapter').innerHTML=chapter.map(p=>`<p>${p}</p>`).join('')+'<div class="end">FIN DEL CAPÍTULO 01</div>';
-const site=document.querySelector('#site'),theme=document.querySelector('#theme'),save=document.querySelector('#save');theme.onclick=()=>{site.classList.toggle('dark');theme.textContent=site.classList.contains('dark')?'☀':'☾'};if(localStorage.chapter1==='saved')save.textContent='✓ Capítulo guardado';save.onclick=()=>{const on=localStorage.chapter1!=='saved';localStorage.chapter1=on?'saved':'';save.textContent=on?'✓ Capítulo guardado':'♡ Guardar capítulo'};
-
-const publishedChapters=[
- {title:'Una partida inesperada',minutes:8,paragraphs:chapter},
- {title:'La voz detrás del personaje',minutes:7,paragraphs:[
-  'Méndez llegó a la oficina a las seis y cuarenta y cinco de la mañana. Su abuelo ya lo esperaba junto a dos abogados y una taza de café que nadie le había visto beber.',
-  '—Las proyecciones llegaron doce minutos tarde —dijo. —Llegaron antes de las siete. —Eso no significa que hayan llegado a tiempo.',
-  'La reunión duró tres horas. Hablaron de adquisiciones, despidos y ganancias. Para su familia, las vidas cabían en una columna de números. Sin embargo, una parte de Méndez permaneció lejos de aquella sala, pensando en un nombre iluminado en azul: Mich_27.',
-  'A las nueve y diecisiete Michelle apareció conectada. Él envió una invitación demasiado rápido. —Veo que practicaste tu izquierda —dijo ella. —Contraté a tres asesores. —Espero que no les pagues mucho.',
-  'Michelle le contó que trabajaba con su tío en una pequeña empresa, atendiendo clientes y organizando pedidos. Él le había dado una oportunidad cuando más la necesitaba y comprendía que Gigi era su prioridad.',
-  '—¿Y tú qué haces? —Trabajo en una empresa familiar —respondió Méndez, ofreciendo una verdad incompleta. —Eso suena peligroso. Con la familia nunca se sale realmente del trabajo.',
-  '—¿Te gusta? —preguntó ella. Nadie se lo había preguntado antes. —Soy bueno. —No te pregunté eso. —Lo sé.',
-  'Hablaron de películas que él no había visto, comidas que nunca había probado y lugares por los que jamás había caminado. Michelle rio al descubrir que no sabía usar el transporte público.',
-  'Ella confesó que había querido estudiar diseño, pero sus planes cambiaron al nacer Gigi. —¿Te arrepientes? —De ella, jamás. De haber dejado de pensar en mí, algunas veces.',
-  'Antes de despedirse intercambiaron sus usuarios de mensajería. El primer texto llegó treinta segundos después: Para comprobar que no me diste un contacto falso. Méndez respondió: Tendrás que escribirme mañana para estar segura.',
-  'Por primera vez, Méndez esperó la llegada del día siguiente por una razón que no figuraba en su agenda.'
- ]},
- {title:'Noches sin sueño',minutes:7,paragraphs:[
-  'Los mensajes se convirtieron en una costumbre antes de que cualquiera de los dos pudiera evitarlo. Michelle escribía antes de revisar con su tío los pedidos del día; Méndez respondía entre reuniones.',
-  'Ella le mostraba dibujos de Gigi, tazas de café y pequeños desastres domésticos. Él enviaba fotografías del cielo desde edificios tan altos que a Michelle le parecían otro mundo.',
-  'Una noche, Michelle llamó sin avisar. Gigi tenía fiebre y ella necesitaba mantenerse despierta. —Me quedaré contigo —dijo Méndez. —Tienes que trabajar mañana. —Siempre tengo que trabajar mañana.',
-  'Hablaron en voz baja mientras Michelle revisaba la temperatura de su hija. Cuando confesó que criar sola era vivir con miedo a equivocarse, él le dijo: —Gigi suena feliz. Algo debes estar haciendo bien.',
-  'A las tres la fiebre bajó. Michelle le pidió que contara algo de sí mismo. Méndez habló de sus padres ausentes y de cómo sus abuelos habían destinado cada hora de su infancia a prepararlo para dirigir empresas.',
-  '—¿Nunca jugabas? —Aprendía idiomas, finanzas y protocolo. Me permitían ajedrez. —Eso explica muchas cosas.',
-  'Michelle dejó de bromear. —No debieron hacerte creer que solo valías por lo que podías producir.',
-  'Méndez sintió que algo se quebraba silenciosamente dentro de él. Había esperado toda su vida escuchar esas palabras sin saberlo.',
-  '—Tú tampoco debiste renunciar a todos tus sueños —contestó. Michelle miró a Gigi dormida. —Tal vez todavía quede tiempo para algunos.',
-  'La llamada terminó al amanecer. Ninguno dijo que aquellas horas habían cambiado algo entre ellos. No hacía falta.'
- ]},
- {title:'Gigi entra en la partida',minutes:6,paragraphs:[
-  'El sábado, Gigi despertó decidida a descubrir quién era el misterioso compañero de juego de su madre. —¿Es tu novio? —Es mi amigo. —Sonríes cuando te escribe.',
-  'Aquella tarde entraron juntas al juego. —Hoy tenemos una invitada —anunció Michelle. —Hola —dijo Gigi—. Mi mamá dice que juegas mal. —Tu mamá exagera. A veces juego peor.',
-  'Durante la partida, la niña dio órdenes a ambos. Méndez obedeció sin protestar. Cuando perdieron, Gigi aseguró que había sido culpa de los adultos.',
-  'Después construyeron una pequeña vivienda virtual. Gigi eligió cada pared y obligó a Méndez a colocar flores frente a una casa torcida.',
-  '—Necesitamos tres habitaciones: una para mi mamá, una para mí y una para ti cuando vengas. El silencio cayó de golpe.',
-  '—Méndez vive en su propia casa —aclaró Michelle. —Pero puede visitarnos. —Algún día —respondió él suavemente.',
-  'Al despedirse, Gigi exigió que prometiera regresar. —Las promesas no se rompen. —Esta no la romperé.',
-  'Más tarde Michelle le advirtió que Gigi se encariñaba rápido. Méndez respondió: No pienso desaparecer.',
-  'Michelle deseó creerle. Pero ya había escuchado esa promesa de otra persona. Dylan sí había desaparecido cuando más lo necesitaban.'
- ]},
- {title:'El mensaje de Dylan',minutes:6,paragraphs:[
-  'El nombre apareció en la pantalla de Michelle el lunes por la mañana. Dylan: Necesitamos hablar. Ella dejó el teléfono sobre la mesa como si quemara.',
-  'Dylan entraba y salía de sus vidas cuando le convenía, acompañado de disculpas y promesas. Nunca preguntaba qué necesitaba Gigi. Preguntaba cuándo podía verla, como si ser padre fuera una visita que pudiera agendarse.',
-  'El segundo mensaje llegó una hora después: Sé que estás hablando con alguien.',
-  'Esa noche Méndez notó que Michelle estaba distraída. Ella terminó confesando que Dylan había escrito. —¿Qué quiere? —Lo de siempre: regresar cuando siente que estoy avanzando.',
-  '—¿Te ha amenazado? —Dylan no suele decir las cosas directamente. Prefiere conseguir que dudes de ti misma. Méndez reconoció el método: su familia hacía lo mismo con palabras más elegantes.',
-  'Michelle prometió avisarle si llegaba a sentirse en peligro. Cuando terminó la llamada encontró otro mensaje: Ese tipo no es quien dice ser. Pregúntale cuánto dinero tiene.',
-  'Escribió una pregunta para Méndez y la borró. Luego dejó el teléfono sobre la cama.',
-  'En el piso cuarenta y dos, la abuela de Méndez ordenó que asistiera a una cena familiar. —Esta familia es tu prioridad. Méndez miró el nombre de Michelle. —Tal vez ya no.',
-  'En dos lugares distintos, dos amenazas despertaban: Dylan había descubierto a Méndez y la familia de Méndez estaba a punto de descubrir que él comenzaba a tener una vida propia.'
- ]}
-];
+const site=document.querySelector('#site');
+const chapterView=document.querySelector('#chapter');
+const chapterNumber=document.querySelector('#chapter-number');
+const chapterTitle=document.querySelector('#chapter-title');
+const readingTime=document.querySelector('#reading-time');
+const chapterSelect=document.querySelector('#chapter-select');
+const previous=document.querySelector('#previous');
+const next=document.querySelector('#next');
+const save=document.querySelector('#save');
+const progressLabel=document.querySelector('#progress-label');
+const progressChapter=document.querySelector('#progress-chapter');
+const progressBar=document.querySelector('#progress-bar');
+const progressPercent=document.querySelector('#progress-percent');
+const progressDate=document.querySelector('#progress-date');
+const continueReading=document.querySelector('#continue-reading');
+const chapterGrid=document.querySelector('#chapter-grid');
+const chapterEmpty=document.querySelector('#chapter-empty');
+const chapterSearch=document.querySelector('#chapter-search');
+const dock=document.querySelector('#reading-dock');
+const dockBar=document.querySelector('#dock-bar');
+const dockPercent=document.querySelector('#dock-percent');
+const dockChapter=document.querySelector('#dock-chapter');
+const progressKey='entreDosMundosReadingProgress';
+const settingsKey='entreDosMundosSettings';
+let publishedChapters=[];
 let activeChapter=0;
-const chapterView=document.querySelector('#chapter'),chapterNumber=document.querySelector('#chapter-number'),chapterTitle=document.querySelector('#chapter-title'),readingTime=document.querySelector('#reading-time'),chapterSelect=document.querySelector('#chapter-select'),previous=document.querySelector('#previous'),next=document.querySelector('#next');
-function renderChapter(index,scroll=false){activeChapter=index;const item=publishedChapters[index];chapterNumber.textContent=`CAPÍTULO ${String(index+1).padStart(2,'0')}`;chapterTitle.innerHTML=item.title.replace(' ','<br><em>')+'</em>';readingTime.textContent=`Tiempo de lectura · ${item.minutes} min`;chapterView.innerHTML=item.paragraphs.map(p=>`<p>${p}</p>`).join('')+`<div class="end">FIN DEL CAPÍTULO ${String(index+1).padStart(2,'0')}</div>`;chapterSelect.value=String(index);previous.disabled=index===0;next.disabled=index===publishedChapters.length-1;next.textContent=index===publishedChapters.length-1?'Continuará…':'Siguiente →';const key=`chapter${index+1}`;save.textContent=localStorage.getItem(key)==='saved'?'✓ Capítulo guardado':'♡ Guardar capítulo';if(scroll)document.querySelector('#leer').scrollIntoView({behavior:'smooth'})}
-chapterSelect.onchange=()=>renderChapter(Number(chapterSelect.value),true);previous.onclick=()=>activeChapter>0&&renderChapter(activeChapter-1,true);next.onclick=()=>activeChapter<publishedChapters.length-1&&renderChapter(activeChapter+1,true);save.onclick=()=>{const key=`chapter${activeChapter+1}`,on=localStorage.getItem(key)!=='saved';localStorage.setItem(key,on?'saved':'');save.textContent=on?'✓ Capítulo guardado':'♡ Guardar capítulo'};renderChapter(0);
+let activeFilter='all';
 
-function manuscriptChapters(markdown){
- const markers=[...markdown.matchAll(/^# Capítulo (\d+)\r?$/gm)];
- return markers.map((marker,index)=>{
-  const block=markdown.slice(marker.index,markers[index+1]?.index??markdown.length).replace(/\r/g,'');
-  const title=(block.match(/^## (.+)$/m)||[])[1]||`Capítulo ${marker[1]}`;
-  const body=block.slice(block.indexOf(`## ${title}`)+title.length+3).replace(/\n---\s*$/,'').trim();
-  const paragraphs=body.split(/\n\s*\n/).map(text=>text.trim()).filter(text=>text&&text!=='---').map(text=>text.replace(/^\*\*(.+)\*\*$/,'$1'));
-  const words=body.split(/\s+/).length;
-  return {title,minutes:Math.max(2,Math.ceil(words/190)),paragraphs};
+function getJSON(key,fallback=null){try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}}
+function escapeHTML(value){return String(value).replace(/[&<>'"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]))}
+function isFavorite(index){return localStorage.getItem(`chapter${index+1}`)==='saved'}
+function chapterState(index){const progress=getJSON(progressKey);if(!progress)return '';if(index<progress.chapter||(index===progress.chapter&&progress.ratio>=.96))return '✓ Leído';if(index===progress.chapter)return '• En curso';return ''}
+function titleMarkup(title){const words=title.split(' ');return words.length>1?`${escapeHTML(words[0])}<br><em>${escapeHTML(words.slice(1).join(' '))}</em>`:`<em>${escapeHTML(title)}</em>`}
+
+function renderChapter(index,scroll=false,ratio=0){
+ if(!publishedChapters.length)return;
+ activeChapter=Math.max(0,Math.min(index,publishedChapters.length-1));
+ const item=publishedChapters[activeChapter];
+ chapterNumber.textContent=`CAPÍTULO ${String(activeChapter+1).padStart(2,'0')}`;
+ chapterTitle.innerHTML=titleMarkup(item.title);
+ readingTime.textContent=`Tiempo de lectura · ${item.minutes} min`;
+ chapterView.innerHTML=item.paragraphs.map(p=>`<p>${escapeHTML(p)}</p>`).join('')+`<div class="end">FIN DEL CAPÍTULO ${String(activeChapter+1).padStart(2,'0')}</div>`;
+ chapterSelect.value=String(activeChapter);
+ previous.disabled=activeChapter===0;
+ next.disabled=activeChapter===publishedChapters.length-1;
+ next.textContent=activeChapter===publishedChapters.length-1?'Continuará…':'Siguiente →';
+ dockChapter.textContent=`Cap. ${String(activeChapter+1).padStart(2,'0')}`;
+ refreshFavoriteButton();
+ if(scroll){requestAnimationFrame(()=>{const top=chapterView.getBoundingClientRect().top+scrollY-105;const travel=Math.max(0,chapterView.offsetHeight-innerHeight*.45);scrollTo({top:top+travel*ratio,behavior:'smooth'});chapterView.focus({preventScroll:true})})}
+}
+function refreshFavoriteButton(){save.textContent=isFavorite(activeChapter)?'♥ En favoritos':'♡ Añadir a favoritos'}
+
+function showProgress(progress=getJSON(progressKey)){
+ const valid=progress&&Number.isInteger(progress.chapter)&&progress.chapter>=0&&progress.chapter<publishedChapters.length;
+ const chapter=valid?progress.chapter:0;
+ const ratio=valid?Math.min(1,Math.max(0,Number(progress.ratio)||0)):0;
+ const item=publishedChapters[chapter];
+ const completed=valid?chapter+(ratio>=.96?1:0):0;
+ progressLabel.textContent=valid?`${completed} de ${publishedChapters.length} capítulos completados`:'Aún no has comenzado';
+ progressChapter.textContent=`Capítulo ${String(chapter+1).padStart(2,'0')} · ${item?.title||''}`;
+ progressBar.style.width=`${Math.round(ratio*100)}%`;
+ progressPercent.textContent=`${Math.round(ratio*100)}% del capítulo`;
+ progressDate.textContent=valid?`Última lectura: ${new Intl.DateTimeFormat('es',{dateStyle:'medium'}).format(progress.updatedAt||Date.now())}`:'';
+ continueReading.textContent=valid?'Continuar leyendo':'Comenzar a leer';
+}
+function storeProgress(ratio=0){const progress={chapter:activeChapter,ratio:Math.min(1,Math.max(0,ratio)),updatedAt:Date.now()};localStorage.setItem(progressKey,JSON.stringify(progress));showProgress(progress);renderLibrary();dockBar.style.width=`${Math.round(progress.ratio*100)}%`;dockPercent.textContent=`${Math.round(progress.ratio*100)}%`}
+function openSavedProgress(){const saved=getJSON(progressKey),chapter=saved?.chapter??0,ratio=saved?.ratio??0;renderChapter(chapter,true,ratio)}
+
+function renderLibrary(){
+ const query=chapterSearch.value.trim().toLocaleLowerCase('es');
+ const cards=publishedChapters.map((item,index)=>({item,index})).filter(({item,index})=>{
+  const number=index+1;
+  const range=activeFilter==='all'||(activeFilter==='favorites'&&isFavorite(index))||(activeFilter==='1-20'&&number<=20)||(activeFilter==='21-40'&&number>=21&&number<=40)||(activeFilter==='41-60'&&number>=41&&number<=60);
+  return range&&(!query||String(number).includes(query)||item.title.toLocaleLowerCase('es').includes(query));
  });
-}
-function applyFullChapters(chapters){
- if(!chapters.length)return;
- publishedChapters.splice(0,publishedChapters.length,...chapters);
- chapterSelect.innerHTML=chapters.map((item,index)=>`<option value="${index}">${String(index+1).padStart(2,'0')} · ${item.title}</option>`).join('');
- renderChapter(0);
-}
-if(Array.isArray(window.CHAPTERS)&&window.CHAPTERS.length){
- applyFullChapters(window.CHAPTERS.slice(0,60));
-}else{
- fetch('manuscrito.md').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el manuscrito');return response.text()}).then(markdown=>applyFullChapters(manuscriptChapters(markdown).slice(0,60))).catch(error=>console.warn(error.message));
+ chapterGrid.innerHTML=cards.map(({item,index})=>`<button class="chapter-item" data-chapter="${index}"><span class="number">${String(index+1).padStart(2,'0')}</span><span><strong>${escapeHTML(item.title)}</strong><small>${item.minutes} min ${isFavorite(index)?'· Favorito':''}</small></span><span class="state">${chapterState(index)}</span></button>`).join('');
+ chapterEmpty.hidden=cards.length>0;
+ chapterGrid.querySelectorAll('.chapter-item').forEach(button=>button.addEventListener('click',()=>{renderChapter(Number(button.dataset.chapter),true);storeProgress(0)}));
 }
 
-const publicationStatus=document.querySelector('footer small');
-if(publicationStatus)publicationStatus.textContent='LIBRO EN DESARROLLO · 60 DE 100 CAPÍTULOS DISPONIBLES';
+function applySettings(){
+ const settings=getJSON(settingsKey,{font:18,spacious:false,wide:false,theme:'light'});
+ document.documentElement.style.setProperty('--reader-size',`${Math.max(15,Math.min(24,settings.font))}px`);
+ document.querySelector('#leer').classList.toggle('spacious',!!settings.spacious);
+ document.querySelector('#leer').classList.toggle('wide',!!settings.wide);
+ site.classList.toggle('dark',settings.theme==='dark');site.classList.toggle('sepia',settings.theme==='sepia');
+ document.querySelector('#reading-theme').value=settings.theme;
+ document.querySelector('#theme').textContent=settings.theme==='dark'?'☀':'☾';
+}
+function updateSettings(patch){localStorage.setItem(settingsKey,JSON.stringify({...getJSON(settingsKey,{font:18,spacious:false,wide:false,theme:'light'}),...patch}));applySettings()}
 
-const readingProgressKey='entreDosMundosReadingProgress';
-const progressPanel=document.createElement('section');
-progressPanel.className='reading-progress';
-progressPanel.setAttribute('aria-labelledby','progress-title');
-progressPanel.innerHTML=`<div><p class="section-no">TU LECTURA</p><h2 id="progress-title">Continúa donde<br>te quedaste.</h2></div><div class="progress-card"><span id="progress-label">Aún no has comenzado</span><strong id="progress-chapter">Capítulo 01</strong><div class="progress-track"><i id="progress-bar"></i></div><small id="progress-percent">0% del capítulo</small><div class="progress-buttons"><button id="continue-reading">Comenzar a leer</button><button id="clear-progress" class="secondary-progress">Borrar progreso</button></div></div>`;
-document.querySelector('#leer').before(progressPanel);
-const progressLabel=document.querySelector('#progress-label'),progressChapter=document.querySelector('#progress-chapter'),progressBar=document.querySelector('#progress-bar'),progressPercent=document.querySelector('#progress-percent'),continueReading=document.querySelector('#continue-reading'),clearProgress=document.querySelector('#clear-progress');
-function getReadingProgress(){try{return JSON.parse(localStorage.getItem(readingProgressKey))}catch{return null}}
-function showReadingProgress(progress=getReadingProgress()){const valid=progress&&Number.isInteger(progress.chapter)&&progress.chapter>=0&&progress.chapter<publishedChapters.length;const chapter=valid?progress.chapter:0,ratio=valid?Math.min(1,Math.max(0,Number(progress.ratio)||0)):0,item=publishedChapters[chapter];progressLabel.textContent=valid?'Última lectura guardada':'Aún no has comenzado';progressChapter.textContent=`Capítulo ${String(chapter+1).padStart(2,'0')} · ${item?.title||''}`;progressBar.style.width=`${Math.round(ratio*100)}%`;progressPercent.textContent=`${Math.round(ratio*100)}% del capítulo`;continueReading.textContent=valid?'Continuar leyendo':'Comenzar a leer'}
-function storeReadingProgress(ratio=0){const progress={chapter:activeChapter,ratio:Math.min(1,Math.max(0,ratio)),updatedAt:Date.now()};localStorage.setItem(readingProgressKey,JSON.stringify(progress));showReadingProgress(progress)}
-function openSavedProgress(){const saved=getReadingProgress(),chapter=saved&&Number.isInteger(saved.chapter)?Math.min(saved.chapter,publishedChapters.length-1):0,ratio=saved?.ratio||0;renderChapter(chapter,false);requestAnimationFrame(()=>{const top=chapterView.getBoundingClientRect().top+window.scrollY-110,travel=Math.max(0,chapterView.offsetHeight-window.innerHeight*.45);window.scrollTo({top:top+travel*ratio,behavior:'smooth'})})}
-continueReading.addEventListener('click',openSavedProgress);
-clearProgress.addEventListener('click',()=>{localStorage.removeItem(readingProgressKey);showReadingProgress(null)});
-chapterSelect.addEventListener('change',()=>setTimeout(()=>storeReadingProgress(0)));
-previous.addEventListener('click',()=>setTimeout(()=>storeReadingProgress(0)));
-next.addEventListener('click',()=>setTimeout(()=>storeReadingProgress(0)));
+function initialize(chapters){
+ publishedChapters=chapters.slice(0,60);
+ chapterSelect.innerHTML=publishedChapters.map((item,index)=>`<option value="${index}">${String(index+1).padStart(2,'0')} · ${escapeHTML(item.title)}</option>`).join('');
+ renderChapter(0);showProgress();renderLibrary();applySettings();
+}
+function manuscriptChapters(markdown){const markers=[...markdown.matchAll(/^# Capítulo (\d+)\r?$/gm)];return markers.map((marker,index)=>{const block=markdown.slice(marker.index,markers[index+1]?.index??markdown.length).replace(/\r/g,'');const title=(block.match(/^## (.+)$/m)||[])[1]||`Capítulo ${marker[1]}`;const body=block.slice(block.indexOf(`## ${title}`)+title.length+3).replace(/\n---\s*$/,'').trim();const paragraphs=body.split(/\n\s*\n/).map(text=>text.trim()).filter(text=>text&&text!=='---').map(text=>text.replace(/^\*\*(.+)\*\*$/,'$1'));return{title,minutes:Math.max(2,Math.ceil(body.split(/\s+/).length/190)),paragraphs}})}
+
+chapterSelect.addEventListener('change',()=>{renderChapter(Number(chapterSelect.value),true);storeProgress(0)});
+previous.addEventListener('click',()=>{if(activeChapter>0){renderChapter(activeChapter-1,true);storeProgress(0)}});
+next.addEventListener('click',()=>{if(activeChapter<publishedChapters.length-1){renderChapter(activeChapter+1,true);storeProgress(0)}});
+save.addEventListener('click',()=>{const key=`chapter${activeChapter+1}`;localStorage.setItem(key,isFavorite(activeChapter)?'':'saved');refreshFavoriteButton();renderLibrary()});
+continueReading.addEventListener('click',openSavedProgress);document.querySelector('#hero-continue').addEventListener('click',openSavedProgress);
+document.querySelector('#clear-progress').addEventListener('click',()=>{localStorage.removeItem(progressKey);showProgress(null);renderLibrary()});
+chapterSearch.addEventListener('input',renderLibrary);
+document.querySelectorAll('.chapter-filters button').forEach(button=>button.addEventListener('click',()=>{activeFilter=button.dataset.range;document.querySelectorAll('.chapter-filters button').forEach(item=>item.classList.toggle('active',item===button));renderLibrary()}));
+document.querySelector('#font-down').addEventListener('click',()=>updateSettings({font:(getJSON(settingsKey,{font:18}).font||18)-1}));
+document.querySelector('#font-up').addEventListener('click',()=>updateSettings({font:(getJSON(settingsKey,{font:18}).font||18)+1}));
+document.querySelector('#line-toggle').addEventListener('click',()=>updateSettings({spacious:!getJSON(settingsKey,{}).spacious}));
+document.querySelector('#width-toggle').addEventListener('click',()=>updateSettings({wide:!getJSON(settingsKey,{}).wide}));
+document.querySelector('#reading-theme').addEventListener('change',event=>updateSettings({theme:event.target.value}));
+document.querySelector('#theme').addEventListener('click',()=>updateSettings({theme:site.classList.contains('dark')?'light':'dark'}));
+document.querySelector('#dock-index').addEventListener('click',()=>document.querySelector('#capitulos').scrollIntoView({behavior:'smooth'}));
+document.querySelector('#dock-next').addEventListener('click',()=>{if(activeChapter<publishedChapters.length-1){renderChapter(activeChapter+1,true);storeProgress(0)}});
 let progressTimer;
-window.addEventListener('scroll',()=>{clearTimeout(progressTimer);progressTimer=setTimeout(()=>{const start=chapterView.getBoundingClientRect().top+window.scrollY-110,end=start+Math.max(1,chapterView.offsetHeight-window.innerHeight*.45),ratio=(window.scrollY-start)/(end-start);if(ratio>=0&&ratio<=1.15)storeReadingProgress(ratio)},120)},{passive:true});
-showReadingProgress();
+addEventListener('scroll',()=>{clearTimeout(progressTimer);progressTimer=setTimeout(()=>{const rect=chapterView.getBoundingClientRect();const start=rect.top+scrollY-105;const end=start+Math.max(1,chapterView.offsetHeight-innerHeight*.45);const ratio=(scrollY-start)/(end-start);const inReader=rect.bottom>90&&rect.top<innerHeight*.8;dock.classList.toggle('visible',inReader);if(ratio>=0&&ratio<=1.15)storeProgress(ratio)},130)},{passive:true});
+
+if(Array.isArray(window.CHAPTERS)&&window.CHAPTERS.length)initialize(window.CHAPTERS);else fetch('manuscrito.md').then(response=>response.text()).then(markdown=>initialize(manuscriptChapters(markdown))).catch(()=>{chapterView.innerHTML='<p>No fue posible cargar los capítulos. Intenta actualizar la página.</p>'});
+if('serviceWorker'in navigator)addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));

@@ -1,0 +1,10 @@
+{
+  "name":"Entre dos mundos",
+  "short_name":"EDM",
+  "description":"Novela romántica de Méndez y Michelle",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f1eb",
+  "theme_color":"#8d2540",
+  "icons":[{"src":"public/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
