@@ -4577,3 +4577,831 @@ La nueva etapa de la historia comenzaba con dos preguntas: ¿quién era realment
 
 ---
 
+# Capítulo 61
+
+## La confianza prestada
+
+Dylan llegó con el desayuno cuando todavía no había amanecido por completo.
+
+Michelle abrió la puerta con el cabello recogido y el cansancio marcado bajo los ojos. Durante un segundo pareció sorprendida de verlo; después recordó que él se había ofrecido a llevar a Gigi a la escuela mientras ella atendía una reunión con Irene.
+
+—Dijiste a las siete —comentó.
+
+—No sabía si habría tráfico.
+
+Le entregó una bolsa con pan dulce, fruta cortada y el chocolate que Gigi pedía cada vez que tenía una mañana difícil. Era el tipo de detalle que meses atrás habría parecido una maniobra. Ahora Michelle lo interpretó como una prueba de que Dylan finalmente escuchaba.
+
+Gigi salió de su habitación arrastrando la mochila.
+
+—Llegaste temprano.
+
+—Estoy practicando eso de cumplir.
+
+La niña lo abrazó. Dylan cerró los ojos y le devolvió el abrazo con la ternura exacta que había practicado. No sentía culpa por utilizarla. Gigi era la vía más rápida hacia Michelle y, a través de ella, hacia Méndez. Cada gesto cariñoso aumentaba el valor de la información que pensaba vender.
+
+Michelle le explicó la ruta nueva y la palabra de seguridad. Dylan repitió cada instrucción con seriedad. No necesitaba memorizarla; la había enviado la noche anterior desde el segundo teléfono.
+
+—Si ocurre cualquier cosa, me llamas a mí y a Irene —dijo Michelle.
+
+—No voy a improvisar.
+
+La promesa sonó sincera porque estaba cuidadosamente construida sobre una verdad parcial. Dylan no pensaba improvisar. Seguía un plan.
+
+Méndez llegó unos minutos después. Llevaba documentos para la reunión y una caja con materiales que Gigi había olvidado en el estudio. Al encontrarse con Dylan, se detuvo junto a la puerta.
+
+—Gracias por ayudar hoy.
+
+Dylan aceptó la caja.
+
+—Es mi hija. No tienes que agradecerme que actúe como su padre.
+
+La respuesta habría provocado una discusión meses atrás. Esta vez Méndez asintió.
+
+—Tienes razón.
+
+El gesto de confianza produjo en Dylan una satisfacción fría. Méndez acababa de bajar la guardia sin que él tuviera que ofrecer una sola prueba verdadera. Ya no lo veía como un rival ni como el hombre que había ocupado su lugar; lo veía como el objetivo más valioso de un trabajo que pensaba cobrar hasta el último centavo.
+
+Durante el trayecto, Gigi habló de la exposición escolar y del videojuego. Dylan escuchó sin dirigir las preguntas hacia los archivos. El padre de Méndez había sido claro: la información valiosa aparecería cuando todos dejaran de sentir que debían protegerla.
+
+—Mamá dice que pronto podremos volver a la casa —contó Gigi.
+
+—Eso es bueno.
+
+—Pero Irene quiere cambiar las cámaras.
+
+Dylan miró el semáforo.
+
+—Los adultos hablan de demasiadas cosas aburridas.
+
+Cambió el tema y le preguntó por matemáticas. Gigi continuó hablando, convencida de que su padre no prestó atención al dato importante.
+
+Después de dejarla, Dylan aparcó a dos calles de la escuela. Sacó el segundo teléfono, escribió que las cámaras serían reemplazadas y recibió una respuesta inmediata.
+
+**Necesito la ubicación de la copia.**
+
+Dylan bloqueó la pantalla.
+
+**No la conozco.**
+
+**Entonces consigue que te la confíen.**
+
+Guardó el aparato antes de regresar al automóvil. Por el espejo vio a una madre despedirse de su hijo en la entrada. Pensó en lo sencillo que había resultado recuperar la confianza de Gigi: llegar puntualmente, recordar una bebida y escuchar sin interrumpir. Los demás llamaban cambio a lo que para él era una inversión.
+
+No consideró abandonar el acuerdo. Calculó cuánto más podría exigir cuando entregara la ubicación de los archivos.
+
+El teléfono vibró otra vez.
+
+Llegó una fotografía de Michelle entrando al edificio donde se reuniría con Irene. Debajo había una frase:
+
+**Si fallas, ella sabrá que colaboraste desde el principio.**
+
+Dylan comprendió que la alianza nunca había sido una sociedad. El padre de Méndez también lo estaba utilizando.
+
+Aun así, respondió:
+
+**Conseguiré la ubicación.**
+
+Esa tarde recogió a Gigi a la hora exacta. Michelle lo esperaba en la puerta y sonrió al comprobar que todo había salido bien.
+
+—Gracias por hacer esto fácil.
+
+Dylan le entregó la mochila.
+
+—Puedes confiar en mí.
+
+Michelle sostuvo su mirada y asintió.
+
+La frase quedó entre ambos como algo prestado que tarde o temprano tendría que devolver.
+
+Michelle cerró la puerta y regresó a la mesa donde Méndez e Irene ordenaban documentos. Por primera vez habló de Dylan sin anticipar una decepción.
+
+—Creo que realmente está intentando cambiar —dijo.
+
+Méndez dejó de escribir. Una parte de él todavía desconfiaba del hombre que había utilizado fotografías y celos para separarlos, pero sabía que exigir una condena eterna también podía convertirse en otra forma de control.
+
+—Ha cumplido cada condición —reconoció—. Gigi parece más tranquila después de verlo.
+
+Irene recordó que la confianza debía crecer al mismo ritmo que las pruebas. Dylan podía ayudar con la escuela y las visitas sin acceder a los archivos ni a decisiones de seguridad que no le correspondían. Michelle aceptó. No sabía que la información cotidiana era precisamente lo que él buscaba.
+
+En la oficina del otro lado de la ciudad, Dylan intentó concentrarse en su trabajo. El segundo teléfono permanecía apagado dentro del cajón. Cada vez que alguien se acercaba, temía que pudiera escucharlo vibrar aunque no tuviera batería.
+
+Recordó cómo había comenzado todo. Dylan abandonó a Michelle y a Gigi porque nunca quiso la responsabilidad de una familia. Cuando se marchó sintió alivio, no arrepentimiento. Años después ya estaba conociendo a Valeria, una mujer que no sabía casi nada de su pasado, cuando recibió la llamada del padre de Méndez.
+
+El hombre conocía sus deudas y le ofreció una cantidad capaz de borrarlas, comprarle un apartamento y financiar la vida que quería empezar con otra persona. Solo debía regresar, fingir interés por Gigi y acercarse otra vez a Michelle. Dylan aceptó después de exigir un adelanto. Nunca quiso recuperarlas; provocó celos, fingió una oferta de soborno y declaró exactamente lo necesario para parecer útil. La terapia únicamente le proporcionó palabras más convincentes para su personaje.
+
+El secuestro tampoco cambió sus intenciones. Sabía que asustarían a Gigi y compartió la rutina escolar a cambio de un pago adicional. Su única condición fue que no quedaran marcas físicas capaces de dirigir la investigación hacia él. El pánico frente a Michelle, la carrera hasta la escuela y la indignación en el hospital fueron actuaciones preparadas para convertirlo en otra víctima.
+
+Desde entonces vivía dentro de dos versiones de sí mismo. En una era el padre que asistía a terapia y aprendía a escuchar. En la otra seguía obedeciendo al hombre que había convertido su resentimiento en una puerta.
+
+Al encender nuevamente el teléfono encontró una nota de voz.
+
+—No confundas el cariño de ellos con perdón —decía la voz—. Si supieran lo que hiciste, no volverías a ver a tu hija.
+
+Dylan borró el archivo, aunque conocía cada palabra de memoria.
+
+Esa noche llamó a Gigi desde su teléfono habitual. Ella le mostró una tarea y le recordó que debía firmar el cuaderno durante la próxima visita.
+
+—No te olvides —advirtió.
+
+—No lo haré.
+
+Después de colgar, Dylan escribió la fecha en tres lugares. No podía olvidar una visita y arruinar el personaje que tan bien estaba funcionando. Cada cumplimiento era otra capa de una mentira que pensaba cobrar completa.
+
+Miró el mensaje donde prometía conseguir la ubicación de la copia y calculó la cantidad que exigiría por entregarla.
+
+Negarse nunca fue una posibilidad que le interesara. Su única preocupación era que el padre de Méndez intentara pagarle menos de lo prometido.
+
+---
+
+# Capítulo 62
+
+## La voz que volvió de la muerte
+
+Elena no durmió después de escuchar la grabación.
+
+Guardó el archivo en un dispositivo separado y pasó el resto de la noche intentando convencerse de que la voz podía pertenecer a otra persona. Los años modificaban los recuerdos. El miedo también.
+
+Sin embargo, al amanecer seguía oyendo la misma respiración antes de cada frase, la pausa breve y aquella forma de pronunciar el nombre de Méndez como si fuera una propiedad.
+
+Irene llegó al apartamento a las ocho. Elena le mostró el archivo sin explicar su sospecha.
+
+—Necesito que lo analices antes de decirle algo a mi hijo.
+
+—¿Crees saber quién es?
+
+—Creo saber quién era. No es lo mismo.
+
+La abogada aceptó mantener la investigación separada durante cuarenta y ocho horas. Compararían la voz con grabaciones antiguas, registros migratorios y documentos de las personas vinculadas al sistema.
+
+Méndez apareció poco después. Había llevado café y una carpeta con preguntas para la siguiente declaración. Elena ocultó el dispositivo dentro del bolsillo.
+
+—Pareces enferma —dijo él.
+
+—No dormí bien.
+
+—¿Ocurrió algo después de la llamada?
+
+Elena estuvo a punto de contarlo. Imaginó el rostro de su hijo al escuchar que el hombre cuya muerte había aceptado podía estar vivo. También imaginó estar equivocada y abrir una herida sin necesidad.
+
+—Solo recuerdos —respondió.
+
+No era mentira, pero se parecía demasiado a los silencios que habían destruido su relación.
+
+Méndez dejó el café sobre la mesa.
+
+—No tienes que contarme todo en el momento. Solo necesito saber si estamos en peligro.
+
+—Todavía no lo sé.
+
+Él aceptó la respuesta, aunque la preocupación permaneció en su mirada.
+
+En otra parte de la ciudad, Michelle presentó ante Irene los nuevos contratos del estudio. Quería asegurarse de que ninguna empresa relacionada con la familia de Méndez estuviera entre los clientes. Después de revisar la lista, Irene señaló una compañía pequeña que había solicitado una campaña completa y ofrecía pagar por adelantado.
+
+—Fue creada hace tres meses —explicó—. No tiene empleados registrados.
+
+Michelle recordó la insistencia del cliente por reunirse dentro del estudio.
+
+—Cancelaré el encargo.
+
+—Hazlo sin mencionar la investigación.
+
+El mensaje de cancelación fue respondido con amabilidad. Minutos después, Dylan recibió una notificación en el teléfono oculto.
+
+**Perdimos la entrada al estudio. Encuentra otra.**
+
+Dylan no respondió.
+
+Durante su visita con Gigi, la niña quiso jugar en línea. Entraron al mundo donde estaba la casa virtual y descubrieron un usuario desconocido observándolos desde lejos. Méndez se conectó al recibir la invitación.
+
+—¿Es amigo tuyo? —preguntó a Dylan.
+
+—Nunca lo había visto.
+
+El usuario desapareció antes de que pudieran revisar su nombre. Gigi creyó que se trataba de un error del juego. Méndez guardó una captura y la envió al equipo de seguridad.
+
+Dylan fingió preocupación. Sabía que el perfil había sido creado para probar si Méndez seguía vigilando la actividad virtual. No sabía por qué el padre de Méndez necesitaba esa información.
+
+Al terminar la visita, Gigi le mostró una pequeña llave que llevaba colgada bajo la camiseta.
+
+—Mamá dice que es de algo importante.
+
+Dylan sintió que el corazón se aceleraba.
+
+—Entonces no deberías enseñarla.
+
+—A ti sí. Eres mi papá.
+
+La confianza de la niña confirmó que el plan funcionaba. Pudo preguntarle qué abría la llave, pero una pregunta directa habría despertado sospechas. La escondió bajo su camiseta y decidió fotografiarla cuando tuviera una oportunidad segura.
+
+—Precisamente por eso debo ayudarte a cuidarla. No se la muestres a nadie.
+
+Aquella noche informó que Gigi llevaba una llave, pero afirmó no saber qué abría. La respuesta tardó varios minutos.
+
+**Averígualo.**
+
+En el apartamento de Elena, Irene recibió el primer resultado del análisis. La voz compartía patrones con una grabación familiar hecha veintidós años atrás. La coincidencia no era suficiente para una identificación legal, pero superaba el noventa por ciento.
+
+Elena observó el nombre escrito en el informe y cerró los ojos.
+
+—Está vivo.
+
+—Todavía necesitamos una prueba —advirtió Irene.
+
+—Para la policía, quizá. Para mí, esa voz ya es una prueba.
+
+Desde el pasillo, Méndez escuchó las últimas palabras. Había regresado por la carpeta olvidada.
+
+—¿Quién está vivo? —preguntó.
+
+Elena e Irene se volvieron hacia él.
+
+El silencio volvió a ocupar el espacio entre madre e hijo, pero esta vez Méndez no estaba dispuesto a esperar dieciocho años para que alguien lo rompiera.
+
+—Me pediste que escuchara toda la historia antes de decidir qué lugar tendrías en mi vida —dijo—. Ahora necesito que tú hagas lo mismo conmigo.
+
+Elena se sentó. Irene permaneció junto a la puerta, preparada para intervenir si la conversación comprometía la investigación.
+
+—La grabación podría ser de tu padre —admitió Elena—. El análisis no es definitivo.
+
+Méndez sintió que la habitación cambiaba de tamaño.
+
+—Me dijiste que había muerto.
+
+—Te dije lo que me hicieron creer. Recibí un certificado, una urna sellada y la amenaza de no buscar más.
+
+—¿Nunca dudaste?
+
+Elena recordó una transferencia recibida años después con una frase que solo él utilizaba. Pensó que se trataba de una crueldad del abuelo y destruyó el comprobante. También recordó llamadas mudas en cada aniversario de Méndez.
+
+—Dudé demasiadas veces y siempre elegí la explicación que me permitía seguir escondida.
+
+Méndez caminó por la sala. La rabia que sentía hacia Elena competía con otra más antigua, dirigida contra cada adulto que decidió que él no podía soportar la verdad.
+
+—No vuelvas a protegerme ocultándome algo.
+
+—No estaba intentando protegerte. Estaba intentando protegerme del momento en que me preguntaras por qué no lo busqué.
+
+La sinceridad detuvo la discusión. Elena no se presentó como una madre sacrificada; reconoció que el miedo también la había vuelto egoísta.
+
+Irene propuso establecer un plazo. En dos días tendrían una segunda comparación de voz y revisarían las entradas migratorias asociadas a las identidades falsas. Hasta entonces, nadie contactaría al posible responsable.
+
+Méndez aceptó con una condición: recibiría los resultados al mismo tiempo que Elena.
+
+—No después. No cuando creas que estoy preparado.
+
+—Al mismo tiempo —prometió ella.
+
+Michelle llegó cuando la conversación terminaba. Encontró a Méndez en las escaleras y lo acompañó a caminar. Él le contó la sospecha sin mencionar detalles protegidos.
+
+—Si está vivo, pudo buscarme —dijo—. Tenía dinero, contactos y acceso a mi familia.
+
+—También pudo estar amenazado —señaló Michelle.
+
+—O pudo ser parte de todo.
+
+Ninguna posibilidad ofrecía consuelo. Méndez temía encontrar a otra víctima porque tendría que comprender una ausencia más; temía encontrar a un cómplice porque confirmaría que su vida había sido vigilada por ambos lados.
+
+Al regresar, Elena sostenía la fotografía con la mano fuera del encuadre. Le entregó el original.
+
+—Era tu primer cumpleaños. Tu padre insistió en decorar la habitación él mismo.
+
+Méndez observó la mano apoyada junto a la cuna. No era suficiente para reconocer a un hombre, pero sí para demostrar que alguna vez estuvo cerca.
+
+Guardó la fotografía sin agradecer. Todavía no podía.
+
+Esa noche, la segunda prueba de voz comenzó a procesarse. En la pantalla de Irene, una barra avanzaba lentamente hacia una respuesta que podía cambiar de nuevo toda la historia familiar.
+
+---
+
+# Capítulo 63
+
+## El hombre que debía estar muerto
+
+Elena colocó el informe sobre la mesa.
+
+—La voz podría pertenecer a tu padre.
+
+Méndez no reaccionó de inmediato. Leyó el nombre, el porcentaje de coincidencia y la fecha de la grabación utilizada como comparación. Después volvió a empezar, como si una segunda lectura pudiera cambiar las palabras.
+
+—Dijeron que murió.
+
+—Eso dijeron tus abuelos —respondió Elena—. Nunca vi un cuerpo. Recibí un documento y una amenaza para mantenerme lejos de ti.
+
+Méndez caminó hasta la ventana.
+
+Durante años había imaginado a sus padres como dos ausencias diferentes: Elena era la mujer que se marchó; su padre, el hombre que ya no podía regresar. Descubrir que ambos relatos podían haber sido construidos por sus abuelos le quitaba incluso la seguridad de saber a quién había perdido.
+
+—¿Trabajaba en el sistema?
+
+Elena tardó en responder.
+
+—Conocía partes importantes. Al principio creí que me ayudaba a protegerlo. Después empezó a reunirse con tu abuelo sin decírmelo.
+
+—¿Crees que organizó el secuestro?
+
+—No lo sé.
+
+Irene intervino antes de que la sospecha se convirtiera en certeza. La grabación demostraba únicamente que alguien con una voz similar había hablado sobre el futuro de Méndez. No podían vincularlo todavía con la mujer del uniforme ni con las cuentas.
+
+Méndez pidió escucharla. Elena dudó, pero entregó el dispositivo.
+
+La frase duraba pocos segundos. Aun así, la voz provocó en él una memoria imposible: una mano ajustándole el cinturón de seguridad y un hombre prometiendo regresar antes de que oscureciera.
+
+—Lo recuerdo —susurró.
+
+Elena tomó aire.
+
+—Los recuerdos de los tres años no siempre son precisos.
+
+—Pero tú también lo reconociste.
+
+—Sí.
+
+Méndez salió antes de decir algo que no pudiera retirar. Llamó a Michelle desde el estacionamiento. Ella llegó sin Gigi y lo encontró sentado dentro del automóvil, con las manos inmóviles sobre el volante.
+
+—Mi padre puede estar vivo.
+
+Michelle no preguntó primero si era una buena noticia. Se sentó a su lado y esperó.
+
+—No sé qué siento —continuó—. Quiero encontrarlo. Quiero que no exista. Quiero preguntarle por qué me dejó y temo que la respuesta sea que nunca se fue realmente.
+
+—No tienes que elegir una sola emoción.
+
+Méndez apoyó la frente en el volante.
+
+—Si estuvo trabajando con mi abuelo, pudo verme crecer.
+
+—Todavía no lo sabemos.
+
+La prudencia de Michelle evitó que una sospecha se convirtiera en sentencia. Acordaron no decir nada a Gigi hasta confirmar la identidad.
+
+Dylan recibió la noticia esa misma tarde, no por ellos, sino mediante el segundo teléfono.
+
+**Elena reconoció mi voz.**
+
+—Te dije que no enviaras grabaciones sin distorsión —respondió.
+
+**Necesitaba que empezaran a buscarme.**
+
+Dylan se apartó de la ventana del centro de visitas.
+
+—Eso no era parte del plan.
+
+**El plan cambió cuando arrestaron a mi padre. Méndez debe descubrir que sigo vivo antes de que pueda ocupar su lugar.**
+
+—¿Qué lugar?
+
+No obtuvo respuesta.
+
+Gigi entró con la maqueta reparada y pidió ayuda para colocar una figura. Dylan guardó el teléfono.
+
+—¿Estabas hablando con alguien?
+
+—Con el trabajo.
+
+La mentira salió con demasiada facilidad.
+
+Después de la visita, Michelle mencionó que tendrían que cambiar otra vez algunos horarios. Dylan fingió no saber la causa y no hizo preguntas. Ella terminó contándole que existía una nueva amenaza relacionada con la familia de Méndez.
+
+—Si necesitas que Gigi se quede conmigo más tiempo, puedo ayudar —ofreció.
+
+Michelle lo observó, midiendo cuánto confiaba en él.
+
+—Tal vez. Primero debo hablar con Irene.
+
+Dylan asintió. No insistir era la forma más rápida de conseguir que aceptaran.
+
+Esa noche, Méndez abrió el videojuego. El usuario desconocido apareció de nuevo frente a la casa virtual. Esta vez dejó un objeto en la entrada: una figura idéntica al primer personaje que Méndez había usado de niño.
+
+Debajo había un mensaje.
+
+**Yo te enseñé a jugar antes de que aprendieras a perder.**
+
+Méndez tomó una captura. Cuando intentó responder, el usuario ya no existía.
+
+El hombre que debía estar muerto no solo sabía dónde encontrarlo.
+
+Quería que Méndez supiera que había estado observándolo.
+
+El equipo de seguridad rastreó al usuario hasta una red pública situada a seis calles de la antigua mansión. Cuando llegaron, encontraron una computadora abandonada que reproducía automáticamente imágenes del videojuego. No había huellas ni archivos locales.
+
+Irene explicó que la persona no intentaba ocultar por completo su presencia. Había dejado suficientes rastros para que los siguieran, pero ninguno capaz de identificarla.
+
+—Nos está guiando —dijo Michelle.
+
+—O midiendo cuánto tardamos en reaccionar —respondió Méndez.
+
+Elena revisó la figura enviada dentro del juego. Recordó que el padre de Méndez le regaló aquel personaje cuando el niño era demasiado pequeño para controlar el teclado. Ella sostenía sus manos mientras él presionaba las teclas.
+
+—Solo tres personas conocíamos esto —afirmó.
+
+La frase estrechó el círculo sin cerrarlo. Los archivos del videojuego podían haber sido recuperados por el abuelo o por cualquiera con acceso a los equipos antiguos.
+
+Méndez pidió entrar solo a la mansión antes de que fuera incautada. Irene autorizó una visita acompañada por agentes. Michelle quiso ir, pero él prefirió hacerlo con Elena.
+
+La habitación infantil seguía casi intacta. Habían retirado los juguetes, aunque una marca rectangular en la pared mostraba dónde estuvo instalado el primer ordenador. Elena recorrió el espacio como si caminara dentro de un recuerdo ajeno.
+
+Debajo de una tabla encontraron un cable conectado a una caja antigua. El dispositivo guardaba copias de sesiones del juego, correos y grabaciones familiares. Alguien lo había actualizado menos de un mes antes.
+
+Méndez sintió náuseas.
+
+—¿Nos observaban desde aquí?
+
+El agente desconectó el equipo y lo guardó como evidencia.
+
+Dentro de un cajón apareció una tarjeta de cumpleaños firmada únicamente con una inicial. Elena reconoció la letra, pero se negó a decirlo hasta que la comparación fuera oficial.
+
+Al salir de la mansión, Méndez encontró a varios periodistas. Uno preguntó si pensaba reclamar los bienes después del juicio. Otro quiso saber si Michelle había recibido dinero ilegal. Él no respondió. Había aprendido que cada frase pública podía convertirse en herramienta para la persona que los vigilaba.
+
+Dylan vio la transmisión desde su casa. El padre de Méndez llamó segundos después.
+
+—Encontraron la caja.
+
+—¿Eso te preocupa?
+
+—Quería que la encontraran.
+
+—¿Por qué?
+
+—Porque ahora Méndez buscará respuestas en la única persona que cree fuera de la guerra: tú.
+
+Dylan miró su reflejo en la pantalla oscura.
+
+—Él no confía en mí de esa manera.
+
+—Todavía.
+
+La llamada terminó. Minutos después, Méndez escribió para pedirle una conversación. Dylan leyó el mensaje dos veces antes de aceptar.
+
+El hombre que debía estar muerto había calculado incluso la dirección en que su hijo buscaría apoyo.
+
+---
+
+# Capítulo 64
+
+## La grieta perfecta
+
+La primera acusación llegó contra Michelle.
+
+Una transferencia apareció en la cuenta del estudio con el mismo código utilizado para desviar dinero de la antigua compañía. La cantidad era suficiente para despertar sospechas y demasiado grande para que pudiera confundirse con el pago de un cliente.
+
+Michelle llamó a Irene antes de tocar el dinero.
+
+—No sé de dónde salió.
+
+—No muevas nada. Guarda capturas y cierra la sesión.
+
+Horas después, dos agentes llegaron con una orden para revisar los equipos. La noticia se filtró antes de que terminara la inspección. En redes sociales empezaron a llamarla oportunista y a afirmar que su relación con Méndez siempre tuvo como objetivo la fortuna.
+
+Las palabras repetían exactamente las acusaciones de los abuelos.
+
+Méndez apareció en el estudio y se colocó frente a las cámaras.
+
+—Michelle informó la transferencia. Está colaborando con la investigación.
+
+Irene lo apartó antes de que continuara. Defenderla públicamente sin autorización podía empeorar el caso.
+
+—Quieren que reacciones como un heredero protegiendo a su pareja —advirtió—. Necesitamos pruebas, no una declaración de amor.
+
+Michelle observó cómo los agentes se llevaban su computadora. El lugar que había construido para recuperar su independencia se convirtió en escenario de otra investigación familiar.
+
+—Tal vez debería cerrar durante unos días.
+
+—Eso es lo que esperan —dijo su tío.
+
+Los clientes comenzaron a cancelar. Una madre de la red de diseñadoras se presentó con su portátil y ofreció terminar los encargos pendientes. Después llegó otra. Al finalizar la tarde, cinco mujeres trabajaban alrededor de la mesa vacía.
+
+Michelle sintió que la vergüenza perdía parte de su fuerza. La acusación llevaba su nombre, pero no tendría que enfrentarla sola.
+
+Dylan apareció para recoger a Gigi. Llevó comida y evitó entrar en el estudio frente a las cámaras.
+
+—Si quieres, puede quedarse conmigo esta noche —ofreció.
+
+Michelle miró a su hija. La niña había escuchado suficientes susurros para comprender que algo ocurría.
+
+—Solo hasta mañana —aceptó—. Mantén el teléfono encendido.
+
+Dylan prometió hacerlo.
+
+En el automóvil, Gigi preguntó si su madre iría a la cárcel. Él pudo tranquilizarla sin esfuerzo porque conocía el plan: la transferencia no produciría una condena. Solo debía sembrar una duda.
+
+—Tu mamá no hizo nada malo —dijo.
+
+—¿Entonces por qué todos hablan así?
+
+—Porque a veces la gente cree primero la historia que más le gusta.
+
+La respuesta fue honesta. Dylan llevaba meses beneficiándose de la historia que todos querían creer sobre su cambio.
+
+Cuando Gigi se durmió, sacó el segundo teléfono.
+
+—La transferencia fue demasiado obvia —escribió.
+
+**Debía serlo. Méndez confiará en ella. Los demás no.**
+
+—Si vuelves a usar a Gigi, el precio aumenta. No pienso asumir riesgos gratis.
+
+**Ya la usaste tú. Gracias a la custodia tenemos a la niña fuera de la casa y a Michelle distraída.**
+
+Dylan miró hacia la habitación. Había aceptado porque el padre de Méndez le ofreció dinero suficiente para pagar sus deudas y empezar otra vida con Valeria. No quería recuperar a Michelle ni ejercer como padre de Gigi. Ambas eran piezas que debía mantener cerca hasta completar el trabajo.
+
+—Pagarás el doble por cualquier cosa relacionada con la niña.
+
+**Encuentra la copia y podrás imponer condiciones.**
+
+Al día siguiente, Méndez llegó a buscar a la niña. Dylan le preparó café mientras ella terminaba de vestirse.
+
+—¿Confías completamente en Michelle? —preguntó con aparente cautela.
+
+Méndez dejó la taza.
+
+—Sí.
+
+—Yo también creo que es inocente. Pero quien hizo la transferencia conocía su cuenta. Tal vez alguien cercano está ayudando sin que ella lo sepa.
+
+La insinuación era pequeña, diseñada para no parecer una acusación. Méndez la rechazó, aunque durante el trayecto revisó mentalmente quién tenía acceso al estudio.
+
+Dylan lo vio marcharse y comprendió por qué el padre de Méndez había elegido ese método. No necesitaban convencerlo de que Michelle era culpable. Bastaba con obligarlo a sospechar de todas las personas que la rodeaban.
+
+La grieta no tenía que separar a la pareja de inmediato.
+
+Solo necesitaba existir.
+
+La conversación entre Méndez y Dylan ocurrió en una cancha vacía mientras Gigi asistía a una actividad escolar. Méndez no mencionó la transferencia al principio. Preguntó si Dylan había recibido amenazas después de colaborar con Irene.
+
+—Algunas llamadas —respondió—. Nada que pudieran rastrear.
+
+Era una confesión diseñada para parecer incompleta. Méndez reconoció el tono porque él mismo había utilizado verdades parciales durante años.
+
+—Si sabes algo que pueda ponerlas en peligro, este es el momento.
+
+Dylan pensó en el segundo teléfono y en la fotografía de Michelle entrando al edificio. También pensó en la mujer del uniforme, en el depósito de la biblioteca y en la información escolar que había compartido sabiendo que serviría para vigilar, aislar y presionar a Michelle y a Gigi.
+
+—Sé que tu familia usa la culpa para conseguir obediencia —dijo—. Si sospechas de alguien, quizá es porque quieren que dejes de confiar.
+
+La respuesta no entregaba información, pero sonaba útil. Méndez le contó que una persona intentaba involucrar a Michelle en las transferencias.
+
+—Ella no tocaría ese dinero —afirmó Dylan.
+
+—Lo sé.
+
+—Entonces no permitas que la investigación consiga lo que tus abuelos no pudieron.
+
+Méndez agradeció el consejo. Dylan ocultó su satisfacción. Había conseguido que el hombre al que debía destruir interpretara una maniobra calculada como una muestra de lealtad.
+
+Al terminar, vio a Gigi corriendo hacia ellos. La niña tomó una mano de cada uno para arrastrarlos hasta la exposición. Durante unos segundos, Dylan y Méndez caminaron unidos por ella.
+
+—Esto es raro —dijo Gigi—, pero raro bonito.
+
+Dylan apartó la mirada para localizar las cámaras de la escuela y comprobar qué parte de la escena podía utilizar más tarde como prueba de su supuesto cambio.
+
+Esa noche, la acusación contra Michelle apareció en un programa nacional. Un supuesto experto afirmó que ella había seducido a Méndez para acceder a la fortuna. El estudio recibió mensajes ofensivos y amenazas.
+
+Michelle apagó el teléfono, pero Gigi alcanzó a leer una frase antes de que retiraran la pantalla.
+
+—¿Por qué dicen que eres mala?
+
+—Porque no conocen toda la historia.
+
+—Yo sí te conozco.
+
+La niña la abrazó. Méndez observó la escena y comprendió que la mentira no solo atacaba la reputación de Michelle; pretendía obligarlos a usar toda su energía defendiéndose mientras alguien buscaba los archivos.
+
+Irene encontró después el origen de la transferencia: una cuenta vinculada a una empresa que había financiado parte del proceso legal de Dylan años atrás. El dato podía significar que él también fue utilizado o que estaba involucrado.
+
+—No lo confrontaremos todavía —decidió.
+
+Méndez sintió que la grieta se ensanchaba. Acababa de confiarle a Dylan sus sospechas y ahora debía considerar que quizá esa conversación también formaba parte del plan.
+
+No se lo contó a Michelle esa noche. Quiso evitar añadir otra preocupación.
+
+El silencio nació con intención protectora, igual que muchos de los secretos que habían destruido a su familia.
+
+En otro lugar, Dylan recibió la instrucción de preguntar si Méndez había mencionado la empresa. Respondió que no.
+
+La mentira era parte del plan: guardar información algunos minutos le permitía negociar pagos más altos. Dylan no pretendía desafiar al padre de Méndez, sino recordarle que su colaboración tenía un precio.
+
+La grieta crecía entre Michelle y Méndez mientras los dos hombres que conspiraban contra ellos discutían únicamente cuánto valía cada golpe.
+
+---
+
+# Capítulo 65
+
+## Una llave desde dentro
+
+La llave que Gigi llevaba no abría una caja de seguridad.
+
+Abría el armario metálico del estudio donde Michelle guardaba contratos, dispositivos antiguos y el cuaderno de dibujos de su padre. La copia principal de los archivos estaba en otro lugar, pero Dylan no lo sabía.
+
+Durante la noche que Gigi pasó con él, la niña se quitó el collar para bañarse. Dylan sostuvo la llave frente a una lámpara y tomó fotografías desde varios ángulos. Un programa podía reproducirla en pocas horas.
+
+La dejó exactamente donde estaba.
+
+Por la mañana, Gigi se colocó el collar sin notar nada.
+
+Dylan condujo hasta el estudio después de llevarla con Michelle. El local permanecía cerrado por la inspección, aunque la orden ya había terminado. Usó la copia de la llave en la puerta trasera y esperó que la alarma solicitara un código.
+
+El segundo teléfono mostró seis números.
+
+Alguien los había obtenido mediante el dispositivo escondido bajo el escritorio.
+
+Dylan entró.
+
+La luz de emergencia convertía los muebles en sombras. Caminó hasta el armario y probó la llave reproducida. Funcionó en el segundo intento.
+
+Dentro encontró contratos, memorias sin etiquetas y la carta del padre de Michelle. Fotografió cada elemento antes de tocarlo. Ninguna memoria contenía la copia que buscaba.
+
+El teléfono vibró.
+
+**Busca el cuaderno.**
+
+Dylan abrió el cuaderno de dibujos. Entre dos páginas había una lista de direcciones escritas por Michelle. Una correspondía a la casa del tío, otra al banco y una tercera a un edificio de bodegas.
+
+—La encontré —susurró.
+
+Guardó una fotografía y devolvió el cuaderno. Al cerrar el armario oyó pasos junto a la entrada.
+
+Méndez apareció acompañado por Irene.
+
+Dylan apenas alcanzó a ocultarse detrás de una división.
+
+—La alarma registró un intento fallido —dijo Irene.
+
+—¿Ves algo fuera de lugar?
+
+Méndez recorrió el estudio. Se detuvo frente al cartel que Dylan había ayudado a colocar y después miró el escritorio. El dispositivo seguía transmitiendo a pocos centímetros de su mano.
+
+—No.
+
+Irene revisó la puerta trasera. No encontró daños.
+
+—Alguien pudo copiar una llave.
+
+Dylan contuvo la respiración.
+
+El segundo teléfono vibró dentro de su bolsillo. El sonido fue mínimo, pero Méndez volvió la cabeza.
+
+—¿Escuchaste eso?
+
+Antes de que pudiera acercarse, una alarma comenzó a sonar en el edificio vecino. Irene recibió una llamada sobre humo en la bodega donde la fiscalía guardaba equipos confiscados.
+
+—Tenemos que salir.
+
+Méndez dudó. Después siguió a Irene.
+
+Dylan esperó hasta que sus pasos desaparecieron. Salió por la puerta trasera y comprendió que la alarma había sido activada para protegerlo. El padre de Méndez no solo lo vigilaba; podía provocar una emergencia en el momento exacto.
+
+Horas más tarde se reunió con Michelle y Gigi en una cafetería. Llevó libros para la niña y preguntó por la investigación como si no supiera nada.
+
+—Alguien intentó entrar al estudio —explicó Michelle.
+
+Dylan frunció el ceño.
+
+—¿Se llevaron algo?
+
+—No parece.
+
+—Deberías cambiar todas las cerraduras.
+
+Michelle asintió. Después le pidió que cuidara a Gigi mientras acompañaba a Irene a la bodega.
+
+—Sé que esto es mucho —dijo—, pero ahora mismo eres la única persona fuera de la investigación en quien puedo confiar.
+
+Dylan recibió la frase como la confirmación que llevaba meses esperando. Michelle acababa de entregarle acceso sin que él tuviera que pedirlo.
+
+—Yo me encargo.
+
+Gigi tomó su mano y caminaron hacia el parque. La niña habló durante varios minutos antes de notar que su padre no respondía.
+
+—¿Estás triste?
+
+—Solo estoy pensando.
+
+—Méndez dice que pensar demasiado hace que uno olvide dónde está.
+
+Dylan miró los dedos pequeños alrededor de los suyos. La confianza de Gigi no despertó arrepentimiento. Le confirmó que podía acceder a la casa, a los horarios y a cualquier objeto que Michelle creyera seguro cerca del padre de su hija.
+
+El aparato vibró.
+
+**Envía la dirección.**
+
+Dylan abrió la fotografía de la lista, comprobó que la cifra prometida seguía escrita en el último mensaje y presionó el botón de envío.
+
+Gigi tiró de su mano.
+
+—Vamos, papá.
+
+Él envió la dirección y esperó la confirmación del pago.
+
+Por primera vez tenía acceso directo a la última copia.
+
+En la pantalla apareció un nuevo mensaje:
+
+**Recibirás la segunda mitad cuando confirmemos los archivos.**
+
+Dylan guardó el dispositivo y sonrió a su hija.
+
+—Vamos.
+
+Mientras caminaban, Dylan calculó cuánto tiempo más debía sostener la actuación. No existía ninguna elección entre la alianza y una familia recuperada: Michelle y Gigi nunca fueron el destino al que quería volver. Eran el acceso por el que pensaba cobrar.
+
+Pasaron la tarde en el parque. Gigi quiso alimentar palomas y terminó rodeada por tantas que pidió ayuda entre risas. Dylan la levantó y corrió con ella hasta un banco, representando al padre atento mientras comprobaba de reojo si la transferencia ya había sido liberada.
+
+—¿Puedo quedarme contigo el fin de semana? —preguntó la niña.
+
+El acuerdo todavía exigía supervisión para las noches. Dylan explicó que debían pedir permiso a la terapeuta y a Michelle.
+
+—Antes habrías dicho que mamá no te deja.
+
+La observación lo sorprendió.
+
+—Antes decía muchas cosas para no aceptar que yo también tenía culpa.
+
+—Ahora eres mejor.
+
+Dylan recibió el elogio sin emoción. Había aprendido que admitir errores vagos hacía que los demás imaginaran un arrepentimiento que él nunca expresó. Gigi completaba sola la historia del padre que estaba mejorando y él se limitaba a no contradecirla.
+
+Llamó a Irene cuando dejó a la niña con Michelle. No alcanzó a explicar el motivo. Al otro lado, la abogada informó que necesitaba entrevistarlo sobre la empresa que pagó parte de sus antiguos gastos legales.
+
+—¿Puedes venir mañana a primera hora?
+
+—Sí.
+
+—No comentes esto con nadie.
+
+Dylan miró el segundo teléfono.
+
+—Entiendo.
+
+Después recibió otro mensaje con una fotografía de Gigi en el parque tomada desde lejos.
+
+**La dirección fue confirmada. Pago liberado en cincuenta y cuatro minutos.**
+
+Dylan comprobó la cuenta. La transferencia todavía aparecía retenida. Con aquel dinero podía liquidar las deudas que había ocultado a Valeria y llevarla al apartamento que le había prometido. La nueva vida que planeaba no tenía fotografías de Michelle ni habitaciones para Gigi.
+
+Condujo hasta una zona industrial para recoger un dispositivo limpio y las instrucciones de la siguiente etapa. Copió en una libreta el número del padre de Méndez, no como seguro para confesar, sino como protección para negociar. Los socios que conocían secretos mutuos pagaban con mayor puntualidad.
+
+Preparó un mensaje para Valeria: **El negocio está por terminar. Pronto podremos irnos.** No explicó qué negocio ni de dónde procedería el dinero. Ella creía que Dylan asesoraba una operación inmobiliaria.
+
+La confirmación llegó.
+
+**Por fin elegiste correctamente.**
+
+Dylan sonrió. Nunca había tenido dudas sobre la elección; únicamente quería asegurarse de recibir cada parte del pago.
+
+En la bodega verdadera, Michelle e Irene revisaban la última copia. Encontraron una carpeta que no recordaban haber creado. Dentro había fotografías de Dylan hablando con un hombre cuyo rostro nunca aparecía de frente.
+
+Las fechas comenzaban antes del primer intento de custodia.
+
+Michelle se quedó sin aire.
+
+—¿Desde cuándo lo están siguiendo?
+
+Irene amplió una imagen. En el cristal de un automóvil se reflejaba parte del rostro del acompañante.
+
+—Tal vez no lo seguían —respondió—. Tal vez se reunían.
+
+Michelle quiso llamar a Dylan, pero Irene detuvo su mano.
+
+—Primero debemos saber dónde está Gigi.
+
+—Está con Méndez.
+
+Confirmaron la ubicación mediante una videollamada. Gigi apareció preparando panqueques y protestó porque los adultos parecían asustados.
+
+Michelle sintió alivio, seguido de una traición que todavía no podía demostrar.
+
+En la zona industrial, el segundo teléfono de Dylan sonó. Esta vez no era un mensaje. Era una llamada.
+
+Respondió.
+
+—La ubicación es correcta —dijo el padre de Méndez—. Pero encontraron fotografías de nuestras reuniones.
+
+Dylan dejó de sonreír.
+
+—Dijiste que habías borrado todo.
+
+—Alguien conservó una copia. Mañana Irene te preguntará por la empresa que pagó a tus abogados. Mentirás, entregarás el teléfono limpio y descubrirás cuánto saben.
+
+—Eso cuesta más.
+
+—Ya transferí suficiente para comprar tu lealtad.
+
+—Compraste información. Mi lealtad nunca estuvo incluida.
+
+Las luces de dos automóviles se encendieron al final de la calle. Uno llevaba el dispositivo prometido; el otro permanecería detrás de Dylan para asegurarse de que cumpliera.
+
+—Recuerda por qué regresaste —dijo la voz—. No por Michelle. No por la niña. Regresaste porque yo podía pagarte.
+
+Dylan observó la notificación bancaria. El dinero acababa de llegar.
+
+—Y seguiré mientras continúes haciéndolo.
+
+Guardó el teléfono, recogió el nuevo dispositivo y condujo hacia el apartamento de Valeria.
+
+Mientras tanto, Michelle contemplaba las fotografías de las reuniones. Todavía buscaba una explicación que permitiera creer en el cambio de Dylan.
+
+No sabía que aquel cambio nunca había existido.
+
+---
+
