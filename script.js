@@ -9,6 +9,7 @@ let publishedChapters=[],activeChapter=0,activeFilter='all',noteTimer;
 function getJSON(key,fallback=null){try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}}
 function setJSON(key,value){localStorage.setItem(key,JSON.stringify(value))}
 function escapeHTML(value){return String(value).replace(/[&<>'"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]))}
+function inlineMarkup(value){return escapeHTML(value).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}
 function favorites(){return publishedChapters.map((_,index)=>index).filter(index=>localStorage.getItem(`chapter${index+1}`)==='saved')}
 function readChapters(){return new Set(getJSON(readKey,[]))}
 function isFavorite(index){return localStorage.getItem(`chapter${index+1}`)==='saved'}
@@ -20,7 +21,7 @@ function illustrationMarkup(index){const art=chapterArt[index];return art?`<figu
 function renderChapter(index,scroll=false,ratio=0){
  if(!publishedChapters.length)return;
  activeChapter=Math.max(0,Math.min(index,publishedChapters.length-1));
- const item=publishedChapters[activeChapter],paragraphs=item.paragraphs.map((p,i)=>`<p>${escapeHTML(p)}</p>${i===0?illustrationMarkup(activeChapter):''}`).join('');
+ const item=publishedChapters[activeChapter],paragraphs=item.paragraphs.map((p,i)=>`<p>${inlineMarkup(p)}</p>${i===0?illustrationMarkup(activeChapter):''}`).join('');
  chapterNumber.textContent=`CAPÍTULO ${String(activeChapter+1).padStart(2,'0')}`;chapterTitle.innerHTML=titleMarkup(item.title);readingTime.textContent=`Tiempo de lectura · ${item.minutes} min`;chapterView.innerHTML=paragraphs+`<div class="end">FIN DEL CAPÍTULO ${String(activeChapter+1).padStart(2,'0')}</div>`;chapterSelect.value=String(activeChapter);previous.disabled=activeChapter===0;next.disabled=activeChapter===publishedChapters.length-1;next.textContent=activeChapter===publishedChapters.length-1?'Continuará…':'Siguiente →';dockChapter.textContent=`Cap. ${String(activeChapter+1).padStart(2,'0')}`;
  refreshFavoriteButton();renderFeedback();
  if(scroll)requestAnimationFrame(()=>{const top=chapterView.getBoundingClientRect().top+scrollY-105,travel=Math.max(0,chapterView.offsetHeight-innerHeight*.45);scrollTo({top:top+travel*ratio,behavior:'smooth'});chapterView.focus({preventScroll:true})});
