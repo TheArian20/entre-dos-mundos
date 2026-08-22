@@ -14,7 +14,10 @@
     [49,'La desaparición de Gigi','La amenaza deja de ser únicamente económica.'],
     [58,'Fuego en el negocio','El peligro alcanza el mundo construido por Michelle.'],
     [61,'La confianza como arma','La aparente transformación de Dylan comienza a mostrar grietas.'],
-    [65,'Una llave desde dentro','Alguien utiliza la confianza de Gigi para acercarse a los archivos.']
+    [65,'Una llave desde dentro','Alguien utiliza la confianza de Gigi para acercarse a los archivos.'],
+    [70,'Veinticuatro horas','Origen abre una conversación directa con Méndez.'],
+    [75,'La memoria equivocada','Las alianzas comienzan a romperse alrededor de una prueba cifrada.'],
+    [80,'El imperio necesita un dueño','La junta activa una red mucho mayor que la empresa visible.']
   ];
   const clues = [
     [1,'Mich_27','Nombre de Michelle dentro del videojuego.'],
@@ -24,7 +27,11 @@
     [49,'La desaparición','Gigi se convierte en el centro de una amenaza calculada.'],
     [56,'El dispositivo','Los archivos conectan las decisiones del abuelo con otros miembros de la familia.'],
     [61,'El segundo teléfono','Una comunicación secreta demuestra que alguien trabaja desde dentro.'],
-    [65,'La llave copiada','El acceso al estudio revela hasta dónde llega la manipulación.']
+    [65,'La llave copiada','El acceso al estudio revela hasta dónde llega la manipulación.'],
+    [70,'Origen','Un canal dentro del videojuego reclama una conexión con el padre de Méndez.'],
+    [75,'La memoria cifrada','Tres voces protegen la prueba que todos quieren controlar.'],
+    [78,'HEREDERO_02','El abuelo había preparado sustitutos antes de elegir a Méndez.'],
+    [80,'Libro II','Una red secreta despierta cuando Méndez vuelve a la junta.']
   ];
   const evolved = {
     dylan:{at:61,role:'EL INFILTRADO',description:'Su regreso no nació del arrepentimiento. Se ganó la confianza de Michelle, Gigi y Méndez para obtener información y cobrar por cada traición.',quote:'«Mi lealtad nunca estuvo incluida.»'},
