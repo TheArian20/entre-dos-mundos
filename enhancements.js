@@ -17,7 +17,11 @@
     [65,'Una llave desde dentro','Alguien utiliza la confianza de Gigi para acercarse a los archivos.'],
     [70,'Veinticuatro horas','Origen abre una conversación directa con Méndez.'],
     [75,'La memoria equivocada','Las alianzas comienzan a romperse alrededor de una prueba cifrada.'],
-    [80,'El imperio necesita un dueño','La junta activa una red mucho mayor que la empresa visible.']
+    [80,'El imperio necesita un dueño','La junta activa una red mucho mayor que la empresa visible.'],
+    [85,'El precio de una salida','Las identidades ocultas comienzan a quedar expuestas.'],
+    [90,'La ciudad debajo del juego','La investigación alcanza el centro operativo de la red.'],
+    [95,'El nombre borrado','Una identidad utilizada durante años conduce a una verdad familiar.'],
+    [100,'La página que no debía existir','El primer libro termina, pero alguien cercano todavía guarda un secreto.']
   ];
   const clues = [
     [1,'Mich_27','Nombre de Michelle dentro del videojuego.'],
@@ -31,7 +35,11 @@
     [70,'Origen','Un canal dentro del videojuego reclama una conexión con el padre de Méndez.'],
     [75,'La memoria cifrada','Tres voces protegen la prueba que todos quieren controlar.'],
     [78,'HEREDERO_02','El abuelo había preparado sustitutos antes de elegir a Méndez.'],
-    [80,'Libro II','Una red secreta despierta cuando Méndez vuelve a la junta.']
+    [80,'Libro II','Una red secreta se activa cuando Méndez vuelve a la junta.'],
+    [85,'Clara Montes','Una figura del pasado aparece detrás de las decisiones de Continuidad.'],
+    [90,'El centro operativo','Servidores y operadores conectan el videojuego con las empresas ocultas.'],
+    [95,'Samuel Vale','Un nombre compartido oculta decisiones tomadas por distintas personas.'],
+    [100,'La tinta roja','Una última señal demuestra que el peligro también puede estar cerca.']
   ];
   const evolved = {
     dylan:{at:61,role:'EL INFILTRADO',description:'Su regreso no nació del arrepentimiento. Se ganó la confianza de Michelle, Gigi y Méndez para obtener información y cobrar por cada traición.',quote:'«Mi lealtad nunca estuvo incluida.»'},
