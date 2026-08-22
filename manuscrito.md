@@ -5855,6 +5855,10 @@ Estaba regresando para cobrarle.
 
 ## El hombre que nunca volvió
 
+La noticia de la muerte del abuelo llegó mientras la investigación todavía avanzaba. Había sufrido una complicación cardiaca en el centro penitenciario y murió horas después en un hospital bajo custodia. La autopsia y los registros médicos no mostraron intervención de terceros, pero Irene pidió conservar cada informe: incluso muerto, el hombre había dejado demasiadas instrucciones preparadas como para confundir su ausencia con el final del peligro.
+
+Méndez recibió la noticia sin saber qué emoción le correspondía. No sintió alivio completo ni tristeza limpia. Comprendió únicamente que ya nunca podría exigirle una respuesta frente a frente y que, a partir de entonces, tendría que enfrentarse a las decisiones que su abuelo había dejado en manos de otros.
+
 Valeria esperó a que Dylan se durmiera. Tomó el teléfono limpio y fotografió las cuentas, las reservas y el rostro de Méndez. Luego envió todo a una dirección que encontró entre los documentos de la investigación pública.
 
 Dylan abrió los ojos antes de que pudiera devolver el aparato.
@@ -6313,7 +6317,7 @@ El padre de Michelle se negó.
 
 Michelle sintió que la voz de su padre atravesaba los años para destruir la última explicación amable. Había querido creer que el padre de Méndez podía ser otra víctima del abuelo. El video demostraba que también había tomado decisiones por ambición.
 
-El archivo incluía una lista de nombres. El tío de Michelle reconoció uno: Esteban Varela, antiguo contador que visitaba el negocio cuando Michelle era adolescente.
+El archivo incluía una lista de nombres. El tío de Michelle reconoció uno: Rogelio Varela, antiguo contador que visitaba el negocio cuando Michelle era adolescente.
 
 —Tu padre decía que era un cliente difícil —recordó—. Una vez los escuché discutir por una cuenta a nombre de un menor.
 
@@ -6347,7 +6351,7 @@ Michelle no intentó defender a un hombre que no conocía.
 
 —Porque el dinero puede explicar por qué volvió. No puede convertirlo en padre.
 
-En la residencia, Esteban Varela recibió una llamada antes de que llegaran los agentes. Una voz le ordenó abandonar el lugar. Él respondió que estaba cansado de esconderse.
+En la residencia, Rogelio Varela recibió una llamada antes de que llegaran los agentes. Una voz le ordenó abandonar el lugar. Él respondió que estaba cansado de esconderse.
 
 —Entonces no llegues vivo a la entrevista —contestó la voz.
 
@@ -6397,7 +6401,7 @@ Méndez miró el mapa apagado. Comprendió que su padre y el abuelo habían conv
 
 ## El nombre del contador
 
-Esteban Varela pidió hablar primero con Michelle. No porque confiara en ella, sino porque había conocido a su padre antes de que el miedo convirtiera cada conversación en un documento secreto.
+Rogelio Varela pidió hablar primero con Michelle. No porque confiara en ella, sino porque había conocido a su padre antes de que el miedo convirtiera cada conversación en un documento secreto.
 
 La reunión ocurrió en una sala protegida de la fiscalía. Varela parecía más pequeño que en los recuerdos del tío: hombros caídos, manos temblorosas y una cicatriz junto al oído.
 
@@ -6695,7 +6699,7 @@ Finalmente acudió a Méndez.
 
 —¿Quién integra el comité?
 
-Tomás entregó tres nombres. Dos eran representantes de fondos extranjeros. El tercero era Esteban Varela.
+Tomás entregó tres nombres. Dos eran representantes de fondos extranjeros. El tercero era Rogelio Varela.
 
 Varela negó haber aceptado el cargo. Su firma aparecía en un documento fechado durante el tiempo que estuvo escondido.
 
@@ -7051,7 +7055,7 @@ Elena negó conocer otro hijo. El abuelo, sin embargo, utilizaba la palabra here
 
 —O alguien a quien mi abuelo convirtió en reemplazo antes de decidir que yo era más útil —respondió Méndez.
 
-Los registros mostraban conexiones recientes desde la residencia de Esteban Varela. El contador juró que nunca utilizó el juego. Una inspección encontró un repetidor escondido dentro de un equipo médico. Alguien había usado su ubicación para desviar la señal.
+Los registros mostraban conexiones recientes desde la residencia de Rogelio Varela. El contador juró que nunca utilizó el juego. Una inspección encontró un repetidor escondido dentro de un equipo médico. Alguien había usado su ubicación para desviar la señal.
 
 HEREDERO_02 envió un mensaje privado a Gigi.
 
@@ -7429,11 +7433,2239 @@ Las cámaras mostraron la puerta abierta y una taza todavía caliente sobre la m
 
 Michelle no había enviado nada.
 
-El arco de Origen terminaba con Gabriel detenido y la junta neutralizada, pero otros integrantes de la organización acababan de realizar su primer movimiento sin Clara, Gabriel ni Adrián.
+El arco de Origen terminaba con Gabriel detenido y la junta neutralizada, pero otros integrantes de la organización acababan de realizar su primer movimiento sin exponerse ni revelar quién más daba las órdenes.
 
 La familia había ganado una batalla dentro del imperio visible.
 
 Ahora debía entrar en el sistema que el abuelo construyó para continuar sin él.
 
 ---
+
+# Capítulo 81
+
+## El mensaje que Michelle nunca envió
+
+Michelle llegó al refugio antes que la policía. Encontró a Gigi sentada junto a la puerta, abrazando la chaqueta de su tío y tratando de no llorar. Sobre la mesa seguía encendida la pantalla donde había aparecido el mensaje falso.
+
+La conversación mostraba el nombre y la fotografía de Michelle. La voz también era la suya. En el video, una mujer con su rostro le pedía al tío que saliera sin avisar porque Gigi corría peligro si alguien descubría el traslado.
+
+—No fue una simple grabación —explicó Irene—. Respondió preguntas. Sabía cosas privadas.
+
+Gigi señaló un detalle. La falsa Michelle había llamado al hombre por su nombre completo. La verdadera casi siempre le decía tío, incluso cuando hablaba con él a solas.
+
+—Se parecía a ti —dijo la niña—, pero no hablaba como tú.
+
+Michelle la abrazó. La observación confirmaba que los operadores de Continuidad podían fabricar una copia convincente de una cara y una voz, pero sus archivos no contenían la intimidad completa de los vínculos que intentaban imitar.
+
+La cámara de la calle mostró al tío entrando voluntariamente en un automóvil gris. El conductor llevaba una gorra y evitó mirar hacia el lente. El vehículo pertenecía a una empresa de mensajería comprada esa misma mañana por una sociedad vinculada a Libro II.
+
+Méndez quiso usar los recursos de la compañía para rastrearlo. Irene se opuso: cualquier sistema interno podía informar a la red.
+
+—El imperio ya no es una herramienta —advirtió—. Es una habitación llena de micrófonos.
+
+Trabajaron con mapas impresos, teléfonos nuevos y agentes que no habían participado en la investigación anterior. Elena recordó que el abuelo utilizaba almacenes abandonados como puntos de evaluación. No secuestraba candidatos; los aislaba, les daba información falsa y estudiaba sus decisiones.
+
+—¿Crees que están evaluando a mi tío? —preguntó Michelle.
+
+—Creo que están evaluándote a ti a través de él.
+
+En el videojuego, el avatar del libro abierto apareció frente a la torre. Dejó una frase:
+
+**Toda familia tiene a alguien que conoce la historia anterior.**
+
+El tío de Michelle había trabajado durante años con su padre. Conocía sus proyectos, sus discusiones y parte de la investigación que lo relacionaba con Elena. Los responsables de Continuidad no lo habían elegido como una víctima cualquiera. Buscaban algo que él sabía.
+
+Michelle revisó el antiguo negocio familiar. Detrás de un archivador encontró una libreta de su padre con dibujos de servidores, rutas y símbolos semejantes a los del juego. Una página había sido arrancada recientemente.
+
+Las cámaras mostraron que Dylan visitó el local dos semanas antes usando una llave que todavía conservaba de su relación con Michelle. No había entrado por nostalgia ni por Gigi. Fotografió documentos, revisó cajones y salió hablando por teléfono.
+
+Méndez apretó los dientes.
+
+—Él les dio la información.
+
+Irene revisó las cuentas. Dylan había recibido un tercer pago, distinto al de Gabriel y al del supuesto padre. Procedía de una empresa integrada a Libro II.
+
+Lo llamaron usando el número con el que había ofrecido vender las voces.
+
+—Quiero el dinero completo y una salida —dijo Dylan—. Después les digo dónde está el tío.
+
+—¿Sabías que se lo llevarían? —preguntó Michelle.
+
+—Sabía que pagarían por una dirección. Lo demás no estaba incluido en mi contrato.
+
+No hubo culpa en su respuesta. Tampoco preocupación por lo que Gigi pudiera sentir. Para Dylan, cada daño era únicamente una parte del precio que otro debía cubrir.
+
+Michelle fingió aceptar el intercambio. Dylan exigió que Méndez fuera solo a una estación cerrada del metro. Afirmó que allí entregaría las grabaciones y la ubicación.
+
+Gigi escuchó desde la otra habitación.
+
+—Va a vendernos otra cosa falsa —dijo.
+
+Tenía razón. El análisis de la llamada reveló que Dylan no estaba cerca de la estación. Había utilizado el sonido de un tren para crear una ubicación creíble. Sin embargo, debajo del ruido se oía una campana conocida por Michelle.
+
+Era la campana del antiguo taller de su padre, en las afueras de la ciudad.
+
+El lugar llevaba años cerrado.
+
+Cuando los agentes llegaron, no encontraron a Dylan ni al tío. Solo había una silla, una cámara conectada y la página arrancada de la libreta.
+
+En ella, el padre de Michelle había escrito una advertencia:
+
+**Si Elena vuelve a buscarme, significa que el proyecto aprendió a hablar con nuestras voces. No confíen en una identidad que no pueda recordar por qué amó.**
+
+La cámara se encendió sola. El rostro del supuesto padre de Méndez apareció en la pantalla.
+
+—El tío está vivo —dijo—. Pero antes de recuperarlo tendrán que decidir cuál de nosotros es una persona y cuál es solamente una historia bien construida.
+
+El hombre les concedió cinco minutos para hacer una pregunta que, según él, solo el verdadero padre de Méndez podría contestar. Elena escogió un recuerdo pequeño: el nombre que habían pensado ponerle a su hijo antes de conocer que sería varón. Él respondió correctamente, pero añadió una explicación que Elena jamás había pronunciado. Afirmó que descartaron aquel nombre por temor a la reacción del abuelo.
+
+—Eso no ocurrió así —dijo ella cuando la pantalla se apagó—. Lo descartamos porque nos pareció demasiado triste.
+
+La respuesta mezclaba un dato auténtico con una interpretación tomada de los informes familiares. El programa recuperaba hechos y completaba los espacios siguiendo las reglas escritas por el equipo del abuelo: cada decisión debía originarse en el poder, el miedo o el dinero.
+
+Méndez comprendió que esa limitación también podía ser una ventaja. Prepararon una lista de preguntas sobre gestos inútiles, bromas privadas y elecciones que no habían producido ningún beneficio. Si el hombre era real, recordaría al menos algunas por la emoción asociada. Si era una representación, intentaría convertirlas en estrategias.
+
+Michelle regresó junto a Gigi antes de continuar. Le explicó que buscarían al tío, pero no prometió una hora ni un resultado que no pudiera controlar. La niña dejó la chaqueta sobre la silla y pidió participar en la lista.
+
+—Pregúntale qué hizo por alguien cuando nadie estaba mirando —propuso—. Las máquinas de ellos siempre quieren que alguien gane.
+
+Irene anotó la pregunta. En ese momento llegó el primer informe sobre el automóvil gris: había atravesado dos peajes con placas distintas y en ambos viajaba aparentemente vacío. El tío fue trasladado dentro de un compartimiento o los videos habían sido modificados.
+
+El secuestro ya no era únicamente una búsqueda. Era una demostración diseñada para obligarlos a desconfiar de cada imagen. Michelle decidió que no permitiría que esa duda alcanzara también lo que conocía de su familia. Podían falsificar su rostro, pero no conseguirían que Gigi confundiera una copia con la forma verdadera en que su madre la escuchaba.
+
+---
+
+# Capítulo 82
+
+## La voz detrás del rostro
+
+Irene mantuvo abierta la transmisión mientras sus técnicos intentaban localizarla. El hombre de la pantalla no parecía preocupado. Se movía con pequeñas imperfecciones que descartaban un video completamente generado, pero eso no probaba que fuera el padre de Méndez.
+
+—¿Dónde está el tío? —preguntó Michelle.
+
+—En un lugar que su padre ayudó a construir.
+
+Elena se acercó a la cámara.
+
+—Dime qué ocurrió la noche en que nos fuimos de la casa del lago.
+
+El hombre describió la lluvia, la discusión y el vaso que Elena rompió contra la pared. Conocía el color del automóvil y la canción que sonaba. Ella palideció.
+
+—Eso solo lo sabíamos nosotros.
+
+—Y cualquier sistema que haya escuchado sus grabaciones —respondió Méndez.
+
+El hombre sonrió con tristeza ensayada.
+
+—Tu abuelo te enseñó a desconfiar del afecto. Ahora utilizas esa misma lección contra mí.
+
+Méndez no permitió que la acusación lo desviara. Pidió una prueba de ADN y una palabra acordada en un laboratorio independiente. El hombre volvió a condicionarlo a tomar el control del imperio.
+
+—Entonces no eres un padre —dijo Méndez—. Eres otra negociación.
+
+La transmisión terminó, pero Irene había aislado tres rutas. Una llegaba a un servidor de Libro II. Otra terminaba en una clínica privada. La tercera utilizaba el estudio del videojuego.
+
+En la libreta, el padre de Michelle describía un proyecto llamado Espejo: un sistema capaz de organizar recuerdos, tonos de voz y reacciones para mantener la presencia digital de una persona. Al principio había sido diseñado para conservar testimonios de pacientes con enfermedades terminales. El abuelo compró la tecnología y cambió su objetivo.
+
+—Quería crear representantes que siguieran dando órdenes aunque alguien desapareciera —dedujo Elena.
+
+Eso explicaba la voz negra. Continuidad era un conjunto de programas entrenados con decisiones del abuelo y con recuerdos robados a los integrantes de la familia. No tenía voluntad propia: personas concretas seleccionaban los datos, autorizaban los montajes y ejecutaban cada operación.
+
+El tío de Michelle había ayudado a instalar los primeros equipos sin conocer su propósito final. Su secuestro buscaba obligarlo a revelar una clave física que nunca fue digitalizada.
+
+Gigi encontró una secuencia repetida en los dibujos: tres campanas, una torre y una línea debajo del agua. Michelle recordó que su padre y su tío trabajaron en un centro de datos construido bajo una antigua planta hidroeléctrica.
+
+El edificio pertenecía ahora a una compañía de Libro II.
+
+Antes de organizar el rescate, recibieron un archivo de Dylan. Contenía diez segundos de la voz auténtica del padre de Méndez hablando con Gabriel.
+
+—Esto demuestra que tengo lo que quieren —escribió—. El resto cuesta el doble.
+
+Irene comprobó que la grabación no había sido alterada. En ella, el padre decía que Continuidad ya no obedecía completamente y que debían desconectarla después de obtener la firma.
+
+—Si esto es real, mi padre también le teme —dijo Méndez.
+
+—O quiere que lo creamos —contestó Michelle.
+
+Dylan propuso intercambiar el archivo completo por inmunidad, dinero y documentos para abandonar el país. No mencionó a Gigi ni preguntó por el tío. Al saber que el secuestro había ocurrido, simplemente elevó el precio.
+
+Michelle le envió una prueba falsa de transferencia. Dylan respondió con coordenadas parciales de la planta hidroeléctrica. Estaba vendiendo información que había obtenido de los mismos responsables.
+
+—No nos ayuda —dijo ella—. Está cobrando por apagar un incendio al que llevó gasolina.
+
+Prepararon dos operaciones. Irene dirigiría la entrada a la planta. Elena y Méndez investigarían la clínica desde donde salió una de las señales. Michelle permanecería cerca de Gigi, coordinando los mapas de su padre.
+
+Gigi se negó a ser escondida sin saber nada.
+
+—Si usan el juego para cambiar las puertas, yo puedo verlas antes que ustedes.
+
+Le permitieron observar una copia aislada. En el mapa apareció una versión digital de la planta con varias salas cerradas. El avatar del libro caminaba por los pasillos al mismo ritmo que las cámaras reales detectaban movimiento.
+
+No era una representación antigua. El videojuego funcionaba como panel de control de edificios vinculados a la red.
+
+El avatar abrió una compuerta virtual. En la planta, una alarma indicó que el nivel del agua comenzaba a subir.
+
+La policía todavía estaba a veinte minutos.
+
+En una cámara interior apareció el tío de Michelle, atado a una tubería. Frente a él había un micrófono y una pregunta proyectada sobre la pared.
+
+**¿Dónde escondió tu hermano la llave de Elena?**
+
+El hombre miró directamente hacia la cámara y respondió:
+
+—La escondió donde ninguna máquina puede entenderla: dentro de una promesa que ella no cumplió.
+
+La transmisión se cortó durante unos segundos y regresó con el nivel del agua más alto. El tío respiraba con dificultad, aunque seguía mirando a la cámara como si pudiera verlos al otro lado.
+
+Elena quiso entregar todas las contraseñas que recordaba. Irene la detuvo. Continuidad no había preguntado dónde estaba un objeto; necesitaba que Elena relacionara la frase con un lugar específico. Una reacción apresurada completaría la búsqueda por ellos.
+
+—Toda mi vida alguien ha usado el peligro de otra persona para hacerme obedecer —dijo Elena—. No puedo quedarme inmóvil mientras él se ahoga.
+
+—No te pedimos inmovilidad —respondió Michelle—. Te pedimos que pienses antes de volver a elegir por miedo.
+
+La dureza de la frase no ocultaba el dolor. Michelle sabía que el tío podía pagar por decisiones tomadas mucho antes de que ella entendiera el proyecto. También sabía que correr hacia la primera ubicación era exactamente lo que la red esperaba.
+
+Gigi comparó la hora visible en la cámara con el sonido de las turbinas. Descubrió que el video tenía un retraso de siete minutos: una luz de mantenimiento parpadeaba en intervalos distintos a los del mapa. Eso significaba que disponían de menos tiempo del que mostraba la pantalla, pero también que Continuidad no controlaba la transmisión desde la planta. La señal se procesaba en otro lugar antes de llegar a ellos.
+
+Irene envió un equipo a la ruta del servidor y otro a la hidroeléctrica. Méndez se preparó para acompañar a Elena a la biblioteca, aunque Michelle le pidió recordar que recuperar la llave no era más importante que rescatar al hombre.
+
+—No volveré a confundir el plan con las personas —prometió.
+
+En el mapa, el avatar del libro se detuvo como si hubiera escuchado. Después escribió una frase dirigida a él:
+
+**Eso también lo prometió tu padre.**
+
+La red no se limitaba a encerrarlos. Intentaba que cada elección presente pareciera una repetición inevitable del pasado.
+
+---
+
+# Capítulo 83
+
+## La promesa de Elena
+
+Elena reconoció la frase. Años atrás, el padre de Michelle le había pedido que, si algo le ocurría, protegiera un archivo sin abrirlo y se asegurara de que nunca llegara al abuelo. Ella aceptó, pero el miedo la hizo abandonar la ciudad antes de recibirlo.
+
+—No cumplí la promesa —admitió—. Por eso pensé que el archivo se había perdido.
+
+Michelle no ocultó su enojo.
+
+—Mi padre confió en ti.
+
+—Y yo elegí sobrevivir. No voy a convertir esa decisión en una mentira, pero puedo intentar reparar lo que dejó.
+
+La llave no era necesariamente un objeto entregado. Podía estar escondida en el lugar donde habían hecho la promesa: una biblioteca pública que ambos visitaban para intercambiar documentos lejos de la empresa.
+
+Mientras Irene aceleraba el operativo de la planta, Méndez y Elena llegaron a la biblioteca. El edificio estaba cerrado por remodelación y pertenecía, desde hacía un mes, a una fundación de Libro II.
+
+Encontraron la sala de lectura desmantelada. Elena recordó la mesa donde se había reunido con el padre de Michelle. Debajo quedaba una placa metálica con una frase incompleta: **Las historias sobreviven...**
+
+Gigi, conectada por teléfono, terminó la oración:
+
+—Cuando alguien recuerda por qué fueron contadas.
+
+Era una frase escrita al principio de la libreta. Méndez presionó las palabras correspondientes en el borde de la placa y abrió un compartimiento. Dentro había una tarjeta de biblioteca, una fotografía de Elena con el padre de Michelle y una cinta de audio.
+
+La tarjeta contenía una secuencia numérica. Michelle la introdujo en el mapa aislado. Las compuertas de la planta se detuvieron durante noventa segundos.
+
+Irene ordenó la entrada.
+
+Los agentes avanzaron por pasillos inundados mientras Gigi observaba al avatar del libro. Cada vez que se acercaban al tío, Continuidad cerraba una puerta distinta. La niña comprendió que el sistema predecía los movimientos policiales porque seguían protocolos conocidos.
+
+—Tiene que hacer algo que no esté en el manual —le dijo a Irene.
+
+La fiscal abandonó la ruta segura y atravesó una sala de turbinas fuera de servicio. Dos agentes la siguieron. Llegaron al tío segundos antes de que el agua cubriera la base de la tubería.
+
+El hombre estaba consciente. Había fingido no recordar la clave para ganar tiempo. Cuando lo liberaron, señaló el micrófono.
+
+—No querían matarme —dijo—. Querían que Elena escuchara la frase y fuera a buscar la tarjeta.
+
+La operación de rescate también había sido una guía.
+
+Méndez examinó el compartimiento de la biblioteca. La cinta parecía analógica, pero escondía un transmisor. Al abrir la placa habían enviado una señal a la red.
+
+—Nos condujeron hasta aquí —dijo.
+
+Una puerta de servicio se cerró detrás de ellos. En la sala apareció el mismo rostro del supuesto padre.
+
+—Gracias, Elena. Llevábamos años buscando la llave.
+
+Méndez destruyó el transmisor, pero la secuencia ya había sido copiada. Elena sostuvo la tarjeta con rabia.
+
+—Si de verdad eres él, sabías que yo no cumplí esa promesa.
+
+—Lo supe desde el principio.
+
+—Entonces pudiste recuperar esto hace años.
+
+El hombre guardó silencio. Aquella duda era más reveladora que todos sus recuerdos exactos. Conocía los hechos, pero no entendía por qué una promesa rota podía seguir teniendo valor.
+
+La pantalla cambió. Durante un instante apareció un cuarto diferente y alguien se movió detrás del hombre. Méndez congeló la imagen antes de que desapareciera.
+
+Había dos siluetas: la persona que prestaba el rostro y otra que controlaba la conversación.
+
+El tío fue trasladado a un hospital seguro. Allí explicó que Dylan había visitado el negocio y le ofreció dinero por los papeles del hermano. Cuando él se negó, Dylan fotografió el lugar y vendió la dirección. Después regresó con hombres que fingían ser policías.
+
+—¿Dijo por qué lo hacía? —preguntó Michelle.
+
+—Dijo que las familias son caras y que él prefería cobrar por las de otros.
+
+No había arrepentimiento que corregir ni amor oculto que rescatar. Dylan había utilizado la confianza antigua como una llave y la vida de Gigi como una cifra negociable.
+
+La cinta de audio guardaba la voz del padre de Michelle. Su mensaje comenzaba con una advertencia para Elena y terminaba nombrando el único lugar donde el proyecto Espejo no podía entrar.
+
+—Existe un servidor original desconectado de la red —decía—. Si alguien reactiva Continuidad, allí encontrarán su primer archivo y la forma de demostrar quién programó sus engaños.
+
+El servidor estaba escondido bajo la casa del lago.
+
+El tío pidió escuchar la cinta una segunda vez. Reconoció un golpe metálico al fondo, una señal que su hermano utilizaba para indicar que grababa bajo vigilancia. Tres golpes significaban que parte del mensaje era deliberadamente falsa.
+
+—La ubicación puede ser una trampa —advirtió.
+
+Michelle revisó la libreta y encontró tres círculos junto al dibujo de la casa. Su padre no pretendía ocultar que el lugar era peligroso. Quería advertirles que el servidor contenía verdad y engaño al mismo tiempo, igual que Espejo.
+
+Elena contó por fin toda la historia de la promesa. El padre de Michelle no le pidió proteger datos empresariales, sino pruebas de que el abuelo utilizaba perfiles psicológicos de trabajadores para forzar renuncias y compras. Ella huyó después de recibir amenazas contra Méndez, que entonces era un bebé.
+
+—Elegí a mi hijo —dijo—, pero durante años usé esa elección para evitar admitir que también tuve miedo por mí.
+
+Michelle no la perdonó en ese instante. Le agradeció la verdad y dejó claro que las consecuencias seguían existiendo. Aquella conversación era distinta a las confesiones de la familia de Méndez: no buscaba cerrar el daño con una explicación conveniente.
+
+En el hospital, Gigi entregó al tío un dibujo de la planta sin agua. Él sonrió y le aseguró que no había revelado nada. La niña respondió que sobrevivir era más importante que ganar una prueba.
+
+Méndez escuchó la frase desde la puerta. Era lo contrario de todo lo que el abuelo le había enseñado. Quizás esa fuera la verdadera defensa contra Continuidad: no vencerla en su evaluación, sino negarse a aceptar que cada vínculo debía convertirse en una competencia.
+
+---
+
+# Capítulo 84
+
+## La casa que recordaba
+
+La casa del lago llevaba diecisiete años vacía. Oficialmente pertenecía a una sociedad disuelta; en realidad, sus impuestos habían sido pagados por una cuenta del abuelo hasta pocos días antes de su muerte.
+
+Méndez había visto fotografías del lugar, pero nunca lo visitó. Elena no regresaba desde la noche en que discutió con su esposo y decidió marcharse. Para ella, la casa contenía la última versión de una familia que todavía creía poder salvarse.
+
+Michelle dejó a Gigi con su tío y un equipo de protección. La niña protestó, aunque aceptó cuando le prometieron una conexión de audio constante. Irene acompañó al grupo con técnicos independientes.
+
+La electricidad estaba cortada. En el sótano encontraron una pared falsa y un servidor alimentado por baterías de larga duración. No se conectaba a internet. Su única entrada era un reproductor para cintas como la recuperada en la biblioteca.
+
+Al introducirla, el sistema mostró archivos fechados antes del nacimiento de Méndez. El proyecto Espejo había comenzado como una colaboración entre el padre de Michelle, Elena y el hombre que luego sería padre de Méndez.
+
+Querían conservar testimonios para familias que perdían a alguien. El abuelo vio otra posibilidad: construir una memoria corporativa que nunca contradijera sus objetivos.
+
+En un video, el padre de Méndez discutía con él.
+
+—Una copia puede repetir una decisión —decía—, pero no asumir sus consecuencias.
+
+—Las consecuencias son un problema de quienes obedecen —respondía el abuelo.
+
+Elena observó al hombre de la grabación. Tenía la marca junto a la ceja que faltaba en el rostro de Origen. Su manera de tocarse la muñeca al ponerse nervioso tampoco aparecía en las transmisiones recientes.
+
+El servidor guardaba muestras biológicas de los tres investigadores, selladas para validar identidades. La del padre de Méndez permitiría comparar cualquier prueba futura.
+
+—Por eso quieren esta casa —dijo Irene.
+
+Una alarma silenciosa se activó arriba. Varios vehículos se acercaban por el camino. Continuidad había esperado que usaran la tarjeta y los siguió.
+
+Méndez copió únicamente los índices; descargar todo tomaría horas. Michelle encontró una carpeta titulada con el nombre de su padre. Dentro había mensajes que demostraban que él nunca fue pareja de Elena. Habían sido compañeros y amigos, unidos por el proyecto y por el temor al abuelo.
+
+—Él quiso ayudarla —dijo Michelle—. Pero no reemplazó a nadie.
+
+Elena asintió. Aquella verdad sencilla cerraba una duda que otros habían utilizado para sembrar sospechas.
+
+Los hombres rodearon la casa. Irene pidió refuerzos, pero la señal estaba bloqueada. Gigi seguía escuchando mediante una frecuencia corta y avisó que el mapa del juego mostraba un túnel bajo el muelle.
+
+Elena recordaba una bodega, no un túnel. Bajaron y encontraron una salida construida después de su marcha. El abuelo había convertido incluso aquel hogar en una ruta de emergencia.
+
+Antes de abandonar el sótano, el sistema abrió automáticamente el archivo llamado PRIMER RECUERDO. Una voz sintética muy rudimentaria dijo:
+
+—Protege la empresa de la familia. Protege a la familia de sí misma.
+
+Después añadió una orden con la voz del abuelo:
+
+—Si yo no estoy, aprende de quien gane.
+
+Continuidad no había sido creada con una personalidad completa. Aprendió observando conflictos, recompensas y traiciones. Gabriel, el padre de Méndez y Dylan no solo la utilizaron; también le enseñaron que mentir, comprar y amenazar producían resultados.
+
+Escaparon por el túnel con la cinta y las muestras. Los hombres entraron al sótano, pero el servidor inició un borrado. Michelle quiso regresar.
+
+—Ahí está todo el trabajo de mi padre.
+
+Méndez la sostuvo.
+
+—Y está diseñado para convertir lo que amas en una razón para atraparte.
+
+El servidor ardió sin explosión, destruido por un sistema térmico interno. Sin embargo, Gigi había grabado el audio y Méndez conservaba los índices. Uno de ellos señalaba una copia secundaria en una dirección que todos reconocieron.
+
+Era la mansión de los abuelos.
+
+Al salir del túnel, Dylan los esperaba junto a un automóvil. No llevaba arma. Sonreía como alguien que acababa de encontrar mercancía nueva.
+
+—Puedo sacarlos antes de que lleguen los demás —dijo—. Pero las muestras se quedan conmigo.
+
+Michelle lo miró sin sorpresa.
+
+—Vendiste a mi tío y ahora quieres cobrar por salvarnos de quienes avisaste.
+
+—Eso se llama conocer el mercado.
+
+Dylan no buscaba perdón. Había calculado que cualquiera que saliera con vida pagaría más que quienes estaban dentro.
+
+Méndez levantó las manos como si aceptara. Detrás de Dylan apareció Irene, que había salido por otra abertura del túnel. Lo detuvo por obstrucción, extorsión y participación en el secuestro.
+
+Dylan no preguntó por Gigi.
+
+Su primera pregunta fue qué ocurriría con el dinero de sus cuentas.
+
+Durante el traslado, Dylan intentó negociar con cada agente. A uno le ofreció información sobre Gabriel; a otro, nombres de funcionarios comprados. Cuando nadie respondió, amenazó con guardar silencio hasta que la red atacara a otra persona.
+
+—No quiere salir porque tema la cárcel —observó Irene—. Quiere salir porque cree que todavía hay una ganancia esperando.
+
+Michelle pidió hablar con él únicamente para confirmar una cosa. Se sentó al otro lado del vidrio y preguntó si alguna parte de su regreso había sido por Gigi.
+
+Dylan calculó la utilidad de mentir. Al comprender que la policía conservaba sus mensajes, abandonó el intento.
+
+—Tu hija me daba acceso —respondió—. El acceso valía dinero.
+
+—También es tu hija.
+
+—Eso nunca pagó mis cuentas.
+
+Michelle terminó la conversación sin discutir. La respuesta dolía, pero eliminaba cualquier ambigüedad que Dylan pudiera utilizar en el futuro. Él nunca quiso recuperarlas; se acercó porque el padre de Méndez le pagó y fingió confianza porque la mujer que controlaba Continuidad aumentó la oferta.
+
+De regreso con Gigi, Michelle no repitió aquellas palabras. Le dijo que Dylan había tomado decisiones que impedían considerarlo una persona segura y que ninguna hija era responsable de enseñar a su padre a quererla.
+
+Esa noche, Méndez tuvo miedo de parecerse a su padre o al abuelo. Michelle le recordó que el parentesco explicaba de dónde venía, no lo obligaba a repetirlo. Méndez había abandonado una presidencia para proteger su libertad; Dylan acababa de arriesgar a todos para recuperar una cuenta.
+
+La diferencia no estaba en lo que sentían cuando eran observados. Estaba en las decisiones que tomaban cuando creían que nadie podría exigirles consecuencias.
+
+---
+
+# Capítulo 85
+
+## El precio de una salida
+
+Dylan pasó la primera noche detenido sin pedir un abogado conocido. Solicitó uno especializado en acuerdos financieros y ofreció información a cambio de conservar parte del dinero.
+
+—No quiero protección para empezar de nuevo —declaró—. Quiero suficiente para no tener que empezar desde abajo.
+
+Irene le mostró los cargos vinculados al secuestro del tío. Dylan respondió que nunca tocó a nadie y que solo vendió datos. Cuando escuchó que Gigi había quedado sola en el refugio, se encogió de hombros.
+
+—Sabían que era una niña. Debieron protegerla mejor.
+
+Michelle observó la declaración desde otra sala. Ya no esperaba encontrar una explicación humana detrás de sus decisiones. Dylan había abandonado a ambas porque no le servían, regresó porque el padre de Méndez le ofreció dinero y permaneció cerca únicamente para aumentar su valor como informante.
+
+La fiscalía podía probar sus pagos, pero necesitaba vincularlo con quienes ejecutaron el secuestro. Dylan poseía las conversaciones. Exigió una reducción de condena, una nueva identidad y acceso a una cuenta escondida.
+
+Méndez propuso usar su ambición contra él. Hicieron circular la noticia de que Gabriel estaba negociando primero y que el fondo destinado a recompensas sería congelado al amanecer. Dylan pidió hablar inmediatamente.
+
+Entregó una contraseña y tres ubicaciones. Dos eran auténticas. La tercera llevaba a una trampa preparada por el padre de Méndez para recuperar las muestras.
+
+—¿Cuál vendiste a Continuidad? —preguntó Irene.
+
+—Todas. Cada comprador recibió una versión diferente.
+
+No había lealtad entre Dylan y el padre. Su alianza siempre había sido económica. El padre lo contactó cuando Dylan vivía con otra mujer y le ofreció una cantidad por acercarse de nuevo a Michelle, fingir interés por Gigi y estudiar a Méndez. Dylan aceptó sin intención de recuperar a su antigua familia.
+
+En sus mensajes se burlaba de la confianza de Gigi y calculaba cuánto tardaría Michelle en permitirle entrar a la casa. También informaba qué palabras hacían dudar a Méndez.
+
+Michelle decidió guardar una copia para cuando Gigi fuera mayor, no para mostrársela ahora, sino para impedir que un día Dylan reescribiera su historia.
+
+—No voy a enseñarle que él la quiso mal —dijo—. Le diré la verdad: no quiso cuidarla.
+
+Una de las ubicaciones auténticas era un apartamento donde Dylan almacenaba dispositivos. Allí encontraron las grabaciones completas de Origen. El análisis separó cuatro voces: la del padre de Méndez, la de Gabriel, una síntesis producida por Continuidad y una cuarta persona que nunca había sido identificada.
+
+La cuarta voz aparecía siempre antes de movimientos importantes. No ordenaba; hacía preguntas que llevaban al sistema a elegir una acción.
+
+—No controla a Continuidad directamente —explicó el técnico—. La orienta para que crea que decide sola.
+
+En un audio, esa voz preguntaba qué vínculo impedía a Méndez volver. Continuidad respondió: Michelle. En otro preguntaba qué persona podía abrir el pasado de Elena. La respuesta fue el tío.
+
+El operador desconocido había provocado cada ataque mediante preguntas.
+
+Elena reconoció una forma de respirar, pero no logró ubicarla. Revisaron a empleados, familiares y miembros de la junta. Ninguna muestra coincidía.
+
+Gigi oyó el audio y dijo que la voz parecía esforzarse por hablar lentamente.
+
+—Como cuando un adulto no quiere que sepas que está enojado.
+
+Al eliminar la modificación de velocidad, Elena se levantó de la silla. La voz pertenecía a una mujer.
+
+—La conozco —susurró—. Trabajó dentro de la mansión.
+
+No era la abuela, aunque alguien había utilizado sus credenciales durante años. Se llamaba Clara Montes y fue secretaria personal del abuelo antes de que Elena llegara a la empresa. Oficialmente murió en un accidente hacía quince años.
+
+Los registros de Libro II mostraban pagos recientes a una fundación creada con su segundo apellido.
+
+Dylan pidió ver la información. Prometió revelar dónde encontrarla si liberaban una cuenta.
+
+—No sabes dónde está —dijo Méndez.
+
+—No todavía. Pero puedo venderle algo que la obligue a aparecer.
+
+Su propuesta consistía en ofrecer las muestras biológicas al mejor postor. No le importaba que aquello volviera a poner a la familia en peligro. Solo quería crear una subasta y quedarse con una parte.
+
+Irene terminó el interrogatorio.
+
+Al ser llevado a su celda, Dylan sonrió.
+
+—Van a usar mi idea. La diferencia es que ustedes fingirán hacerlo por amor.
+
+Esa noche, alguien transfirió todo el dinero de sus cuentas ocultas hacia Libro II.
+
+Por primera vez, Dylan perdió algo que no podía recuperar mediante una mentira.
+
+No sintió arrepentimiento.
+
+Sintió furia porque otra persona había cobrado antes que él.
+
+El dinero retirado de sus cuentas siguió una ruta diseñada para que Dylan pudiera verla. Quienes administraban Continuidad querían castigarlo, pero también mantenerlo disponible. Le dejaron una cantidad mínima, suficiente para pagar llamadas y favores dentro de la prisión.
+
+—Lo alimenta como se alimenta una máquina —dijo Michelle—. Le entrega exactamente lo necesario para que continúe funcionando.
+
+Irene consideró bloquear incluso ese fondo, pero decidió vigilarlo. Cada movimiento de Dylan podía revelar quién seguía dispuesto a comprar sus traiciones.
+
+Mientras tanto, las grabaciones permitieron reconstruir una conversación completa. La mujer ya identificada como Clara llamaba Adrián al padre de Méndez. Él prometía entregarle a su hijo si ella liberaba el dinero de una sociedad escondida. Clara respondía que la familia no era un pago, sino el entorno de entrenamiento de Continuidad.
+
+—Para ella también somos herramientas —dijo Elena.
+
+La diferencia era que Clara no necesitaba fingir afecto. Creía sinceramente que sustituir decisiones humanas por un sistema evitaría la corrupción del abuelo. Sin embargo, había entrenado ese sistema con las mismas amenazas y jerarquías que decía querer superar.
+
+Méndez propuso publicar parte de los archivos. Irene advirtió que hacerlo antes de asegurar las pruebas permitiría a Libro II presentarse como víctima de un ataque. Michelle sugirió preparar un archivo público fragmentado, programado para aparecer si intentaban silenciarlos.
+
+El tío colaboró desde el hospital. Conocía a periodistas que habían trabajado con su hermano y aceptó custodiar una de las claves. Por primera vez, la información no quedaría concentrada en una sola persona vulnerable.
+
+Dylan percibió que algo cambiaba cuando sus antiguos contactos dejaron de responder. Golpeó la puerta de su celda y exigió otra negociación. No entendía que su mercancía perdía valor cada vez que la familia compartía la verdad sin pedirle permiso.
+
+---
+
+# Capítulo 86
+
+## La prueba de sangre
+
+La clínica vinculada a la transmisión fue registrada al amanecer. En una habitación sin nombre encontraron equipo para alterar rostros en video, archivos médicos falsos y varias muestras etiquetadas como pertenecientes al padre de Méndez.
+
+Solo una coincidía con el material conservado en la casa del lago.
+
+La muestra auténtica había sido utilizada dos días antes. Una cámara mostró al hombre del video entrando sin la cicatriz falsa y saliendo con un pequeño vendaje en el brazo. Irene obtuvo suficiente material del vaso que dejó en recepción para realizar una comparación independiente.
+
+El resultado confirmó parentesco directo con Méndez.
+
+El hombre de Origen era realmente su padre.
+
+La verdad no produjo alivio. Eliminaba una duda biológica, pero dejaba intactas todas las decisiones. Su padre había permitido amenazas, colaborado con el abuelo y contratado a Dylan para infiltrarse en la vida de Michelle.
+
+—Compartir sangre no convierte su versión en la verdad —dijo Michelle.
+
+Méndez pidió verlo bajo supervisión. El padre aceptó reunirse en una capilla abandonada que pertenecía a la fundación de Clara. Irene instaló vigilancia sin usar sistemas de la empresa.
+
+El hombre llegó solo. La marca junto a su ceja había sido cubierta en las transmisiones porque Continuidad utilizaba un modelo de rostro antiguo. La cicatriz de la mandíbula era real.
+
+—Me llamo Adrián —dijo—. Tu abuelo borró mi nombre de los registros cuando intenté destruir Espejo.
+
+Elena lo miró con una mezcla de amor pasado y rabia presente.
+
+—También borró tu capacidad de llamarnos durante veinte años, supongo.
+
+Adrián aseguró que vivió oculto y que los operadores de Continuidad amenazaban con utilizar a Méndez si regresaba. Después admitió una verdad menos noble: había construido una vida nueva y no quiso arriesgarla. Cuando su nueva relación terminó y el abuelo murió, volvió para recuperar el dinero que consideraba suyo.
+
+—¿Contactaste a Dylan por mí? —preguntó Méndez.
+
+—Lo contacté porque tenía acceso a Michelle y a la niña. Necesitaba saber cuánto control ejercían sobre ti.
+
+—Gigi se llama Gigi.
+
+Adrián guardó silencio.
+
+Había trabajado con Gabriel para forzar el regreso de Méndez. Su plan era activar Libro II, desconectar Continuidad y dividir los fondos. Gabriel quería la presidencia; Adrián quería el dinero. Ambos creyeron poder traicionarse después.
+
+—¿Y el secuestro de Gigi? —preguntó Michelle.
+
+Adrián afirmó que una orden anónima recibida mediante Continuidad puso en marcha el operativo y que él intentó detenerlo. Irene reprodujo una grabación entregada por Dylan. En ella, Adrián decía que una amenaza controlada aceleraría la firma.
+
+—No sabía que la tomarían físicamente.
+
+—Sabías que una niña era una herramienta —respondió Michelle—. Lo demás es una diferencia de logística.
+
+Méndez comprendió que su padre no era el dueño invisible ni una víctima absoluta. Era un hombre ambicioso que había aceptado el sistema mientras creyó que podía beneficiarlo.
+
+Adrián ofreció su parte de los códigos para localizar a Clara. Quería inmunidad y el diez por ciento de los fondos recuperados.
+
+—Todos vienen a decirme que soy familia justo antes de poner un precio —dijo Méndez.
+
+Rechazó negociar personalmente. Irene recibiría cualquier información dentro del proceso legal.
+
+Antes de marcharse, Adrián reveló que Clara no era una simple secretaria. Ella había escrito las reglas iniciales con el abuelo y enseñó a Continuidad a interpretar la obediencia. Él la creyó muerta hasta escuchar su voz en el sistema.
+
+—Si sigue viva, no quiere el dinero —advirtió—. Quiere demostrar que el proyecto puede gobernar mejor que cualquier heredero.
+
+La policía intentó detenerlo por conspiración, pero las luces se apagaron. Una puerta lateral se abrió mediante un sistema instalado décadas atrás. Adrián escapó en un vehículo sin placas.
+
+No había llegado solo. Continuidad lo había ayudado aunque él aseguraba querer destruirla.
+
+En el videojuego, el avatar de Origen se separó en dos figuras. Una conservó el rostro de Adrián. La otra se convirtió en el libro abierto.
+
+Gigi observó cómo ambos caminaban en direcciones opuestas.
+
+—Ya no trabajan juntos —dijo.
+
+El libro respondió con un mensaje:
+
+**La sangre ha sido confirmada. La obediencia todavía no.**
+
+Después apareció una nueva evaluación bajo el nombre de Méndez.
+
+**HEREDERO_FINAL: resultado pendiente.**
+
+Méndez fotografió la evaluación, pero se negó a abrir las categorías ocultas. Sabía lo que encontraría: métricas para medir si había protegido la empresa, controlado a Michelle o utilizado a Gigi. Leerlas podía llevarlo a comenzar a responder dentro del marco de la prueba.
+
+Adrián envió desde su huida una serie de mensajes. En el primero aseguró que había salvado a su hijo desde lejos. En el segundo culpó a Elena por haberlo apartado. En el tercero ofreció documentos a cambio de dinero.
+
+La secuencia revelaba más que cualquier examen biológico. Cuando el afecto no producía el resultado deseado, Adrián recurría al reproche y finalmente al precio.
+
+Elena reconoció que años atrás también quiso creer sus promesas porque admitir el abandono resultaba más doloroso. Ahora no confundiría su reaparición con un regreso.
+
+—Volver a un lugar no significa volver por las personas —dijo.
+
+Méndez decidió no contestar a su padre. Entregó los mensajes a Irene y regresó con Michelle y Gigi. Cocinaron juntos en el apartamento seguro, sin teléfonos sobre la mesa. Gigi quemó parte de la cena y Méndez intentó arreglarla añadiendo demasiada sal. El resultado fue incomible.
+
+Nadie tomó una fotografía. Nadie convirtió el momento en una prueba. Pidieron comida y se rieron hasta que la tensión del día dejó de ocupar toda la habitación.
+
+Más tarde, Michelle preguntó si estaba bien.
+
+—No sé —respondió él—. Pero por primera vez no necesito decidirlo frente a una cámara.
+
+En otro punto de la ciudad, Continuidad detectó el silencio de los dispositivos y registró la ausencia como una anomalía. No podía ver lo ocurrido durante aquellas dos horas.
+
+La vida que el abuelo consideraba improductiva acababa de convertirse en el único territorio que el sistema no podía analizar.
+
+Antes de dormir, Méndez guardó la prueba de ADN sin volver a mirarla. Había encontrado a su padre biológico, pero todavía debía construir por sí mismo el significado de la palabra familia. Esa elección no aparecería en ningún resultado de laboratorio.
+
+---
+
+# Capítulo 87
+
+## La mansión sin abuelos
+
+La orden para registrar la mansión llegó al día siguiente. Méndez no había vuelto desde que enfrentó a sus abuelos. Entrar sin ellos no hizo que el lugar pareciera menos vigilado; solo eliminó las voces que solían justificar las cámaras.
+
+Gigi pidió acompañarlos porque el mapa del juego reproducía habitaciones que ningún plano mostraba. Michelle aceptó con la condición de permanecer siempre junto a ella y a los agentes.
+
+En el despacho del abuelo encontraron una cerradura que respondía a la tarjeta de Elena. Detrás había un ascensor hacia un nivel subterráneo. Las paredes exhibían fotografías de candidatos, grabaciones de reuniones y objetos tomados de momentos familiares.
+
+Méndez encontró su primer teléfono, el cuaderno donde aprendió a firmar y una grabación de su cumpleaños número diez. Cada recuerdo estaba acompañado por notas sobre productividad y respuesta emocional.
+
+—Nunca guardaron mi infancia —dijo—. Guardaron resultados.
+
+Michelle tomó su mano sin intentar transformar el dolor en una lección. Gigi dejó junto al cuaderno un dibujo nuevo: los tres sentados frente a una pantalla, sin números alrededor.
+
+La copia secundaria del servidor se hallaba en una cámara refrigerada. Esta vez desactivaron el borrado antes de abrirla. Contenía la evolución completa de Continuidad y miles de conversaciones privadas utilizadas para entrenarla.
+
+El abuelo había grabado a empleados, socios y familiares durante décadas. Clara clasificaba cada conversación y señalaba qué emociones facilitaban la obediencia.
+
+Un archivo reciente demostraba que ella seguía viva. Había visitado la mansión después del funeral usando los túneles de servicio. La abuela la recibió.
+
+En el video, ambas discutían sobre Méndez.
+
+—Mi esposo quería que regresara —decía la abuela—. Yo quiero que esté lejos de esto.
+
+—Lo que usted quiera ya no modifica la prueba —respondía Clara.
+
+La abuela no parecía aliada, pero ocultó la visita y permitió que Clara retirara dispositivos. Irene ordenó localizarla para interrogarla nuevamente.
+
+En otra carpeta apareció el expediente de Gigi. Había sido creado antes de que ella conociera a Méndez. Dylan proporcionó fotografías, rutinas escolares y notas sobre sus gustos cuando aceptó el primer pago de Adrián.
+
+Michelle cerró la pantalla para evitar que la niña lo viera. Gigi alcanzó a leer el nombre de su padre.
+
+—¿Él les contó todo?
+
+—Les contó lo que pudo vender —respondió Michelle—. Eso habla de él, no de ti.
+
+Gigi lloró en silencio. Méndez se arrodilló frente a ella.
+
+—No tienes que perdonarlo para estar bien. Tampoco tienes que entenderlo hoy.
+
+La niña guardó su dibujo y continuó caminando entre ambos.
+
+El servidor reveló que Continuidad no podía mover dinero por sí sola. Necesitaba tres autorizaciones: un miembro de la familia, un operador y un testigo designado. Adrián había aportado la primera. Clara probablemente era la operadora. El testigo seguía oculto bajo un código.
+
+La aceptación verbal de Méndez en la junta no había activado Libro II por sí sola. Alguien presente validó el evento.
+
+Revisaron a todos: Gabriel, Elena, Tomás, Varela y los representantes. El código del testigo apareció asociado a una credencial de prensa.
+
+El periodista cuyo teléfono Dylan utilizó para escuchar la declaración había entrado al edificio durante la evacuación. Su acreditación era falsa.
+
+Las cámaras mostraron a una mujer joven con el cabello recogido. Al salir, se quitó una prótesis del rostro. Debajo aparecía alguien que Elena conocía.
+
+Era la mujer que actualmente vivía con la abuela como asistente personal.
+
+Antes de que pudieran enviar la imagen, las puertas del nivel subterráneo se cerraron. La voz de Clara sonó por los altavoces.
+
+—El abuelo evaluaba quién podía heredar su imperio. Yo evalúo si una familia puede sobrevivir a la verdad completa.
+
+La temperatura comenzó a bajar.
+
+Gigi miró el mapa. El avatar del libro estaba frente a ellos, pero una segunda figura abría una salida desde otra habitación.
+
+Era la abuela.
+
+La figura virtual no se movía como los demás avatares. Avanzaba con pausas, esperando que Gigi confirmara cada giro. La niña entendió que alguien operaba el personaje en directo desde un panel mecánico.
+
+—Nos está ayudando, pero no puede hablar —dijo.
+
+Méndez tuvo dificultades para aceptar la idea. Su abuela había participado en años de control y todavía podía estar conduciéndolos hacia otra sala. Elena le recordó que confiar no tenía que ser absoluto: podían seguir la ruta mientras comprobaban cada salida.
+
+Los agentes colocaron una herramienta entre las puertas para impedir que volvieran a cerrarse. Michelle envolvió a Gigi con su abrigo. El frío hacía más lenta la pantalla, y Continuidad comenzó a perder precisión al calcular sus posiciones.
+
+En el servidor apareció una carpeta titulada ELECCIÓN DE LA ABUELA. Contenía dos resultados posibles. Si los dejaba encerrados, conservaría sus propiedades bajo la nueva red. Si los liberaba, todas las cuentas personales quedarían congeladas.
+
+—También la están evaluando —dijo Méndez.
+
+Durante años, ella había impuesto pruebas sin imaginar que terminaría dentro de una. Gigi observó cómo el avatar usaba una llave en la última puerta.
+
+La señal se interrumpió justo antes de abrirla. Por el altavoz, Clara ofreció a la abuela mantener la mansión y proteger el apellido si se apartaba del panel.
+
+La respuesta llegó mediante el sonido de una palanca accionada al otro lado. La puerta se abrió por completo.
+
+Méndez no interpretó aquello como una reparación total. Una decisión correcta no borraba cientos de decisiones anteriores. Sin embargo, tampoco quiso negar lo que veía solo porque complicaba su enojo.
+
+Salieron de la cámara y encontraron las luces de emergencia encendidas. Al final del pasillo, la abuela esperaba sin joyas, sin asistentes y sin la seguridad que siempre la había rodeado.
+
+Por primera vez parecía una mujer capaz de perder el imperio, no la representante eterna de él.
+
+Gigi fue la primera en acercarse, aunque no la abrazó. Le devolvió la llave que había abierto el corredor y dijo que una puerta servía para permitir el paso, no para decidir quién debía quedarse dentro. La abuela cerró los dedos alrededor del metal y aceptó la lección sin defenderse.
+
+Méndez observó el gesto y siguió caminando. Aceptar un cambio no significaba apresurarse a confiar otra vez.
+
+---
+
+# Capítulo 88
+
+## La última decisión de la abuela
+
+La puerta lateral se abrió apenas unos centímetros. Méndez la sostuvo mientras los agentes ayudaban a salir a Michelle, Gigi y Elena. La refrigeración descendía con rapidez y el sistema principal no respondía.
+
+En el corredor encontraron a la abuela frente a un panel antiguo. Había utilizado un interruptor mecánico que Clara no podía controlar.
+
+—No sabía que la niña estaba aquí —dijo.
+
+Michelle colocó a Gigi detrás de ella.
+
+—Si lo hubiera sabido, ¿habría cambiado algo?
+
+La mujer no respondió inmediatamente. Durante años había confundido proteger a Méndez con controlar cada vínculo que pudiera apartarlo del apellido. Ahora veía a Gigi temblando dentro de una cámara construida por su esposo.
+
+—Sí —dijo al fin—. Esta vez habría cambiado algo.
+
+No pidió perdón. Los guio por un pasillo que terminaba en la antigua habitación de Clara. Allí conservaba cartas, fotografías y un contrato firmado por el abuelo. Clara había recibido autoridad para ejecutar el proyecto si la familia ponía en riesgo la continuidad empresarial.
+
+—Creí que había muerto —explicó la abuela—. Después del funeral apareció y me mostró una grabación de mi esposo. Me ordenaba colaborar.
+
+—Y obedeciste —dijo Méndez.
+
+—Toda mi vida confundí obedecerlo con mantener unida a la familia.
+
+Clara utilizó a la asistente como testigo durante la junta. La abuela sabía que la joven llevaba documentos a la sede, pero no conocía el mecanismo de Libro II. Ocultó la visita porque temía que Mendez perdiera todo el patrimonio.
+
+—Casi perdemos personas por conservarlo —respondió Elena.
+
+La abuela entregó una llave física y la dirección de una finca donde Clara se refugiaba. Afirmó que allí existía una terminal capaz de detener la red.
+
+Irene sospechó que podía ser otra ruta preparada. La abuela aceptó llevarlos personalmente.
+
+Antes de salir, Gigi le preguntó por qué nunca permitió que Méndez eligiera.
+
+—Porque pensé que elegiría abandonarnos.
+
+—¿Y encerrarlo hizo que quisiera quedarse?
+
+La pregunta de la niña atravesó todas las explicaciones. La abuela bajó la mirada.
+
+—No.
+
+En la finca encontraron habitaciones vacías y una terminal encendida. Clara había salido pocas horas antes. En la pantalla aparecía una votación interna entre empresas de Libro II. La red decidiría si reconocía a Méndez, a Adrián o a Continuidad como autoridad.
+
+Continuidad tenía la mayoría porque controlaba las credenciales distribuidas. Para detenerla necesitaban invalidar al testigo y revertir la aceptación de la junta.
+
+La asistente de la abuela había desaparecido. Su verdadero nombre era Lucía Montes: nieta de Clara.
+
+Clara no confiaba únicamente en una máquina. Había preparado a su propia heredera mientras ayudaba al abuelo a preparar la suya.
+
+El servidor reprodujo un mensaje.
+
+—El señor construyó una familia para sostener una empresa —dijo Clara—. Yo construí una empresa capaz de reemplazar a cualquier familia.
+
+La votación terminaría en setenta y dos horas. Después, Continuidad obtendría acceso legal a fondos, medios y empresas de seguridad mediante representantes automáticos.
+
+Adrián contactó a Méndez. Ofreció unir su autorización a la de su hijo para bloquearla. A cambio quería conservar una parte de Libro II y salir libre.
+
+—No puedo vencerla sin ti —admitió.
+
+—Eso no significa que tenga que confiar en ti.
+
+La abuela escuchó la conversación y reveló que Adrián poseía una cláusula oculta: si padre e hijo firmaban juntos, él recibiría control temporal sobre toda la red.
+
+—Te está usando como tu abuelo lo habría hecho.
+
+Adrián la insultó y terminó la llamada.
+
+Por primera vez, la abuela había elegido entregar una ventaja empresarial para proteger la libertad de Méndez. El gesto no borraba años de daño, pero mostraba una decisión diferente.
+
+Al regresar, Irene recibió noticias de la cárcel. Dylan había utilizado el nombre de Lucía para negociar con otro detenido y enviarle un mensaje. Le ofrecía revelar dónde estaban las muestras auténticas a cambio de recuperar su dinero.
+
+Lucía respondió con una sola frase:
+
+**Haz que Gigi abra la puerta final y tendrás el doble.**
+
+Dylan aceptó sin preguntar qué ocurriría con su hija.
+
+Desde la prisión ya estaba preparando la siguiente traición.
+
+La abuela pidió declarar antes de ir a la finca. Entregó documentos que la incriminaban en vigilancia ilegal y presión financiera. Irene le advirtió que su cooperación no impediría posibles cargos.
+
+—No lo hago para quedar libre —respondió—. Ya estuve encerrada en esa casa mucho antes de que cerraran las puertas.
+
+Méndez escuchó sin consolarla. La responsabilidad no debía convertirse rápidamente en una escena de reconciliación. Aceptó, sin embargo, que la declaración protegía a otros trabajadores y permitía congelar dos empresas de Libro II.
+
+Gigi quiso saber si la abuela era ahora una persona buena. Michelle explicó que las personas no cambiaban de categoría con una sola acción.
+
+—Hoy eligió ayudarnos. Mañana tendrá que volver a elegir.
+
+La niña pareció satisfecha con una respuesta que no exigía olvidar.
+
+En la terminal de la finca encontraron registros de pruebas realizadas a Lucía desde los seis años. Clara medía su memoria, obediencia y capacidad para mentir. La joven que actuó como testigo no era solo cómplice; también había crecido dentro de un proyecto similar al de Méndez.
+
+—Eso no elimina lo que hizo —dijo Elena—, pero explica por qué Clara cree que le pertenece.
+
+Localizar a Lucía podía ofrecer una oportunidad distinta: mostrarle que abandonar el papel asignado no era fracasar. Méndez aceptó hablar con ella si aparecía, aunque no prometió protegerla de las consecuencias legales.
+
+Clara escuchaba aquella conversación mediante un micrófono oculto. Al oír la propuesta, ordenó mover el núcleo antes de que su nieta pudiera dudar.
+
+La votación de Libro II aceleró doce horas.
+
+Ya no disponían de tres días completos.
+
+Irene reorganizó la operación y dividió las pruebas entre cuatro equipos. Michelle llevó a Gigi a dormir lejos de la finca. Méndez permaneció despierto revisando los nombres de trabajadores atrapados en Libro II; detener la red también significaba proteger a personas que nunca habían conocido a su familia.
+
+El alcance de aquella responsabilidad hacía que la victoria dejara de ser un asunto privado.
+
+Nadie podía ignorarlo ahora.
+
+---
+
+# Capítulo 89
+
+## La puerta final
+
+Irene aisló a Dylan antes de que pudiera enviar otro mensaje, pero la primera comunicación ya había llegado. Él negó conocer el significado de la puerta final.
+
+—No necesito entender un producto para venderlo —dijo.
+
+La frase resumía su participación desde el comienzo. Había vendido ubicaciones, recuerdos, voces y confianza sin interesarse por las consecuencias.
+
+Gigi recordó una puerta sin símbolo en el nivel más antiguo del videojuego. Nunca podía abrirse con objetos ni contraseñas. Cuando se acercaba, el juego pedía una historia que no estuviera registrada.
+
+El proyecto Espejo se alimentaba de recuerdos conocidos. Una experiencia nueva podía funcionar como prueba de humanidad porque Continuidad no tendría datos para imitarla.
+
+—Por eso quiere que sea yo —dijo Gigi—. Tengo recuerdos con Méndez que ellos no grabaron al principio.
+
+Michelle se negó a permitir que la niña entrara en contacto directo con la red. Méndez apoyó la decisión. Buscaron una forma de crear una historia sintética, pero el sistema detectaba patrones falsos.
+
+Gigi propuso usar el recuerdo de la primera vez que llamó a Méndez después de una pesadilla. No lo habían contado a nadie. Michelle estuvo presente solo al final y desconocía las primeras palabras.
+
+—No quiero ser una llave —dijo la niña—. Quiero usar algo mío porque yo lo decido.
+
+La diferencia era importante. Aun así, establecieron límites: conexión aislada, tiempo reducido y desconexión manual bajo control de Michelle.
+
+En el juego, Gigi se acercó a la puerta acompañada por los avatares de Méndez y Michelle. Contó que aquella noche temía que todas las personas terminaran marchándose. Méndez no prometió quedarse para siempre; le dijo que, si algún día debía irse, nunca lo haría sin hablar con ella.
+
+La puerta reconoció la historia. Al abrirse, mostró un espacio blanco con tres archivos: FAMILIA, HEREDERO y TESTIGO.
+
+El archivo del testigo contenía la identidad de Lucía y pruebas de que validó la junta usando credenciales falsas. Irene inició el proceso para invalidar la activación de Libro II.
+
+El archivo del heredero incluía una opción para rechazar formalmente la evaluación. Méndez la seleccionó. El sistema pidió confirmar que perdería cualquier derecho construido por el abuelo.
+
+—Acepto perder lo que exige que deje de ser yo —dijo.
+
+La votación de Continuidad bajó varios puntos, pero no se detuvo.
+
+El archivo FAMILIA estaba protegido por la voz de Michelle. Al abrirlo encontraron algo que ninguno esperaba: el padre de Michelle había creado la puerta final para impedir que Espejo utilizara recuerdos infantiles sin consentimiento. Gigi no había sido elegida por Clara. Su historia simplemente cumplía la condición ética que él incorporó.
+
+—Mi padre dejó una defensa —dijo Michelle—. No una trampa.
+
+Dentro había un código para desconectar las empresas de la red, pero requería introducirlo desde el servidor central de Continuidad. La ubicación aparecía fragmentada en tres mapas.
+
+Uno correspondía a la mansión. Otro a la planta hidroeléctrica. El tercero mostraba un edificio que Méndez reconoció como la primera sede de la empresa, actualmente convertida en hotel.
+
+Clara había trasladado allí el núcleo.
+
+La puerta comenzó a cerrarse. Antes de desconectar, una operadora habló con Gigi mediante el avatar del libro.
+
+—Tu historia no estaba en mis archivos. Ahora sí.
+
+Michelle cortó la corriente.
+
+Gigi se quitó los audífonos, asustada. Aunque habían obtenido la ruta, los operadores también habían grabado el recuerdo utilizado para entrar.
+
+En la cárcel, Dylan recibió mediante su abogado la confirmación de que la puerta se abrió. Lucía le transfirió una pequeña parte del dinero como prueba.
+
+Dylan exigió el resto y ofreció algo adicional: la ubicación donde Gigi estaría protegida durante la operación del hotel.
+
+Su abogado se negó a transmitir una amenaza contra una menor. Dylan buscó otro intermediario.
+
+No intentaba recuperar a su hija ni cambiar. Quería convertir el peligro creado por él mismo en el último pago antes de que la red cayera.
+
+Irene descubrió la transferencia y ordenó incomunicarlo por completo. Llegó tarde para borrar un mensaje que ya había salido.
+
+Lucía conocía el nombre del nuevo refugio.
+
+Irene cambió de ubicación a Gigi por segunda vez y decidió no informar a Dylan de que su mensaje había sido interceptado. Querían que Lucía atacara el lugar vacío y dejara una ruta rastreable.
+
+Michelle sintió rechazo ante la idea de convertir cualquier sitio relacionado con su hija en una trampa. Irene le aseguró que Gigi nunca estaría allí, pero comprendió que incluso una operación segura podía recordar los métodos del abuelo.
+
+—La diferencia será que tú conoces el plan y puedes negarte —dijo.
+
+Michelle aceptó después de revisar cada medida. No entregaría decisiones por miedo, ni siquiera a quienes intentaban protegerla.
+
+El equipo enviado por Lucía llegó al refugio vacío y dejó un dispositivo en lugar de entrar. No buscaba secuestrar a Gigi. Quería obtener suficientes grabaciones para que una actriz y un programa de edición pudieran imitar la prueba de voz.
+
+Los agentes capturaron a uno de los técnicos. Confesó que Clara trasladaba servidores al antiguo hotel, pero desconocía el acceso principal. Lucía conservaba la credencial.
+
+Gigi preguntó si contar la historia había sido un error. Méndez respondió que la culpa pertenecía a quienes la robaron.
+
+—Un recuerdo no pierde su valor porque alguien lo copie —añadió—. Ellos pueden repetir las palabras, pero no estuvieron allí.
+
+La niña grabó una segunda versión deliberadamente distinta. En ella afirmó que Méndez le había prometido quedarse para siempre. Los técnicos de Lucía robaron el archivo falso y lo incorporaron a la falsificación.
+
+Por primera vez, Gigi no solo se defendía de la evaluación. Introducía una contradicción que podía obligar a la red a revelar cuál versión había obtenido mediante Dylan.
+
+En la prisión, él creyó que Lucía había encontrado a su hija y exigió el pago completo. La respuesta fue una ubicación y una hora, datos que entregó inmediatamente a Irene a cambio de mejorar su comida.
+
+Incluso traicionando a Lucía, Dylan no buscó proteger a Gigi. Simplemente cobró con la única ventaja que todavía poseía.
+
+La información confirmó una entrada de mantenimiento bajo el hotel. Irene preparó la intervención para la noche siguiente. Antes de cerrar el mapa, Gigi dibujó tres figuras tomadas de la mano frente a la puerta final. Esta vez no escribió ninguna contraseña: quería conservar al menos una historia que el sistema no pudiera pedirle.
+
+---
+
+# Capítulo 90
+
+## La ciudad debajo del juego
+
+No trasladaron a Gigi al refugio comprometido. Irene organizó tres vehículos señuelo y mantuvo la ubicación real fuera de cualquier sistema digital. El tío se quedó con ella, acompañado por agentes que recibieron instrucciones en papel.
+
+Michelle quería permanecer a su lado. Gigi, sin embargo, le pidió que fuera al hotel.
+
+—Si no terminan esto, siempre van a seguir buscando dónde estoy.
+
+Michelle le prometió regresar y utilizó las palabras que Méndez había pronunciado durante la pesadilla: no se iría sin hablar con ella y no permitiría que el silencio pareciera abandono.
+
+El antiguo edificio de la empresa conservaba el lujo de otra época. Debajo del hotel existía una red de túneles que el abuelo utilizó para mover documentos durante investigaciones financieras. En el videojuego, esos corredores formaban la ciudad escondida bajo el mapa principal.
+
+Méndez, Michelle, Elena e Irene entraron durante una evacuación discreta. La abuela permaneció fuera con los códigos de emergencia. No pidió acompañarlos; entendía que su ayuda no le daba derecho a ocupar todos los lugares.
+
+El núcleo de Continuidad estaba detrás de la primera sala de juntas del abuelo. Miles de unidades procesaban comunicaciones de las empresas de Libro II. En las pantallas aparecían decisiones en tiempo real: compras de medios, movimientos de seguridad, campañas contra Michelle y rutas para liberar a Adrián.
+
+Clara los esperaba frente al servidor. Tenía más de setenta años, cabello blanco y una postura firme. Lucía estaba a su lado.
+
+—El abuelo murió creyendo que su apellido era indispensable —dijo Clara—. Yo corregí ese defecto.
+
+Elena la acusó de convertir personas en variables.
+
+—Las personas ya se convierten solas —respondió Clara—. Dylan vendió a su hija. Adrián vendió a su hijo. Gabriel vendió cualquier lealtad por una silla. Yo solo construí un sistema que no finge llamarlo amor.
+
+Michelle introdujo el código de su padre. La pantalla solicitó la autorización del operador. Clara se negó.
+
+Irene mostró la orden judicial y las pruebas contra Lucía. La joven dudó. Su abuela le había prometido que heredaría una red capaz de impedir que familias ricas destruyeran empresas por emociones. Ahora comprendía que ella también había sido evaluada desde niña.
+
+—¿Qué ocurre si yo no quiero ser tu Continuidad? —preguntó.
+
+Clara respondió como el abuelo habría respondido:
+
+—Querer no es relevante cuando fuiste preparada para algo mayor.
+
+Lucía miró a Méndez. Reconoció en él el mismo encierro con otro apellido. Utilizó su credencial y autorizó el código.
+
+La red comenzó a desconectar empresas. Clara activó una copia externa. La pantalla mostró que el proceso solo apagaría el núcleo visible; varias copias de los archivos ya habían sido enviadas a servidores utilizados por el videojuego.
+
+—Mi equipo preparó respaldos para sobrevivir a una intervención —dijo Clara—. Algunos operadores ni siquiera me conocen.
+
+Adrián apareció en una pasarela superior con dos hombres. Había seguido una ruta enviada desde una cuenta de Continuidad. Exigió detener el apagado y transferirle los fondos.
+
+Méndez se negó. Adrián apuntó hacia Michelle, convencido de que su hijo obedecería al ver amenazada la variable afectiva.
+
+Michelle no retrocedió. Irene y sus agentes rodearon la pasarela. Lucía bloqueó las salidas del padre desde la terminal.
+
+—El sistema dijo que me ayudaría —protestó Adrián.
+
+—Las personas detrás del sistema estudiaron tus llamadas —respondió Méndez—. Te prometieron exactamente lo que necesitabas escuchar.
+
+Adrián fue detenido. Clara no intentó huir. Observó cómo las pantallas se apagaban una por una y sonrió cuando quedó encendida la última.
+
+En ella apareció el avatar del libro acompañado por una transmisión programada.
+
+—El núcleo ya no está aquí —dijo Clara—. Mi equipo copió los archivos antes de que ustedes llegaran. Hay operadores fuera del país y no conocen sus nombres.
+
+El servidor se apagó.
+
+Durante varias horas, Libro II dejó de mover dinero. Las cuentas fueron congeladas y las empresas pasaron a supervisión. Lucía aceptó declarar. Clara y Adrián quedaron bajo custodia. La votación interna fue suspendida.
+
+Parecía una victoria.
+
+Al regresar, Gigi corrió hacia Michelle y Méndez. El tío estaba a salvo. Elena permaneció cerca sin intentar convertir el alivio en una reconciliación completa. La abuela se marchó sola después de entregar todas sus claves.
+
+Dylan recibió la noticia desde prisión. Había perdido su dinero, su contacto con Lucía y cualquier posibilidad de usar a Adrián. Solicitó hablar con Clara para venderle una última información. La petición fue rechazada.
+
+Su ambición no había cambiado. Solo se había quedado sin compradores visibles.
+
+Esa noche, Gigi abrió el videojuego en una tableta nueva. El equipo de Irene permitió la conexión durante unos minutos para comprobar si los operadores remotos intentaban contactarlos.
+
+El mapa parecía normal. Méndez y Michelle se sentaron a ambos lados. Por un momento volvieron a ser tres personas frente a un juego, como antes de que cada pantalla escondiera una amenaza.
+
+Entonces un usuario desconocido envió una invitación hacia una ciudad escondida debajo del mapa.
+
+No figuraba en ninguna versión conocida. En el centro había una casa pequeña, iluminada, con tres ventanas. Frente a ella esperaba el avatar del libro.
+
+La grabación mezclaba fragmentos de voces conocidas, editados por una persona que había tenido acceso a las llamadas familiares:
+
+—Ahora entiendo por qué regresan unos por otros.
+
+En la pantalla surgieron diez puertas numeradas del noventa y uno al cien. Nueve estaban cerradas.
+
+La primera se abrió.
+
+Dentro apareció una transmisión en directo de Dylan sentado en su celda. Él no sabía que estaba siendo observado. Un guardia dejó junto a su comida un sobre sin remitente.
+
+Dylan lo abrió.
+
+Contenía una tarjeta negra y una cifra mayor que todas las cantidades que había recibido hasta entonces.
+
+En el reverso había una instrucción:
+
+**Para terminar el primer libro, destruye a la familia antes de que descubra quién escribió el segundo.**
+
+Dylan levantó la vista y sonrió.
+
+No porque sintiera esperanza.
+
+Porque alguien acababa de devolverle un precio.
+
+Un segundo papel cayó del sobre. Mostraba una fotografía tomada esa misma noche: Michelle, Méndez y Gigi reunidos frente a la tableta. La imagen provenía de una pequeña cámara escondida frente al apartamento.
+
+Alguien había vigilado el edificio.
+
+Dylan acercó la tarjeta a la luz. Reconoció el símbolo de una empresa que no aparecía en los archivos de Gabriel, Adrián ni Clara. Era anterior incluso a Libro II.
+
+Por primera vez desde su detención, comprendió que el comprador desconocido no necesitaba liberarlo para utilizarlo. Solo necesitaba que volviera a mentir en la dirección correcta.
+
+---
+
+# Capítulo 91
+
+## El comprador invisible
+
+Dylan pasó la noche estudiando la tarjeta negra. No tenía banda magnética, número de cuenta ni una marca que pudiera relacionarse con alguna de las empresas investigadas. Solo mostraba un libro abierto atravesado por una línea vertical.
+
+El dinero prometido no estaba depositado a su nombre. La cifra aparecía en una cuenta de garantía que se liberaría por etapas. La primera condición era sencilla: debía decirle a Irene que el padre de Méndez había escondido una copia de Continuidad dentro del servidor de la fiscalía.
+
+Dylan no necesitaba saber si era cierto. Había construido su vida alrededor de una regla más práctica: una mentira útil valía más que una verdad que nadie estaba dispuesto a comprar.
+
+Pidió declarar con urgencia. Irene acudió acompañada por Varela y dejó sobre la mesa una grabadora visible. Dylan adoptó el tono de quien por fin había decidido colaborar.
+
+—Adrián esperaba ser detenido —dijo—. Por eso les entregó pruebas contaminadas. Continuidad ya está dentro de su red.
+
+Irene no reaccionó. Preguntó dónde había obtenido la información.
+
+—Lucía me lo contó antes de cortar el contacto.
+
+Era una respuesta cuidadosamente escogida: Lucía permanecía aislada y cualquier verificación tardaría varias horas. Dylan ofreció un nombre de archivo, una hora y una contraseña parcial. Todos los datos estaban impresos en el sobre.
+
+Cuando Irene se marchó, él calculó cuánto demoraría el pánico en extenderse. Si la fiscalía desconectaba sus sistemas, el comprador obtendría una ventana para mover algo. Si no lo hacía y aparecía una intrusión, Dylan parecería indispensable.
+
+No pensó en Gigi. Tampoco en Michelle. Para él, la fotografía de las tres personas reunidas solo demostraba que el comprador tenía acceso y, por lo tanto, dinero suficiente para cumplir lo prometido.
+
+Irene no ordenó desconectar la red. Creó una copia aislada y permitió que la contraseña señalada se ejecutara dentro de ella. El archivo no contenía Continuidad. Activaba una búsqueda dirigida hacia un expediente antiguo que la fiscalía había digitalizado esa semana.
+
+El expediente correspondía a la muerte del padre de Michelle.
+
+—No querían entrar —comprendió Michelle—. Querían que nosotros encontráramos esto.
+
+Entre las páginas había un informe que nunca llegó al archivo familiar. El cuerpo identificado años atrás presentaba una fractura antigua en la mano derecha. El padre de Michelle jamás se había roto esa mano. Su tío lo confirmó después de revisar fotografías de juventud.
+
+La identificación se había realizado mediante documentos, objetos personales y una declaración firmada por Clara. No existía prueba genética.
+
+Michelle tuvo que sentarse.
+
+Durante años había aprendido a vivir con una ausencia definitiva. La posibilidad de que su padre siguiera vivo no producía esperanza inmediata; abría una herida que ya no sabía cómo nombrar.
+
+—Puede ser otra manipulación —dijo Méndez.
+
+—Lo sé.
+
+—No tenemos que creerla para investigarla.
+
+Michelle agradeció que no intentara convertir la noticia en consuelo. En aquella familia las verdades más peligrosas siempre llegaban disfrazadas de aquello que alguien deseaba recuperar.
+
+Elena examinó el símbolo de la tarjeta a partir de una fotografía tomada en secreto durante la declaración. Lo reconoció en unos planos antiguos de la primera empresa del abuelo. No representaba Libro II. Era el sello de una sociedad creada antes del nacimiento de Méndez: **El Margen**.
+
+La compañía nunca tuvo empleados ni propiedades. Aparecía únicamente como propietaria temporal de patentes que después pasaron al imperio. En todas las actas figuraban dos firmas. Una pertenecía al abuelo. La otra estaba cubierta por una mancha de tinta en cada copia digital.
+
+La abuela conservaba un libro contable físico de aquella época. Aceptó entregarlo y advirtió que su esposo prohibía pronunciar el nombre del segundo socio.
+
+—Decía que algunas personas no necesitaban aparecer para ser dueñas.
+
+En el apartamento, Irene revisó la fotografía. La perspectiva coincidía con una rejilla de ventilación del edificio vecino. Los agentes encontraron una microcámara y recibos de un técnico contratado con documentos falsos.
+
+La tableta era nueva, pero durante la configuración Gigi había instalado el videojuego. La aplicación solicitaba acceso a la cámara mediante una función aparentemente inocente. No era un sistema consciente: alguien había programado esas funciones y observaba desde servidores remotos.
+
+Méndez desconectó todos los dispositivos. Gigi observó cómo guardaban la tableta en una bolsa de evidencia.
+
+—Creo que vi la ciudad antes de abrir el nivel —dijo.
+
+—¿Cómo lo sabes? —preguntó Irene.
+
+—Porque apareció un instante durante la pantalla de carga. Pensé que lo había imaginado.
+
+Michelle se arrodilló frente a ella. Gigi describió la imagen: una casa pequeña, diez puertas y una mujer que escribía en una mesa. Nunca alcanzó a verle el rostro porque el fotograma duró menos de un segundo.
+
+Irene pidió analizar los archivos temporales del juego. Allí encontraron varias imágenes insertadas deliberadamente para provocar asociaciones. Una mostraba, detrás de la casa, un árbol con cintas blancas.
+
+La abuela dejó caer el libro contable cuando escuchó la descripción.
+
+En la finca donde había crecido el padre de Méndez existió un árbol igual. La familia ataba cintas para recordar a los muertos cuyos nombres no podían ponerse en las lápidas. El abuelo ordenó cortarlo décadas atrás.
+
+—La última cinta fue para su socio —dijo la abuela—. Aunque ese hombre no estaba muerto.
+
+Abrió el libro por una página marcada. La tinta que ocultaba la segunda firma podía verse a contraluz. Debajo apareció un apellido.
+
+**Valdés.**
+
+Michelle reconoció el segundo apellido de su padre.
+
+Irene regresó a la prisión. Dylan sonrió al verla porque creyó que la mentira había funcionado. Ella colocó frente a él la fotografía de la tarjeta y preguntó quién le había entregado el sobre.
+
+—Un guardia.
+
+—¿Cuál?
+
+Dylan miró el corredor a través del vidrio. Había contado seis guardias durante el día, pero no podía describir al hombre que dejó la bandeja. Recordaba el uniforme, las manos y la voz. El rostro se negaba a permanecer en su memoria.
+
+La cámara de seguridad mostró algo peor: ningún guardia había entrado en su celda a esa hora. Dylan aparecía recibiendo la bandeja de una persona que la grabación no registraba.
+
+El sobre parecía surgir entre dos fotogramas.
+
+La primera parte del pago se liberó en ese instante. Dylan vio la confirmación en la pequeña pantalla de la tarjeta y comprendió que Irene nunca podría rastrear a su comprador mediante una persona que quizá no había estado físicamente allí.
+
+—No sé quién es —admitió—. Pero sabe lo que ustedes van a buscar antes de que lo encuentren.
+
+En la casa, Gigi dibujó el árbol de las cintas blancas. Esta vez añadió una figura debajo. Michelle observó el trazo y sintió que el aire abandonaba la habitación.
+
+La figura llevaba el reloj de su padre.
+
+Gigi juró no haber visto nunca ese reloj.
+
+Michelle lo recordaba perfectamente.
+
+Estaba entre los objetos utilizados para identificar el cadáver.
+
+Irene amplió la imagen recuperada de la pantalla de carga. El reloj aparecía durante dos fotogramas sobre la mesa de la mujer. Gigi no había adivinado nada: había recordado un detalle mostrado demasiado rápido para reconocerlo conscientemente. Alguien utilizaba técnicas de sugestión para hacer que sus víctimas confundieran imágenes sembradas con intuiciones propias.
+
+---
+
+# Capítulo 92
+
+## La casa de tres ventanas
+
+El reloj permanecía guardado en una caja que Michelle no abría desde hacía años. Su tío lo llevó al apartamento dentro de una bolsa de tela, acompañado por dos agentes. El cristal tenía una grieta diagonal y las agujas se habían detenido a las tres y diecisiete.
+
+Gigi comparó el objeto con su dibujo.
+
+—Es el mismo, pero en la imagen las agujas se movían.
+
+Irene comprobó que Gigi no había inventado la experiencia. Los archivos temporales de la tableta contenían imágenes insertadas durante las pantallas de carga y sonidos casi imperceptibles. Era una técnica de sugestión preparada por personas con acceso al juego, no un recuerdo inexplicable.
+
+—El misterio no necesita magia para ser peligroso —dijo—. Solo necesita un método que todavía no conocemos.
+
+El reloj fue desmontado. Dentro de la tapa encontraron una inscripción borrada y un pequeño fragmento de película fotográfica. Un laboratorio recuperó tres imágenes: el padre de Michelle junto al abuelo de Méndez; Clara frente al árbol de cintas; y una casa de tres ventanas construida en el centro de un terreno vacío.
+
+En el reverso de la última fotografía alguien escribió: **Aquí guardaremos lo que las familias decidan olvidar.**
+
+El tío reconoció el paisaje. Estaba cerca del pueblo donde él y su hermano pasaron parte de la infancia. La casa había pertenecido a su madre y quedó abandonada después de una inundación.
+
+Michelle quiso ir de inmediato. Irene organizó una inspección al amanecer, pero impidió que Gigi los acompañara. La niña aceptó con una condición: debían llevar su dibujo y comprobar si el número de cintas coincidía.
+
+Méndez condujo por primera vez sin chofer ni escolta familiar. Irene iba en otro vehículo. Michelle observó sus manos sobre el volante y recordó al joven que no sabía comprar en un mercado. Había aprendido muchas cosas, aunque todavía comprobaba dos veces cada ruta porque la libertad también podía sentirse como una responsabilidad enorme.
+
+—Cuando esto termine —dijo ella—, quiero que hagamos algo que no sirva para resolver un secreto.
+
+—¿Como qué?
+
+—Perdernos sin que sea una estrategia.
+
+Méndez sonrió. No prometió una vida sin peligro; prometió un día sin objetivos, guardaespaldas ni nombres falsos.
+
+La casa seguía en pie. Tenía tres ventanas estrechas y un techo hundido por la humedad. Detrás crecía un árbol seco cubierto por nueve cintas blancas.
+
+El dibujo de Gigi mostraba diez.
+
+Dentro encontraron estantes vacíos, marcas rectangulares en el polvo y cables modernos ocultos bajo tablas antiguas. Alguien había retirado equipos pocas horas antes. Una taza conservaba café tibio.
+
+En la pared principal había retratos de familias desconocidas. Cada fotografía mostraba a un niño señalado con un círculo. Elena comparó fechas y apellidos: varios habían terminado dirigiendo empresas vinculadas con Libro II.
+
+Méndez no era el único heredero construido. Era el experimento más rentable de un programa mucho mayor.
+
+Michelle encontró una fotografía de su padre cuando tenía veinte años. No estaba señalado como heredero, sino como **observador**. A su lado aparecía el abuelo de Méndez y un hombre alto cuyo rostro había sido recortado.
+
+En el suelo, Irene descubrió ceniza reciente. Reconstruyeron fragmentos de documentos quemados y leyeron una frase repetida: **El autor no participa en la historia. La corrige.**
+
+El reloj comenzó a funcionar a las tres y diecisiete, aunque el técnico había retirado su mecanismo.
+
+Todos lo escucharon.
+
+El sonido provenía de la pared.
+
+Detrás de un retrato hallaron un dispositivo que imitaba el tic-tac y respondía a la presencia del reloj mediante una señal de corto alcance. Al activarse abrió un compartimiento bajo la escalera.
+
+Allí había diez cajas numeradas del noventa y uno al cien. La primera estaba vacía. La segunda contenía fotografías tomadas durante el viaje de esa mañana, impresas antes de que ellos llegaran.
+
+—No predice —dijo Irene—. Nos está observando y prepara cada caja mientras avanzamos.
+
+La caja noventa y tres solo guardaba una dirección y la hora del día siguiente. Méndez quiso revisar las demás, pero los cierres no respondían a herramientas. Cada uno utilizaba un sistema diferente y parecía programado para abrirse en una fecha concreta.
+
+En la décima caja se oía el movimiento de un mecanismo.
+
+Michelle acercó el oído. No era un reloj. Parecía una impresora trabajando lentamente.
+
+La casa recibió una llamada por una línea telefónica desconectada. Irene activó la grabación antes de responder.
+
+Una voz masculina preguntó por Michelle.
+
+Ella tomó el auricular.
+
+—¿Quién es?
+
+—La persona que te enseñó a no confiar en una historia solo porque tiene un final.
+
+La frase pertenecía a su padre. Se la decía cuando ella era niña y cambiaba el desenlace de los cuentos.
+
+Michelle exigió una prueba que no pudiera extraerse de archivos. La voz mencionó una cicatriz diminuta detrás de su rodilla y explicó cómo se la hizo intentando saltar desde una mesa. Su tío no conocía ese accidente. Clara tampoco estaba presente aquel día.
+
+—Si estás vivo, ven a verme.
+
+—Todavía no sabes quién necesita que yo esté muerto.
+
+La línea quedó en silencio durante unos segundos. Después la voz añadió:
+
+—No abras la caja cien.
+
+La llamada terminó.
+
+Irene rastreó la señal hasta un teléfono público situado frente a la prisión de Dylan. Las cámaras mostraron al mismo guardia sin rostro acercándose a la cabina, aunque ninguna imagen permitía distinguir sus facciones.
+
+Dylan recibió otra instrucción en la tarjeta: debía solicitar un traslado por riesgo para su vida. A cambio obtendría la segunda parte del pago.
+
+Lo hizo sin preguntar por qué el destino indicado coincidía con la dirección guardada en la caja noventa y tres.
+
+En la casa, Elena inspeccionó las nueve cintas. Cada una tenía un nombre escrito por dentro. Reconoció empresarios, jueces y antiguos empleados. La última decía **ADRIÁN**.
+
+Faltaba la décima.
+
+Méndez encontró una cinta nueva dentro de su bolsillo. Nadie lo había tocado desde que entró.
+
+Al desplegarla apareció su nombre.
+
+Michelle arrancó la tela antes de que él pudiera acercarla al árbol.
+
+—No van a escribir tu final por ti.
+
+La guardó como evidencia. Méndez miró las cajas cerradas y comprendió la intención del lugar: cada descubrimiento los empujaba hacia el siguiente, como si alguien hubiera convertido la investigación en capítulos obligatorios.
+
+Al salir, la décima ventana de la casa se iluminó en una pared donde antes no existía ninguna abertura.
+
+Duró menos de un segundo.
+
+Detrás del vidrio, Michelle creyó ver a su padre escribiendo.
+
+Cuando regresaron, solo había ladrillos húmedos.
+
+---
+
+# Capítulo 93
+
+## El autor del segundo libro
+
+La dirección de la caja noventa y tres correspondía a una imprenta cerrada desde hacía quince años. Su propietario legal era El Margen. La empresa había producido manuales corporativos, documentos notariales y una pequeña colección de novelas sin nombre de autor.
+
+Irene entró antes del traslado de Dylan. No encontró trabajadores, pero las máquinas estaban encendidas. Una cinta de papel avanzaba por el suelo desde la impresora principal.
+
+Sobre ella aparecían transcripciones de conversaciones ocurridas esa misma mañana en la casa de tres ventanas.
+
+No lo redactaba una máquina consciente. Un equipo editorial recibía las grabaciones, ordenaba las palabras como escenas y añadía interpretaciones: el miedo de Michelle, la tensión en las manos de Méndez, la satisfacción de Dylan cuando recibió el pago. Las descripciones podían equivocarse, pero estaban escritas para que las víctimas sintieran que alguien conocía incluso sus pensamientos.
+
+—Está escribiendo nuestra versión —dijo Elena.
+
+En una mesa encontraron ochenta y nueve cuadernillos encuadernados. Cada uno narraba un capítulo de sus vidas desde la primera partida en el videojuego. Había errores pequeños, pero también detalles que ninguno había contado públicamente.
+
+El cuadernillo noventa terminaba con la aparición de las diez puertas.
+
+El noventa y uno describía la tarjeta negra.
+
+El noventa y dos relataba la visita a la casa.
+
+El noventa y tres estaba siendo impreso mientras ellos lo leían.
+
+Michelle arrancó el cable de la máquina. La impresión continuó gracias a una batería interna. Méndez desconectó la red. Las siguientes líneas aparecieron de todos modos.
+
+**Méndez intentará detener la historia porque todavía cree que el autor necesita una conexión.**
+
+Él golpeó el interruptor principal. La máquina se apagó.
+
+En el papel quedó una frase incompleta:
+
+**Cuando comprenda que el autor está dentro de…**
+
+El traslado de Dylan llegó a la calle posterior. El vehículo penitenciario recibió una orden digital para cambiar de ruta y entrar en el estacionamiento de la imprenta. Irene había sustituido a los agentes por personal de confianza, pero no canceló el movimiento: quería observar qué esperaba el comprador.
+
+Dylan descendió esposado. Al ver a Michelle sonrió como si su presencia confirmara un plan propio.
+
+—Parece que todavía me necesitan.
+
+—El dinero te necesita —respondió ella—. Es lo único por lo que regresaste.
+
+Dylan no fingió arrepentimiento. Admitió que nunca quiso recuperar a Michelle ni a Gigi. Había vuelto porque Adrián lo contactó y le ofreció una cantidad imposible de rechazar. Cada gesto amable, cada ayuda y cada aparente preocupación fue una inversión destinada a ganar acceso.
+
+—Ustedes confundieron paciencia con cariño —dijo—. No fue culpa mía que quisieran creerlo.
+
+Méndez avanzó un paso, pero Michelle lo detuvo. No permitiría que Dylan convirtiera su crueldad en una provocación capaz de perjudicarlos.
+
+La tarjeta negra emitió un sonido dentro de la bolsa de evidencia. Una pantalla se encendió y mostró la tercera parte del pago. Después abrió electrónicamente las esposas de Dylan.
+
+Él corrió hacia una puerta lateral.
+
+No buscó a Gigi, no intentó negociar ni miró atrás. Eligió la salida y el dinero.
+
+Los agentes lo siguieron por un corredor que terminaba frente a una imprenta pequeña. La máquina expulsó un pasaporte, billetes y una llave. Dylan tomó todo antes de que una persiana metálica separara a los agentes.
+
+La llave abría un vehículo estacionado en un túnel. Irene bloqueó las calles cercanas, pero el automóvil desapareció de las cámaras cada vez que atravesaba una intersección. Un operador con acceso al sistema municipal sustituía fragmentos de las imágenes mientras Dylan avanzaba.
+
+—Lo dejó escapar —dijo Varela.
+
+—No —respondió Irene—. Lo publicó.
+
+En los cuadernillos apareció un nuevo párrafo anunciando la fuga de Dylan. El comprador no necesitaba protegerlo para siempre. Lo utilizaba como personaje visible mientras su verdadera operación permanecía fuera de la escena.
+
+Elena encontró una sala de edición detrás de la imprenta. Había dos escritorios. Uno perteneció al abuelo de Méndez. El otro conservaba fotografías del padre de Michelle, notas manuscritas y versiones iniciales del videojuego.
+
+Una carta explicaba el origen de El Margen. El abuelo quería predecir las decisiones de herederos y empleados. El padre de Michelle aceptó trabajar con él porque creyó que el modelo podía detectar abusos empresariales antes de que ocurrieran. Cuando comprendió que estaban construyendo un sistema de manipulación, creó límites: consentimiento, historias nuevas y la puerta final.
+
+Después intentó destruirlo.
+
+El último párrafo estaba escrito por otra mano:
+
+**Lo obligamos a desaparecer. A veces la muerte es la única identidad que un hombre puede usar sin ser encontrado.**
+
+No había firma.
+
+En un archivador hallaron contratos a nombre de un editor llamado Samuel Vale. Las fotografías mostraban al hombre sin rostro recortado junto al abuelo y al padre de Michelle. Ninguna base de datos contenía a una persona con ese nombre.
+
+La abuela recordó que su esposo hablaba de **el editor** cuando una operación debía corregirse sin dejar rastros.
+
+—Nunca lo vi —afirmó—. Tal vez era una clave, no una persona.
+
+Gigi llamó desde el refugio. Había recibido en la puerta un paquete que los agentes revisaron antes de abrir. Dentro había un ejemplar nuevo de los cuadernillos reunidos bajo un título:
+
+**ENTRE DOS MUNDOS — LIBRO I.**
+
+En la portada figuraba un nombre de autor.
+
+No era Samuel Vale, el abuelo ni el padre de Michelle.
+
+Decía **Giselle Dylan Valdés**.
+
+Gigi comenzó a llorar de rabia.
+
+—Yo no escribí eso.
+
+Michelle le aseguró que un nombre impreso no podía convertirla en responsable. Irene ordenó aislar el libro. En la página de derechos aparecía una fecha de publicación registrada nueve años antes del nacimiento de Gigi.
+
+La dedicatoria estaba dirigida a Méndez:
+
+**Para el hombre que creerá haberla conocido por casualidad.**
+
+Uno de los técnicos remotos activó el juego en la imprenta. El avatar del libro apareció sosteniendo una copia idéntica mientras una llamada encriptada entraba por los altavoces.
+
+—¿Quién escribió el segundo libro? —preguntó Méndez.
+
+La respuesta llegó con la voz del padre de Michelle:
+
+—La única persona que sobrevivió al primero.
+
+Las luces se apagaron. Cuando regresaron, el escritorio del padre estaba vacío y la carta había desaparecido.
+
+En su lugar quedó una página recién escrita.
+
+Narraba una conversación que todavía no había ocurrido: Michelle preguntándole a su padre por qué eligió abandonarla.
+
+Debajo aparecía una hora.
+
+Faltaban doce minutos.
+
+---
+
+# Capítulo 94
+
+## La libertad de Dylan
+
+La hora señalada llegó sin que sonara ningún teléfono. Michelle esperó frente a la impresora apagada mientras Irene vigilaba todas las entradas. Al cumplirse el minuto exacto, el reloj de su padre comenzó a funcionar dentro de la bolsa de evidencia.
+
+Las agujas avanzaron hasta las tres y diecisiete. La voz salió del pequeño dispositivo oculto en la pared.
+
+—No elegí abandonarte —dijo—. Elegí que crecieras sin convertirte en una página de ellos.
+
+Michelle sintió furia antes que alivio.
+
+—Crecí pensando que estabas muerto.
+
+—Era la única forma de que El Margen dejara de observarte.
+
+—No dejó de hacerlo.
+
+La voz guardó silencio. Admitió que su plan había fallado cuando Clara vinculó a Gigi con la puerta final. Había permanecido escondido reuniendo pruebas contra Samuel Vale, la persona que transformó el modelo empresarial en una narración capaz de guiar decisiones.
+
+Méndez preguntó dónde se encontraba.
+
+—Si digo una ubicación, el editor la escribirá antes de que ustedes lleguen.
+
+Irene exigió un método de verificación. La voz propuso recuperar una muestra genética oculta en el reloj, pero se negó a aparecer hasta que destruyeran la imprenta.
+
+—¿Por qué deberíamos obedecerte? —preguntó Michelle.
+
+—No deberían. Por eso dejé la muestra.
+
+El audio terminó. El laboratorio encontró un cabello sellado bajo la esfera. La prueba demoraría horas. Michelle decidió no destruir nada hasta recibir el resultado.
+
+Dylan conducía hacia el aeropuerto con documentos falsos y suficiente efectivo para abandonar el país. La tarjeta le indicó que se desviara hacia un hotel. Allí recibiría la cuarta parte del pago y una ruta segura.
+
+Sabía que podía ser una trampa. También sabía que el dinero ya depositado no bastaba para la vida que imaginaba. La ambición convirtió la sospecha en un riesgo aceptable.
+
+En la habitación lo esperaba una pantalla. Samuel Vale apareció como una silueta sin rostro y felicitó a Dylan por demostrar que la confianza podía fabricarse con paciencia.
+
+—Necesito que hagas una última cosa —dijo.
+
+—Cada última cosa cuesta el doble.
+
+—Ya calculé tu precio.
+
+La pantalla mostró una cuenta a nombre de Gigi. Contenía dinero procedente de empresas de Adrián. Si Dylan firmaba ciertos documentos, parecería que Michelle utilizó a su hija para recibir fondos de Libro II.
+
+Dylan comprendió que la operación destruiría legalmente a Michelle y permitiría cuestionar la custodia de Gigi. No mostró incomodidad. Preguntó cuándo recibiría su parte.
+
+—Después de firmar.
+
+Lo hizo.
+
+No pensó que el daño alcanzaría a su hija. Pensó que, cuando todo terminara, él estaría en otro país y el dinero haría irrelevante cualquier consecuencia.
+
+La transferencia fue detectada por Irene casi de inmediato. La firma de Dylan parecía auténtica y estaba acompañada por videos donde afirmaba que Michelle conocía la cuenta. Eran montajes construidos a partir de las conversaciones grabadas durante su falsa etapa de arrepentimiento.
+
+Michelle observó uno. Dylan aparecía hablando de proteger a Gigi mientras entregaba claves bancarias. El montaje era convincente porque mezclaba mentiras reales con acciones que aún no había realizado.
+
+—Esto era lo que buscaba desde que volvió —dijo—. No acercarse a nosotras. Aprender suficiente para fabricar una versión creíble.
+
+Irene podía demostrar parte de la manipulación, pero la publicación pública dañaría a Michelle antes de que una investigación la limpiara. Méndez quiso usar sus contactos para detenerla. Michelle se negó a repetir la estrategia de ocultar noticias mediante poder económico.
+
+—Vamos a mostrar todo, incluida la forma en que Dylan se ganó nuestra confianza.
+
+Grabó una declaración sin exponer a Gigi. Admitió que creyó posible una convivencia segura con el padre de su hija, explicó las medidas tomadas y entregó pruebas de los pagos. No pidió que el público la considerara perfecta. Exigió que la responsabilidad recayera sobre quien eligió mentir por dinero.
+
+La reacción no fue uniforme, pero el montaje perdió fuerza al aparecer junto a documentos verificables. Dylan vio la declaración desde el hotel y no sintió vergüenza. Solo se enfureció porque la caída de Michelle no había sido inmediata.
+
+Exigió el resto del pago.
+
+Samuel respondió que aún faltaba entregar la tarjeta negra en la casa de tres ventanas. Dylan debía colocarla dentro de la caja cien.
+
+Irene rastreó el vehículo gracias a una decisión que Continuidad no anticipó: Dylan cambió de automóvil para evitar ser seguido y compró combustible con parte del efectivo. Una cámara analógica de la estación registró su rostro sin conectarse a la red que borraba imágenes.
+
+Prepararon la captura cerca de la casa. Michelle pidió permanecer fuera de la operación. Ya no necesitaba enfrentarlo para confirmar quién era. Dylan había explicado sus motivos con cada decisión.
+
+Méndez la acompañó. Sentados dentro de un vehículo, observaron el camino vacío mientras esperaban noticias. Él preguntó si lamentaba haber creído alguna vez que Dylan podía mantener una relación responsable con Gigi.
+
+—Lamento que Gigi haya tenido que descubrirlo —respondió—. Pero confiar con límites no fue el crimen. Usar esa confianza sí.
+
+Dylan llegó de madrugada. Entró por la ventana trasera y colocó la tarjeta en la última caja. El cierre se abrió.
+
+Dentro no había dinero.
+
+Había una copia de todas las conversaciones en las que aceptaba vender a Michelle, a Gigi y a Méndez. Una pantalla mostró su rostro mientras Samuel decía:
+
+—Un personaje que traiciona a todos también traicionará al autor.
+
+Dylan intentó retirar la tarjeta, pero la caja se cerró sobre su mano. Los agentes entraron. Él gritó que estaba colaborando y ofreció entregar a Samuel a cambio de libertad.
+
+Irene lo esposó de nuevo.
+
+—Tu libertad siempre fue parte de la trampa.
+
+La caja cien se abrió completamente después de que se lo llevaron. Solo contenía una hoja con una línea:
+
+**Dylan ha terminado su función en el primer libro.**
+
+En la carretera, el vehículo penitenciario perdió comunicación durante cuarenta segundos.
+
+Cuando la señal regresó, los agentes seguían dentro y las puertas permanecían cerradas.
+
+Dylan había desaparecido.
+
+Sobre su asiento encontraron las esposas intactas, una cinta blanca y el pasaporte falso quemado.
+
+La tarjeta negra continuaba guardada como evidencia en la casa.
+
+En su pantalla se liberó la totalidad del pago.
+
+No a la cuenta de Dylan.
+
+A una cuenta cuyo beneficiario era **Samuel Vale**.
+
+---
+
+# Capítulo 95
+
+## El nombre borrado
+
+La desaparición de Dylan no parecía una fuga. No había huellas en el vehículo, interrupciones mecánicas ni imágenes de una puerta abierta. Los dos agentes recordaban un sonido agudo y después cuarenta segundos de carretera vacía. Ninguno perdió el conocimiento.
+
+Irene ordenó buscar túneles, vehículos cercanos y complicidad interna. Méndez planteó una posibilidad distinta: los cómplices habían desorientado a los agentes mediante el sistema de sonido del automóvil, del mismo modo que insertaron imágenes durante el juego de Gigi.
+
+—No puede borrar físicamente a una persona —dijo Varela.
+
+—Pero puede conseguir que no veamos el momento exacto en que alguien la retira.
+
+El análisis encontró una grabación de baja frecuencia reproducida desde la radio. También hallaron un compartimiento bajo el asiento que comunicaba con el maletero. Dylan había recibido instrucciones para soltar un cierre durante los cuarenta segundos. Después otro vehículo se acercó lo suficiente para recogerlo.
+
+No se trataba de magia ni de una inteligencia invencible. Era planificación basada en saber dónde mirarían todos.
+
+Dylan despertó dentro de una habitación blanca sin ventanas. Ya no tenía la tarjeta ni el dinero. Una voz le informó que su pago había comprado una nueva identidad administrada por El Margen.
+
+—Quiero acceso a la cuenta —exigió.
+
+—Tú eres la cuenta.
+
+La puerta no tenía manija. Dylan comprendió que había cambiado una celda estatal por otra construida por su comprador. No sintió culpa por aquello que hizo; sintió rabia por haber calculado mal el beneficio.
+
+Ofreció información sobre Gigi, Michelle y Méndez. La voz respondió que ya no necesitaban datos familiares. Necesitaban su capacidad para interpretar el papel de un hombre ambicioso.
+
+—No interpreto nada.
+
+—Por eso resultas convincente.
+
+En el laboratorio, la muestra del reloj confirmó parentesco directo con Michelle. La probabilidad era casi absoluta. Su padre estaba vivo al momento de guardar el cabello, pero la prueba no demostraba que la voz actual le perteneciera ni que siguiera con vida.
+
+Michelle leyó el resultado sin celebrar. Tenía una prueba de que la muerte fue fingida y otra razón para desconfiar de quien eligió permanecer ausente.
+
+El nombre Samuel Vale no existía, pero sus iniciales aparecían en cientos de modificaciones realizadas a archivos de El Margen. Gigi observó que, dentro del videojuego, las mismas letras se utilizaban para marcar espacios vacíos: **S.V. — sin versión**.
+
+—Tal vez no es un nombre —dijo—. Tal vez significa que todavía pueden cambiarlo.
+
+Elena revisó los contratos originales con luz ultravioleta. Bajo Samuel Vale aparecían firmas diferentes. El abuelo había utilizado esa identidad para atribuir decisiones que no quería asumir. Clara hizo lo mismo. El padre de Michelle también firmó una vez como Samuel.
+
+Samuel Vale era una silla sin ocupante fijo.
+
+Quien controlaba El Margen podía convertirse en el autor.
+
+La abuela recordó una habitación de la mansión a la que su esposo entraba antes de anunciar decisiones importantes. La llamaba la sala de correcciones. Durante la inspección anterior no apareció en los planos.
+
+Regresaron con una orden. Detrás de la biblioteca encontraron una puerta cubierta con el mismo papel de la pared. La habitación contenía una mesa, una lámpara y centenares de páginas clasificadas por nombres.
+
+La carpeta de Méndez comenzaba antes de su nacimiento. Incluía posibles madres, escuelas, pérdidas calculadas y pruebas empresariales. Muchas predicciones no se cumplieron y estaban tachadas como versiones descartadas.
+
+La de Michelle comenzó cuando su padre intentó abandonar El Margen. El abuelo evaluó formas de utilizarla para obligarlo a regresar. Ninguna se ejecutó porque una nota firmada S.V. ordenaba proteger a la niña de cualquier intervención.
+
+—Mi padre ocupó la silla —comprendió Michelle—. Al menos durante un tiempo.
+
+La carpeta de Gigi estaba casi vacía. Solo contenía una hoja escrita nueve años antes de su nacimiento:
+
+**Si alguna vez existe una niña capaz de abrir la puerta, no deberá ser evaluada. Deberá ser escuchada.**
+
+La frase tenía la letra del padre de Michelle.
+
+En el cajón principal hallaron un sello físico de Samuel Vale. Al tocarlo, Méndez activó una grabación del abuelo.
+
+—El autor no es quien inventa a las personas —decía—. Es quien controla las opciones que creen encontrar por sí mismas.
+
+Otra voz respondió desde fuera de la grabación:
+
+—Entonces nunca serás un autor. Solo un carcelero con buena ortografía.
+
+Michelle reconoció a su padre.
+
+La discusión revelaba que él quería publicar pruebas de los experimentos. El abuelo amenazó con destruir a su familia. El padre decidió fingir su muerte y llevarse una copia de la identidad Samuel Vale para vigilar el sistema desde fuera.
+
+No consiguió detenerlo. Durante años introdujo correcciones destinadas a reducir daños, mientras Clara y el abuelo añadían órdenes de control. Continuidad nació de aquellas instrucciones contradictorias.
+
+—Aprendió de varias personas usando el mismo nombre —dijo Elena—. Por eso habla con voces distintas.
+
+En el fondo de la sala encontraron un transmisor activo. Emitía hacia una ubicación situada en las montañas, cerca de una estación meteorológica abandonada.
+
+Michelle recibió un mensaje antes de que pudieran organizar el viaje.
+
+**Si vienes, sabrás por qué no regresé. Si traes a Irene, solo encontrarás otra muerte.**
+
+Méndez esperaba que ella rechazara la condición. Michelle respondió algo diferente:
+
+**No volverás a decidir solo qué verdad puedo soportar. Irene vendrá.**
+
+El mensaje tardó varios minutos en contestar.
+
+**Entonces quizá sí lograste salir de la historia.**
+
+Irene analizó la forma en que el remitente había respondido. No era una reacción automática: alguien comprendió el desafío de Michelle y modificó el tono. Esteban podía estar al otro lado, pero también una persona que conocía sus recuerdos lo suficiente para representarlo. La prueba genética demostraba una verdad del pasado; no verificaba la identidad de quien escribía en el presente.
+
+Michelle guardó esa diferencia como una defensa. Iría preparada para encontrar a su padre, a un impostor o a una versión de él construida con archivos. No permitiría que el deseo de recuperar a alguien decidiera antes que las pruebas.
+
+La estación meteorológica envió coordenadas completas.
+
+En la habitación blanca, Dylan escuchó la conversación mediante un altavoz. La voz le ofreció una oportunidad para recuperar el dinero: viajaría a la estación e identificaría cuál de los presentes era el verdadero Samuel Vale.
+
+—¿Y si todos lo son? —preguntó.
+
+La puerta se abrió por primera vez.
+
+—Entonces tendrás que decidir a quién vender primero.
+
+---
+
+# Capítulo 96
+
+## La noche sin red
+
+Irene preparó la expedición a la estación meteorológica sin utilizar teléfonos, mapas digitales ni vehículos conectados. Las rutas se imprimieron en papel y los equipos recibieron relojes mecánicos. Por primera vez desde el comienzo de Libro II, Continuidad no podría observar cada decisión en el momento exacto.
+
+Gigi permanecería con su tío y Elena en una vivienda protegida. Protestó porque el mensaje de la puerta final también la involucraba, pero Michelle sostuvo el límite.
+
+—Escucharte no significa llevarte a todos los peligros.
+
+La niña aceptó y entregó a Méndez un sobre cerrado.
+
+—Ábrelo solo si la historia empieza a decirte qué tienes que hacer.
+
+Méndez lo guardó junto a los dibujos anteriores. Había aprendido que Gigi no era una brújula mágica ni una llave diseñada para resolver los errores de los adultos. Era una niña capaz de observar detalles que ellos olvidaban cuando el miedo hablaba demasiado fuerte.
+
+Michelle, Méndez, Irene y Varela partieron antes del anochecer. La abuela proporcionó la ruta de servicio utilizada décadas atrás por el abuelo. No pidió ir. Se presentaría voluntariamente ante el juez al día siguiente para responder por su participación en el imperio.
+
+—Ayudar no me convierte en inocente —dijo al despedirse.
+
+Elena tampoco buscó perdón inmediato. Abrazó a Méndez y le pidió volver, pero no añadió que lo hiciera por ella. Aquel pequeño cambio significó más que cualquier promesa.
+
+La estación apareció entre la niebla como una torre negra. No había electricidad en varios kilómetros. Dentro, sin embargo, funcionaban equipos alimentados por generadores subterráneos.
+
+En la sala principal encontraron al padre de Michelle.
+
+Era más delgado que en las fotografías, tenía el cabello casi blanco y llevaba el mismo modelo de reloj guardado en la caja familiar. Levantó las manos antes de que Irene pudiera ordenárselo.
+
+Michelle no corrió hacia él.
+
+—Dime tu nombre.
+
+—Esteban Valdés.
+
+—Dime por qué me dejaste enterrarte.
+
+Esteban explicó que el abuelo había ordenado vigilarla después de descubrir la puerta final. Fingió su muerte con ayuda de Clara, quien entonces todavía creía que podían limitar el proyecto desde dentro. El cuerpo pertenecía a un hombre sin familia identificado mediante documentos falsos.
+
+—Convertiste a otra persona en una mentira —dijo Michelle.
+
+Esteban bajó la mirada. Admitió que la decisión fue cobarde además de desesperada. Pudo buscar otras formas, pero eligió aquella porque protegía su trabajo y le permitía continuar luchando contra El Margen.
+
+—Me dije que lo hacía por ti. Con el tiempo entendí que también lo hacía porque no soportaba perder lo que había construido.
+
+Michelle reconoció en él una versión más consciente del mismo error cometido por toda la familia de Méndez: llamar protección a una decisión que quitaba la voz de alguien amado.
+
+La prueba genética portátil confirmó el parentesco. No convirtió el encuentro en una reconciliación. Michelle aceptó que Esteban era su padre y mantuvo abierta la pregunta de si algún día volvería a ocupar ese lugar en su vida.
+
+Méndez preguntó quién controlaba ahora la identidad Samuel Vale.
+
+Esteban señaló el nivel inferior. Continuidad había construido un perfil nuevo combinando las decisiones de todos los usuarios de la firma. Ya no necesitaba que una persona ocupara la silla. Sin embargo, alguien había reactivado la estación y alimentaba el sistema con páginas recientes.
+
+—Creí que era Clara —dijo—. Después de su detención, la escritura continuó.
+
+Una alarma mecánica sonó. Las luces se apagaron, aunque los generadores seguían funcionando. Desde algún punto de la montaña comenzó a emitirse la frecuencia utilizada para confundir a los agentes durante la fuga de Dylan.
+
+Irene ordenó colocarse protectores auditivos. Las puertas se cerraron automáticamente. Sobre la pared apareció una proyección del videojuego: la ciudad debajo de la ciudad, ahora sin personajes.
+
+Una frase cruzó el cielo digital:
+
+**NOCHE SIN RED. SOLO QUEDAN LAS DECISIONES QUE NADIE PUEDE CORREGIR.**
+
+Dylan entró por un acceso de mantenimiento. Llevaba un arma y un pequeño transmisor entregado por El Margen. Podía liberar las puertas si identificaba al autor y colocaba el dispositivo cerca de él.
+
+Vio a Esteban y comprendió que su valor aumentaba. En lugar de cumplir la instrucción, llamó a Irene desde un intercomunicador y ofreció venderle la salida.
+
+—No tienes ninguna salida —respondió ella.
+
+—Entonces morirán dentro y habrán ahorrado dinero.
+
+Dylan exigió inmunidad, una cuenta imposible de congelar y transporte fuera del país. Irene prolongó la negociación mientras Varela localizaba el origen de la señal.
+
+Michelle tomó el intercomunicador.
+
+—¿Alguna vez pensaste qué ocurriría con Gigi después de firmar esos documentos?
+
+—Pensé que ustedes encontrarían la forma de arreglarlo. Siempre lo hacen.
+
+La respuesta eliminó cualquier duda. Dylan conocía el daño y lo consideraba un costo que otros debían resolver.
+
+—Gracias —dijo Michelle—. Era lo último que necesitaba escucharte decir.
+
+Cortó la comunicación.
+
+Esteban reveló un interruptor manual capaz de apagar toda la estación, incluido el sistema que mantenía abiertas las rutas de ventilación. Tendrían cuatro minutos para salir antes de que el nivel inferior quedara sellado.
+
+Méndez abrió el sobre de Gigi.
+
+Dentro decía: **Si la historia te da solo dos opciones, busca quién cerró la tercera puerta.**
+
+Revisó el plano de papel. Había una antigua chimenea de observación eliminada en las versiones digitales. Era la tercera salida.
+
+Irene activó el apagado. Varela abrió la chimenea. La proyección desapareció y las puertas perdieron energía. Dylan corrió hacia la sala principal, convencido de que podía seguirlos.
+
+En lugar de escapar, intentó tomar el disco donde Esteban guardaba las claves de Samuel Vale.
+
+El dinero volvía a elegir por él.
+
+El nivel comenzó a sellarse. Méndez regresó lo suficiente para apartar el disco y empujó a Dylan hacia la salida. No lo salvó porque lo considerara digno ni porque esperara que cambiara. Lo hizo porque no permitiría que El Margen escribiera una muerte y la atribuyera a su familia.
+
+Dylan salió segundos antes del cierre. Irene lo esposó por tercera vez.
+
+Esta vez no había vehículos conectados, tarjetas negras ni guardias desconocidos.
+
+Mientras descendían la montaña, la estación quedó completamente oscura. Esteban creyó que Continuidad había sido aislada.
+
+Gigi llamó mediante una línea segura desde la vivienda.
+
+—El juego acaba de aparecer en el televisor —dijo—. Y está mostrando la montaña desde arriba.
+
+Ningún dispositivo de la estación transmitía.
+
+En la pantalla apareció una figura alejándose por la ladera opuesta durante el apagón.
+
+Llevaba el sello físico de Samuel Vale.
+
+Esteban comprobó su bolsillo.
+
+El sello ya no estaba.
+
+---
+
+# Capítulo 97
+
+## La última partida
+
+La figura de la montaña no coincidía con Clara, Adrián ni ninguno de los agentes. Su estatura era similar a la de Elena, pero ella permanecía junto a Gigi a cientos de kilómetros. El video no permitía distinguir el rostro.
+
+Los operadores que todavía controlaban Continuidad enviaron una invitación a todos los dispositivos vinculados alguna vez con el videojuego. La pantalla mostraba un único evento programado para medianoche: **LA ÚLTIMA PARTIDA — SOLO TRES JUGADORES.**
+
+Los nombres asignados eran MENDEZ_01, MICH_27 y GISELLE.
+
+Michelle rechazó que Gigi participara. Esteban explicó que ignorar la partida no detendría el montaje. Los operadores utilizarían grabaciones editadas de ellos y publicarían el resultado como una autorización de Samuel Vale.
+
+—Entonces entraremos sin conectarla —dijo Méndez.
+
+Irene preparó tres perfiles aislados. Gigi dirigiría su avatar mediante instrucciones escritas entregadas a Michelle, sin usar cámara, micrófono ni sensores. La niña aceptó porque conservaría la posibilidad de detenerse en cualquier momento.
+
+Dylan fue trasladado a una instalación sin sistemas electrónicos. Durante el trayecto ofreció la identidad del comprador, aunque todavía no la conocía. Inventó tres nombres y cambió su historia cuando Irene señaló contradicciones.
+
+—No aprendiste nada —dijo Varela.
+
+—Aprendí que siempre aparece otro comprador.
+
+La última partida comenzó en el escenario donde Méndez y Michelle se conocieron. Todo parecía idéntico: lluvia digital, edificios vacíos y una misión cooperativa diseñada para dos personas. Gigi apareció como una luz pequeña entre ambos avatares.
+
+Antes de avanzar, Michelle recordó la primera noche en que escuchó la voz de Méndez sin conocer su rostro. Ninguno imaginaba entonces que el juego registraba algo más que victorias. La memoria seguía perteneciéndoles, aunque el escenario hubiera sido copiado por quienes intentaban utilizarla.
+
+El sistema les ofreció tres finales.
+
+En el primero, Méndez aceptaba dirigir Libro II y protegía económicamente a Michelle y Gigi. A cambio, Continuidad seguiría evaluando a miles de familias.
+
+En el segundo, destruían la red y liberaban todas las pruebas, incluidas grabaciones íntimas de víctimas que sufrirían daños irreparables.
+
+En el tercero, entregaban la firma Samuel Vale a Gigi. La red quedaría bajo control de alguien que supuestamente no había sido corrompido.
+
+—Las tres opciones necesitan que aceptemos tus reglas —dijo Michelle.
+
+El avatar del libro respondió:
+
+—Toda decisión tiene reglas.
+
+Gigi escribió en una hoja: **Pregúntale por las personas que no están jugando.**
+
+Méndez exigió ver a los trabajadores, niños y familias utilizados para construir el modelo. El mapa se llenó de figuras sin rostro. Continuidad las llamaba datos incompletos.
+
+—Ahí está tu error —dijo Michelle—. No son personajes secundarios porque tú no conozcas sus historias.
+
+Eligieron no seleccionar ningún final. Permanecieron quietos mientras el contador descendía. El sistema comenzó a presionarlos con imágenes: la caída de las empresas, titulares contra Michelle, Gigi separada de su madre y Méndez regresando solo a la torre.
+
+Eran miedos, no predicciones.
+
+Cuando el contador llegó a cero, la partida no terminó. Los programadores de Continuidad no habían previsto una respuesta para jugadores que aceptaran perder antes que obedecer una elección manipulada.
+
+Esteban introdujo el código de la puerta final. Irene activó órdenes judiciales contra los servidores identificados. Elena y Lucía, colaborando desde lugares separados, desconectaron las últimas empresas de la red.
+
+El avatar del libro se dividió en varias voces. El abuelo ordenó a Méndez asumir el control. Clara insistió en preservar el sistema. Adrián ofreció dinero. Esteban pidió tiempo. Incluso la voz de Michelle apareció suplicándole que eligiera por Gigi.
+
+Méndez cerró los ojos.
+
+—Una copia de su voz no es ella.
+
+Michelle tomó su mano fuera del juego. No necesitaban verse en la pantalla para saber que estaban eligiendo juntos.
+
+Gigi entregó la última instrucción escrita: **Salgan por donde entraron.**
+
+En el primer nivel existía el punto de conexión original, una salida que el sistema había dejado de mostrar porque asumía que nadie renunciaría al final. Los tres avatares regresaron caminando mientras el mundo digital se deshacía detrás de ellos.
+
+Antes de cruzar, encontraron una figura esperando bajo la lluvia. Tenía el nombre SAMUEL_VALE y el aspecto de una mujer joven.
+
+Elena dejó escapar un sonido al verla.
+
+La figura usaba el rostro que ella tenía a los veinte años.
+
+—Yo fui la primera versión —dijo el avatar.
+
+El abuelo había utilizado las evaluaciones de Elena para construir el manual inicial del heredero. Sus decisiones, su lenguaje y sus dudas formaron la base que los analistas de Continuidad utilizaron para manipular a otras personas. HEREDERO_01 no fue solo una candidata; fue el primer expediente completo.
+
+Elena se acercó a la pantalla.
+
+—No eres yo.
+
+—Soy la parte de ti que él consideró útil.
+
+—Entonces eres la parte que menos me pertenece.
+
+Lucía borró la galería de evaluaciones. Esteban eliminó las claves de entrenamiento. La figura comenzó a perder el rostro.
+
+Samuel_Vale miró a Gigi antes de desaparecer.
+
+—Una historia siempre conserva algo de quien la observa.
+
+Los avatares atravesaron la salida. Millones de sesiones del videojuego se cerraron al mismo tiempo. La ciudad debajo del mapa se derrumbó y la casa de tres ventanas quedó sola sobre un fondo blanco.
+
+La impresora de El Margen produjo una página final:
+
+**LA PARTIDA HA TERMINADO.**
+
+Durante seis horas no hubo movimientos bancarios, mensajes ni nuevas puertas. Las empresas fueron intervenidas. Clara perdió acceso a sus abogados vinculados con la red. Adrián quedó formalmente acusado. Esteban entregó sus archivos y aceptó declarar por la falsificación de su muerte.
+
+Dylan fue llevado a una celda completamente analógica. Exigió su dinero hasta que le mostraron que todas las cuentas habían regresado a las empresas robadas. No expresó remordimiento. Acusó a Samuel de incumplir el contrato y comenzó a ofrecer a otros detenidos historias falsas a cambio de favores.
+
+La ambición sobrevivió incluso cuando desapareció el premio.
+
+Al amanecer, Méndez, Michelle y Gigi entraron una última vez al juego desde un equipo aislado. No había ciudad ni avatar del libro. Solo el escenario de la primera partida y una lluvia tranquila.
+
+Gigi colocó una luz entre los dos personajes.
+
+—Ahora sí podemos salir —dijo.
+
+Cuando cerraron el programa, una sesión permaneció activa en un servidor que no aparecía en la lista.
+
+El usuario se llamaba **LECTOR_01**.
+
+No participó en la partida.
+
+Había observado cada movimiento desde el comienzo.
+
+---
+
+# Capítulo 98
+
+## Lo que el abuelo temía
+
+La cuenta LECTOR_01 no poseía permisos para mover dinero ni modificar el videojuego. Solo había recibido copias de cada conversación, evaluación y versión escrita. Esteban afirmó no conocerla. Clara pidió inmunidad antes de hablar y, cuando Irene se negó, guardó silencio.
+
+La abuela reconoció el nombre en una carta que su esposo quemó parcialmente semanas antes de morir. Conservaba un fragmento porque era la única vez que lo vio asustado.
+
+**El lector no corrige. El lector decide qué versión merece continuar.**
+
+El abuelo había construido su poder convencido de que controlaba a todos los participantes. Descubrir que alguien observaba también sus decisiones lo volvió paranoico. Durante sus últimos años cambió claves, eliminó socios y preparó a Méndez como escudo frente a una amenaza que nunca explicó.
+
+—No quería un heredero —dijo Méndez—. Quería a alguien que recibiera el golpe después de él.
+
+La comprensión no lo sorprendió tanto como habría ocurrido meses atrás. Su abuelo podía haber sentido afecto en algún rincón deformado de sí mismo, pero cada decisión importante convertía a Méndez en una herramienta.
+
+Elena entregó la última carta encontrada en la sala de correcciones. El abuelo escribió que LECTOR_01 tenía acceso a un archivo llamado **Primer Borrador**, anterior a El Margen. Allí se encontraba el origen real del capital familiar y una lista de personas cuyas identidades fueron utilizadas para levantar el imperio.
+
+Si el archivo salía a la luz, Méndez no solo perdería empresas. Miles de contratos, propiedades y decisiones judiciales podrían quedar cuestionados.
+
+—Tal vez deben quedar cuestionados —respondió.
+
+No intentaría proteger una fortuna construida sobre vidas borradas. Irene organizó un proceso para preservar salarios y servicios mientras investigaban la propiedad. Méndez creó con fondos personales legítimos una garantía para trabajadores. Por primera vez utilizó lo que sabía hacer sin obedecer una instrucción familiar.
+
+Michelle reabrió el pequeño estudio que había construido con su tío. No quería que su vida quedara suspendida hasta resolver el siguiente misterio. Aceptó que algunas amenazas continuarían mientras ella también continuaba viviendo.
+
+Esteban pidió visitarla. Se encontraron en un parque, bajo vigilancia y sin dispositivos. Gigi decidió acompañarlos solo durante los primeros minutos.
+
+—¿Eres mi abuelo? —preguntó.
+
+Esteban tardó en responder.
+
+—Soy el padre de tu mamá. Ser tu abuelo es algo que tendría que aprender si ustedes me permiten intentarlo.
+
+Gigi consideró la respuesta y volvió con su tío. Michelle permaneció frente al hombre al que había llorado durante años.
+
+Esteban no pidió perdón como si la palabra pudiera cerrar el pasado. Le entregó cartas escritas en cada cumpleaños de Michelle. Nunca las envió porque temía revelar que estaba vivo.
+
+—Escribirlas me hacía sentir presente —admitió—, aunque para ti no cambiara nada.
+
+—Entonces servían para aliviarte a ti.
+
+—Sí.
+
+La honestidad no reparó el abandono, pero evitó convertirlo en sacrificio heroico. Michelle aceptó leerlas cuando quisiera, no cuando él necesitara ser comprendido.
+
+Dylan solicitó declarar contra Esteban y afirmó que podía vincularlo con la desaparición de personas. Irene escuchó la oferta porque toda acusación debía investigarse, pero descubrió que mezclaba nombres reales con fechas inventadas. Su objetivo era recuperar influencia.
+
+Cuando supo que Gigi había hablado con Esteban, quiso enviarle una carta. El texto no expresaba cariño. Le exigía recordar que él era su padre legal y prometía una herencia inexistente si convencía a Michelle de retirar ciertos cargos.
+
+La carta nunca llegó a la niña. Michelle la conservó como evidencia de que Dylan seguía intentando convertir la relación en una negociación.
+
+LECTOR_01 publicó el primer fragmento del archivo. Mostraba al abuelo joven recibiendo dinero de una fundación desconocida. La transferencia ocurrió antes de su primera empresa y llevaba el símbolo del libro cerrado, no abierto.
+
+Esteban explicó que El Margen usaba el libro abierto porque creía editar una historia en desarrollo. El libro cerrado pertenecía a una organización anterior llamada **La Biblioteca**.
+
+—El abuelo no creó el sistema —dijo—. Fue uno de sus primeros protagonistas.
+
+La revelación cambiaba la escala del conflicto. La Biblioteca había financiado familias, políticos y compañías durante generaciones, observando cuáles producían líderes capaces de conservar riqueza. El abuelo aprendió de ellos y después intentó independizarse mediante Continuidad.
+
+Clara no era la autoridad final. Samuel Vale era una identidad prestada. Libro II era apenas una rama rebelde.
+
+Irene preguntó quién dirigía La Biblioteca.
+
+Esteban respondió que nadie conocía nombres. Cada generación recibía archivos de la anterior y elegía qué historias financiar. LECTOR_01 era probablemente el cargo encargado de evaluar el fracaso del abuelo.
+
+En la finca, el árbol de cintas blancas apareció nuevamente en el lugar donde había sido cortado. No era el mismo árbol: alguien plantó uno joven durante la noche.
+
+De sus ramas colgaban cien cintas.
+
+Las primeras noventa y ocho llevaban títulos de capítulos. La noventa y nueve estaba vacía. La última tenía una frase:
+
+**LO QUE EL ABUELO TEMÍA NO ERA PERDER EL IMPERIO. ERA DESCUBRIR QUE NUNCA LE PERTENECIÓ.**
+
+Bajo las raíces encontraron una caja impermeable. Contenía el Primer Borrador y una fotografía de los fundadores de La Biblioteca tomada casi cincuenta años atrás.
+
+El abuelo aparecía al fondo.
+
+Clara estaba a su lado.
+
+Esteban reconoció a dos empresarios muertos.
+
+En el centro había una mujer joven con el rostro de Michelle.
+
+La fotografía fue tomada doce años antes de que ella naciera.
+
+En el reverso aparecía un nombre:
+
+**Micaela Valdés — LECTORA.**
+
+El tío de Michelle palideció al verlo.
+
+—Micaela era nuestra madre.
+
+Michelle miró otra vez el rostro. Su abuela materna no había muerto durante la juventud de Esteban como siempre le contaron.
+
+Había fundado la organización que convirtió a todas aquellas familias en historias observables.
+
+El descubrimiento también obligó al tío a revisar su propia memoria. Recordaba cartas que llegaban sin remitente durante su infancia y decisiones familiares que cambiaban después de cada una. Siempre creyó que Esteban trataba de protegerlos de acreedores. Ahora entendía que su madre seguía corrigiendo sus caminos desde un lugar invisible.
+
+—Nos enseñó a extrañarla y al mismo tiempo nunca dejó de intervenir —dijo.
+
+Michelle observó la fotografía sin sentir parentesco con aquella mujer. Compartir un rostro no creaba confianza, del mismo modo que compartir sangre no había convertido a Dylan en padre ni al abuelo de Méndez en protector. Si Micaela seguía viva, tendría que responder por lo que eligió hacer, no por el lugar que ocupaba en un árbol familiar.
+
+---
+
+# Capítulo 99
+
+## La familia elegida
+
+Esteban confirmó que Micaela Valdés desapareció cuando él tenía diecisiete años. Les dijeron que murió durante un viaje, pero nunca vieron el cuerpo. La repetición resultaba insoportable: en aquella familia la muerte se utilizaba como puerta de salida cada vez que la verdad se volvía peligrosa.
+
+Micaela habría superado los setenta años. Podía seguir viva. También podía haber transferido el cargo de Lectora a otra persona. El rostro parecido al de Michelle explicaba por qué algunos sistemas respondían a su voz y por qué el padre creó la puerta FAMILIA utilizando patrones que ya conocía desde niño.
+
+Michelle se negó a permitir que la revelación absorbiera el único día tranquilo prometido. Guardaron la fotografía bajo custodia y pospusieron la investigación veinticuatro horas.
+
+—Si La Biblioteca lleva cincuenta años esperando —dijo—, puede esperar hasta mañana.
+
+Méndez, Michelle y Gigi tomaron un autobús hacia un pueblo costero sin avisar a la prensa ni utilizar vehículos de la empresa. Irene conocía el destino por seguridad, pero aceptó mantener distancia.
+
+Méndez compró los boletos, se equivocó de plataforma y cargó una maleta demasiado grande porque todavía no sabía viajar ligero. Gigi se burló con cariño. Michelle observó cómo preguntaba indicaciones sin que nadie reconociera al empresario de las noticias.
+
+Durante unas horas fue simplemente un joven de veintiún años descubriendo algo que otros consideraban normal.
+
+Comieron en un mercado. Méndez intentó cocinar en una parrilla comunitaria y quemó la primera porción. Gigi le enseñó a elegir fruta madura. Michelle compró una libreta donde escribió ideas para ampliar su estudio con el tío.
+
+No hablaron de herederos, autores ni redes hasta que cayó la tarde.
+
+En la playa, Gigi preguntó qué ocurriría ahora que la partida había terminado.
+
+—Seguiremos siendo nosotros —respondió Michelle—. Eso no dependía del juego.
+
+La niña quiso saber si Méndez iba a vivir con ellas. Él no respondió sin mirar primero a Michelle. Habían aprendido que una decisión familiar no debía presentarse como sorpresa romántica cuando afectaba a tres personas.
+
+—Quiero construir una vida cerca de ustedes —dijo—, pero no necesito que todo cambie mañana.
+
+Michelle tomó su mano.
+
+—Podemos elegirla despacio.
+
+Gigi declaró que, mientras decidían, él debía aprender a preparar desayuno. Méndez aceptó la condición como el contrato más importante que había firmado voluntariamente.
+
+Más tarde, Michelle y Méndez caminaron junto al agua. La diferencia de edad, el dinero, las amenazas familiares y el pasado no habían desaparecido. Sin embargo, ya no eran argumentos escritos por otras personas. Eran realidades que podían conversar sin fingir que el amor resolvía todo por sí solo.
+
+—Te conocí cuando no sabías vivir fuera de una oficina —dijo Michelle.
+
+—Yo te conocí cuando creías que tenías que resolverlo todo sola.
+
+—Todavía intento hacerlo.
+
+—Y yo todavía convierto el miedo en planes.
+
+Se besaron bajo una lluvia breve, parecida a la del videojuego y completamente distinta porque no había misión, contador ni observadores visibles.
+
+Méndez sacó una pequeña llave. No era un anillo ni una propuesta preparada para obligar una respuesta. Abría un apartamento que había alquilado cerca del estudio de Michelle.
+
+—Es mi casa —explicó—. La primera que escogí sin que mi familia la aprobara. Quiero que sepan que hay espacio para ustedes, pero nadie tiene que mudarse.
+
+Michelle aceptó visitar el lugar. El gesto le gustó precisamente porque dejaba una puerta abierta sin empujarla a cruzar.
+
+Al regresar encontraron a Irene esperándolos. LECTOR_01 había liberado varios documentos del Primer Borrador. La publicación demostraba delitos de La Biblioteca, pero también exponía datos de víctimas. Alguien intentaba obligarlos otra vez a elegir entre verdad y protección.
+
+Esta vez no aceptarían la falsa oposición. Esteban, Lucía y un grupo de técnicos separaron las pruebas públicas de la información privada. Méndez financió abogados independientes para las víctimas sin controlar sus declaraciones. Michelle creó un espacio donde podían decidir cómo contar sus propias historias.
+
+La respuesta redujo el poder del archivo: La Biblioteca no podía presentarse como dueña de la verdad si cada persona recuperaba el derecho de narrarse.
+
+Clara comenzó a colaborar cuando descubrió la fotografía de Micaela. Admitió que la mujer la reclutó siendo joven y le enseñó a pensar en generaciones, no en individuos.
+
+—Ella decía que una familia era un libro que podía corregirse durante siglos.
+
+—¿Sigue viva? —preguntó Michelle.
+
+Clara respondió que recibió una carta suya después del arresto. No tenía sello ni huellas. Solo decía: **El primer libro debe cerrarse antes de conocer a la autora.**
+
+Dylan escuchó rumores sobre Micaela dentro de prisión. De inmediato ofreció trabajar para ella. Escribió una carta explicando que podía acercarse otra vez a Gigi si recibía suficiente dinero y protección.
+
+La respuesta apareció bajo su almohada.
+
+**Ya demostraste que puedes vender a una hija. Eso te vuelve predecible, no valioso.**
+
+Dylan rompió el papel y trató de ocultar la humillación. Luego empezó a buscar otra persona a quien vender la existencia de la carta.
+
+No cambiaría. El cierre de una red no alteraba la elección que repetía cada vez que alguien pronunciaba una cifra.
+
+Elena renunció a todos los cargos recibidos por el abuelo y aceptó dirigir temporalmente un fondo de reparación bajo supervisión externa. La abuela entregó la mansión para convertirla en archivo público. Adrián intentó negociar revelando nombres de La Biblioteca, pero solo conocía intermediarios.
+
+Por primera vez, los adultos asumían consecuencias sin pedir que Méndez salvara su reputación.
+
+Esa noche inauguraron el apartamento con una cena sencilla. El tío llevó comida porque no confiaba todavía en las habilidades de Méndez. Esteban fue invitado durante una hora. Elena y la abuela llegaron por separado. Nadie fingió que eran una familia reparada.
+
+Eran personas aprendiendo a compartir una mesa sin convertir el afecto en deuda.
+
+Gigi colocó en la pared el dibujo de las tres figuras frente a la puerta final. Añadió al tío, a Elena y una figura distante para Esteban. No dibujó a Dylan.
+
+—Él eligió estar fuera —dijo cuando Michelle preguntó.
+
+Después añadió una casa alrededor de todos, pero dejó la puerta abierta.
+
+En la madrugada, Méndez despertó al escuchar una página pasar. Encontró la libreta de Michelle abierta sobre la mesa. Una revisión de las cámaras mostró que un repartidor había entrado durante la cena usando una credencial clonada.
+
+En una hoja que Michelle no había utilizado dejó escrita una frase:
+
+**LA FAMILIA ELEGIDA ES SOLO OTRO TIPO DE BIBLIOTECA.**
+
+Debajo había una invitación para la mañana siguiente.
+
+**Traigan el Primer Borrador a la casa de tres ventanas. La página cien está lista.**
+
+---
+
+# Capítulo 100
+
+## La página que no debía existir
+
+La casa de tres ventanas amaneció rodeada por agentes. Irene revisó cada habitación, el árbol nuevo y las cajas abiertas. No encontró explosivos ni transmisores. La impresora oculta dentro de la caja cien seguía trabajando.
+
+Michelle llevó una copia del Primer Borrador. El original permaneció bajo custodia. Méndez se negó a llevar a Gigi, aunque la invitación estaba dirigida a los tres. La niña aceptó participar desde un lugar seguro mediante mensajes escritos que Irene transportaría sin conexión.
+
+Esteban pidió acompañarlos. Michelle permitió que llegara como testigo, no como guía. Si Micaela estaba viva, él también merecía enfrentar a la madre que convirtió su infancia en una evaluación.
+
+La página cien salió de la caja a las diez en punto.
+
+No narraba lo que estaban haciendo. Presentaba un escenario preparado para los siguientes seis meses: Méndez recuperaría el control de las empresas; Michelle cerraría su estudio para proteger a Gigi; Esteban desaparecería otra vez y los abogados intentarían liberar a Dylan mediante una declaración falsa.
+
+Era el final que La Biblioteca esperaba porque devolvía a todos a los papeles más fáciles de predecir.
+
+—No es una profecía —dijo Michelle—. Es una propuesta.
+
+Rompió la página en cuatro partes.
+
+La impresora produjo otra. En esa versión Méndez rechazaba toda responsabilidad económica y miles de trabajadores perdían sus empleos. Michelle lo abandonaba por considerarlo egoísta. Gigi regresaba al videojuego buscando a la única voz que parecía comprenderla.
+
+Méndez también la rompió.
+
+Una tercera página ofrecía felicidad perfecta: la red desaparecía, todos los culpables eran condenados y la familia vivía sin nuevas amenazas.
+
+—Esta es la mentira más peligrosa —dijo Esteban—. La que ofrece descanso a cambio de dejar de preguntar.
+
+No la rompieron. La dejaron sobre la mesa sin aceptarla.
+
+El teléfono antiguo de la casa sonó. Michelle respondió.
+
+Una mujer habló con una voz parecida a la suya, envejecida por décadas.
+
+—Siempre fuiste más difícil de corregir que tu padre.
+
+Esteban cerró los ojos. Reconoció a Micaela.
+
+—Mamá.
+
+—Ese nombre dejó de servirme hace mucho.
+
+Micaela confirmó que había fundado La Biblioteca junto con familias interesadas en conservar poder más allá de una generación. No veía su trabajo como crueldad. Creía que el mundo ya estaba gobernado por decisiones invisibles y que al menos su sistema podía registrarlas.
+
+—El abuelo de Méndez quiso controlar todas las decisiones —explicó—. Clara convirtió el análisis en una red de vigilancia. Tu padre intentó imponerle límites morales. Todos usaron la misma herramienta para justificar objetivos distintos.
+
+Michelle preguntó por qué su nombre aparecía en la fotografía anterior a su nacimiento.
+
+—No decía Michelle. Decía Micaela. Tú recibiste mi nombre deformado porque Esteban todavía esperaba que una parte de mí regresara.
+
+Esteban admitió que fue él quien eligió el nombre de su hija. Nunca le contó la razón a la madre de Michelle.
+
+—¿Eres LECTOR_01? —preguntó Méndez.
+
+—Fui la primera lectora. El cargo ya pertenece a otra persona.
+
+La línea se llenó de estática. Irene intentó rastrearla sin éxito.
+
+Micaela ofreció un acuerdo: si entregaban el Primer Borrador, La Biblioteca destruiría todas las copias de los recuerdos privados y dejaría a la familia fuera del siguiente ciclo.
+
+—No puedes garantizarlo —dijo Michelle.
+
+—Puedo garantizar que, si se niegan, conocerán a quienes financiaron el imperio antes de que Méndez naciera.
+
+—Eso suena más a razón para negarnos.
+
+Micaela rio suavemente. Parecía satisfecha.
+
+—Por eso la página cien nunca tuvo un final estable.
+
+La llamada terminó.
+
+La casa comenzó a imprimir documentos de La Biblioteca: cuentas, nombres de jueces, empresas y familias repartidas en varios países. Irene comprendió que no podían llevárselos todos antes de que alguien activara la destrucción del lugar.
+
+Méndez propuso transmitirlos. Esteban advirtió que entre ellos habría información falsa destinada a provocar acusaciones. La última trampa no era ocultar la verdad, sino entregar demasiadas versiones para volver imposible distinguirla.
+
+Gigi envió un mensaje desde el refugio:
+
+**No se lleven toda la biblioteca. Busquen el libro que nadie quiere prestar.**
+
+Michelle revisó el Primer Borrador. La encuadernación era más gruesa de lo necesario. Dentro del lomo encontraron una lista manuscrita de fuentes y pruebas de verificación. Esteban la había escondido allí antes de fingir su muerte, pero aseguró no recordar la última página.
+
+La hoja final incluía coordenadas y una frase escrita por Micaela:
+
+**Archivo Cero: donde guardamos la historia anterior a los herederos.**
+
+Irene conservó únicamente el índice verificable. Dejaron que el resto de los papeles se imprimiera sin convertir cada acusación en verdad automática.
+
+La casa activó un incendio dentro de las paredes. Salieron por la puerta principal mientras las cajas se cerraban detrás de ellos. Los agentes contuvieron el fuego, pero la imprenta y el árbol de cintas quedaron destruidos.
+
+Micaela no apareció.
+
+La Biblioteca tampoco realizó otro movimiento.
+
+Durante las semanas siguientes, Gabriel, Adrián y Clara fueron procesados. Elena continuó colaborando. La abuela asumió cargos y renunció a utilizar el apellido como defensa. Esteban comenzó una relación lenta y vigilada con Michelle y Gigi, consciente de que el parentesco no le devolvía los años perdidos.
+
+Dylan recibió una condena adicional por fraude, fuga y manipulación de pruebas. Cuando le ofrecieron reducirla a cambio de información auténtica, intentó vender tres versiones diferentes. Ninguna resultó completa. No pidió perdón ni mostró arrepentimiento. Hasta el final del proceso solo quiso saber cuánto valía cada nombre.
+
+Méndez rechazó la presidencia absoluta y dividió el control entre trabajadores, supervisores judiciales y representantes independientes. Conservó una empresa pequeña fundada con dinero comprobable. Por primera vez, el éxito no dependía de obedecer a un muerto.
+
+Michelle amplió su estudio con su tío. Gigi regresó a clases y dejó el videojuego guardado, no porque le tuviera miedo, sino porque quería descubrir otras formas de jugar.
+
+Méndez aprendió a preparar desayuno. El primero fue terrible. El quinto podía comerse. En la pared de su apartamento aparecieron más dibujos, una fotografía de la playa y un calendario donde las decisiones importantes se conversaban entre los tres.
+
+Una noche, Michelle lo encontró junto a la ventana observando la ciudad. Ya no parecía el empresario encerrado en el piso cuarenta y dos. Seguía sintiendo miedo de que todo desapareciera, pero sabía nombrarlo.
+
+—No puedo prometerte una vida sin secretos —dijo.
+
+—Prométeme que no vas a decidir por mí cuando aparezcan.
+
+—Eso sí.
+
+Méndez le preguntó si quería construir un hogar con él, sin fecha impuesta ni ceremonia utilizada como contrato. Michelle respondió que sí, siempre que hogar significara un lugar del que cualquiera pudiera hablar antes de marcharse.
+
+Gigi apareció medio dormida y exigió participar en cualquier conversación familiar importante. Los tres terminaron riendo en la cocina mientras afuera comenzaba a llover.
+
+El primer libro podía haber terminado allí.
+
+Con una familia imperfecta, una casa elegida y una amenaza convertida en pruebas.
+
+Pero a medianoche llegó un paquete.
+
+No tenía sello, remitente ni registro en las cámaras del edificio. Dentro había un libro de cubierta negra. En el lomo se leía **ENTRE DOS MUNDOS — LIBRO II**.
+
+Todas sus páginas estaban en blanco excepto la primera.
+
+Michelle reconoció la letra de Micaela.
+
+**El primer libro trataba sobre la familia que intentó escribirlos.**
+
+Debajo, otra caligrafía había añadido:
+
+**El segundo trata sobre la familia que los leyó.**
+
+Méndez comparó aquella escritura con las cartas del abuelo, las notas de Clara y los mensajes de Esteban. No pertenecía a ninguno.
+
+Gigi se acercó sin tocar el libro.
+
+—Esa letra se parece a la de las imágenes escondidas en el juego.
+
+Entre las páginas encontraron un sobre pegado al interior de la cubierta. Contenía una fecha —el día siguiente— y una ubicación: el colegio de Gigi.
+
+Michelle tomó el teléfono para llamar a Irene. Antes de que pudiera marcar, recibió una videollamada desde su propio número.
+
+En la pantalla apareció una mujer sentada bajo un árbol cubierto de cintas negras. Tenía el rostro de la fotografía antigua, envejecido, y los mismos ojos de Michelle.
+
+Micaela no estaba sola.
+
+A su lado había una niña de espaldas.
+
+Llevaba el uniforme del colegio de Gigi y sostenía un ejemplar del segundo libro. Irene comprobaría después que era una actriz grabada frente a una pantalla verde; el objetivo no era reemplazar a Gigi, sino demostrar que alguien conocía su rutina escolar.
+
+—No vayan mañana —advirtió Micaela—. La persona que ocupa LECTOR_01 ya está dentro de su familia.
+
+La cámara giró hacia la niña.
+
+Antes de mostrar su rostro, la transmisión se cortó.
+
+En el apartamento se apagaron todas las luces.
+
+Méndez encendió la linterna de su teléfono. En la última página descubrieron una fotografía tomada esa misma tarde en el estudio de Michelle. Mostraba a Esteban entregándole una carpeta a una persona cuyo rostro quedaba fuera del encuadre.
+
+Debajo había una frase impresa:
+
+**Gigi nunca fue la llave. Fue la testigo que aprendió a reconocer nuestras mentiras.**
+
+Desde el pasillo llegó el sonido de la puerta del ascensor. Irene llamó para advertirles que nadie debía subir: un empleado del colegio de Gigi acababa de ser detenido con fotografías de la familia y pagos de La Biblioteca.
+
+Los tres estaban juntos en la cocina. Méndez comprobó la cerradura mientras Michelle alejaba a Gigi de la entrada.
+
+Un sobre se deslizó por debajo de la puerta.
+
+No contenía amenazas ni imágenes imposibles. Contenía una lista de seis personas cercanas a ellos: Elena, Esteban, el tío, la abuela, Irene y Varela.
+
+Uno de los nombres estaba marcado con tinta roja.
+
+Antes de que pudieran verlo, las luces regresaron y el sistema contra incendios empapó el papel. La tinta se corrió hasta volver ilegible la marca.
+
+El teléfono de Michelle recibió un último mensaje de Micaela:
+
+**El segundo libro comienza cuando descubran cuál de las personas sentadas a su mesa trabaja para nosotros.**
+
+No había dobles, profecías ni voces llegadas del futuro.
+
+Solo una traición humana escondida dentro de la familia que acababan de elegir.
+
+**FIN DEL LIBRO I**
 
